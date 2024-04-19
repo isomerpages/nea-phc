@@ -4,12 +4,12 @@ title: Public Hygiene Council (PHC) Singapore | Staging
 description: Staging Site of Public Hygiene Council (PHC)
 image: /images/_system/logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Notification ba
 sections:
   - hero:
       title: Hero title
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/Home/banner_home.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -22,6 +22,9 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      variant: floating
+      backgroundColor: gray
+      alignment: right
   - infobar:
       title: Infobar title
       subtitle: Subtitle
