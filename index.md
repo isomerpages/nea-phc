@@ -2,7 +2,7 @@
 layout: homepage
 title: Public Hygiene Council (PHC) Singapore | Staging
 description: Staging Site of Public Hygiene Council (PHC)
-image: /images/_system/logo.jpg
+image: /images/Templates/logo.jpg
 permalink: /
 notification: Notification banner
 sections:
