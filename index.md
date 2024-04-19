@@ -29,4 +29,34 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/hero-banner.png
+      alt: Image alt text
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
