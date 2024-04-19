@@ -4,7 +4,7 @@ title: Public Hygiene Council (PHC) Singapore | Staging
 description: Staging Site of Public Hygiene Council (PHC)
 image: /images/_system/logo.jpg
 permalink: /
-notification: Notification banner
+notification: This is PHC Staging site
 sections:
   - hero:
       title: Hero title
@@ -26,12 +26,12 @@ sections:
   - infobar:
       title: Keep Singapore Clean
       subtitle: Public Hygiene Council
-      description: "A culture of personal hygiene and social responsibility to keep
-        Singapore clean. "
+      description: A culture of personal hygiene and social responsibility to keep
+        Singapore clean.
       button: Read more
       url: /faq/
   - infopic:
-      title: "Singapore, a clean city? "
+      title: Singapore, a clean city?
       subtitle: Interesting Reads
       id: infopic
       description: Time to come clean about that shiny image
