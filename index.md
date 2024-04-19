@@ -43,4 +43,17 @@ sections:
       title: Resources
       subtitle: Add a preview and link to your Resource Room
       id: resources
+  - infocols:
+      title: Info-columns
+      subtitle: Interesting Reads
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Infobox
+          description: For a green future, Singaporeans must learn to clean up after
+            themselves
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
 ---
