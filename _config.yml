@@ -1,6 +1,6 @@
 title: Public Hygiene Council (PHC) Singapore | Staging
 url: https://www.publichygienecouncil.sg
-favicon: /images/_system/favicon.png
+favicon: /images/Templates/favicon.png
 colors:
   primary-color: "#007cc2"
   secondary-color: "#97ca3d"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.dez9xeijhbrf3.amplifyapp.com
 prod: https://master.d30wuihz0un4ni.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/_system/logo.jpg
+shareicon: /images/Templates/logo.jpg
 is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
