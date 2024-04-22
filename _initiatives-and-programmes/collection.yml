@@ -2,4 +2,5 @@ collections:
   initiatives-and-programmes:
     output: true
     order:
+      - Initiatives.md
       - Bulky Waste to Wonder.md
