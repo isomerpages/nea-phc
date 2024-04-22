@@ -2,6 +2,7 @@ collections:
   initiatives-and-programmes:
     output: true
     order:
+      - Neighbourhood Toilets Community Group.md
       - KeepSGClean Supermons Story Writing Competition.md
       - Initiatives.md
       - Clean up at Beaches and Parks.md
