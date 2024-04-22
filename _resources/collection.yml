@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - News.md
       - PHC Page.md
       - Example Page.md
