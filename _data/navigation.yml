@@ -6,5 +6,14 @@ links:
     url: /example-page/
   - title: Example Folder
     collection: example-folder
-  - title: News
-    resource_room: true
+  - title: Resources
+    url: /resources
+    sublinks:
+      - title: News
+        url: /resources/news
+      - title: Interesting Reads
+        url: /resources/interesting-reads
+      - title: Media
+        url: /resources/media
+      - title: PH Times Newsletter
+        url: /resources/ph-times-newsletter
