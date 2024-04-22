@@ -7,7 +7,7 @@ links:
   - title: Example Folder
     collection: example-folder
   - title: Resources
-    url: /resources/cleanpod
+    url: /resources/overview
     sublinks:
       - title: CleanPod
         url: /resources/cleanpod
