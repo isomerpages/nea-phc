@@ -1,0 +1,4 @@
+collections:
+  initiatives-and-programmes:
+    output: true
+    order: []
