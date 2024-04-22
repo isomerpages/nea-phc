@@ -30,6 +30,11 @@ sections:
         Singapore clean.
       button: Read more
       url: /faq/
+  - resources:
+      title: News
+      subtitle: you might have missed
+      id: resources
+      button: View all
   - infopic:
       title: Singapore, a clean city?
       subtitle: Interesting Reads
@@ -39,21 +44,12 @@ sections:
       image: /images/hero-banner.png
       alt: Image alt text
       url: https://www.publichygienecouncil.sg/interesting-reads/2024/02/07/singapore-a-clean-city-time-to-come-clean-about-that-shiny-image
-  - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
-  - infocols:
-      title: Info-columns
-      subtitle: Interesting Reads
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Infobox
-          description: For a green future, Singaporeans must learn to clean up after
-            themselves
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
+  - infopic:
+      title: Videos
+      id: infopic
+      description: Lorem Ipsum
+      button: View all Videos
+      url: /
+      image: /images/hero-banner.png
+      alt: Image alt text
 ---
