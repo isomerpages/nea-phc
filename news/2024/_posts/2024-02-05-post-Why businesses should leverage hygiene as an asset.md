@@ -129,6 +129,6 @@ in coming up with more ideas that can utilise cleanliness and hygiene to
 help businesses grow. If you’re a business interested in finding out more
 about how your company can benefit from a clean environment, do contact
 the PHC today.</p>
-<p><strong>Andrew Khng<br>Chairman, Public Hygiene Council</strong>
+<p><strong>Andrew Khng<br>Chairman, Public Hygiene Council</strong> 
 <br>
 </p>
