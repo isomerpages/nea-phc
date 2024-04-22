@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Videos.md
       - Overview.md
       - News.md
       - Example Page.md
