@@ -13,12 +13,12 @@ links:
     sublinks:
       - title: CleanPod
         url: /resources/cleanpod
-      - title: News
-        url: /resource-room/news
       - title: Interesting Reads
         url: /resource-room/interesting-reads
       - title: Media
         url: /resource-room/media
+      - title: News
+        url: /resource-room/news
       - title: PH Times Newsletter
         url: /resource-room/ph-times-newsletter
       - title: Videos
