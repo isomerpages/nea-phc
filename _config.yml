@@ -10,11 +10,11 @@ colors:
     - title: media-color-two
       color: "#49759a"
     - title: media-color-three
-      color: "#515151"
+      color: "#007cc2"
     - title: media-color-four
       color: "#9f9f9f"
     - title: media-color-five
-      color: "#cbcbcb"
+      color: "#07abde"
 description: Staging Site of Public Hygiene Council (PHC)
 permalink: none
 baseurl: ""
