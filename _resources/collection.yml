@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - News.md
-      - PHC Page.md
+      - Overview.md
       - Example Page.md
