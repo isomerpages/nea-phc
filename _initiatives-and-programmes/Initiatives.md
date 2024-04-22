@@ -4,3 +4,4 @@ permalink: /initiatives/
 variant: tiptap
 description: ""
 ---
+<p></p>
