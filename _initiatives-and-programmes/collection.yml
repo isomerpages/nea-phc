@@ -2,5 +2,6 @@ collections:
   initiatives-and-programmes:
     output: true
     order:
+      - Clean up at Beaches and Parks.md
       - Initiatives.md
       - Bulky Waste to Wonder.md
