@@ -68,7 +68,7 @@ this&nbsp;<a href="https://www.publichygienecouncil.sg/resources" rel="noopener 
 <summary><strong>How do I communicate with PHC if I have other queries?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>You can email us at&nbsp;<a href="mailto:publichygienecouncil.sg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">ask@publichygienecouncil.sg</a>
+<p>You can email us at&nbsp;<a href="mailto:ask@publichygienecouncil.sg" rel="noopener noreferrer nofollow" target="_blank">ask@publichygienecouncil.sg</a>
 </p>
 </div>
 </details>
