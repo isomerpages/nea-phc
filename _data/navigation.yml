@@ -24,4 +24,7 @@ links:
       - title: Videos
         url: /resources/videos
   - title: Contact & FAQ
-    collection: contact
+    url: /contact-us/
+    sublinks:
+      - title: FAQ
+        url: /faq
