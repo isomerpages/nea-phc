@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: Public Hygiene Council
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
+      - 40 Scotts Road
+      - "Environment Building #17-00 "
+      - Singapore 228231
     operating_hours: []
     maps_link: ""
     title: Main Office
