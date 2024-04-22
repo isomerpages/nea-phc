@@ -1,13 +1,13 @@
 logo: /images/Templates/logo.jpg
 links:
   - title: About Us
-    url: /contact-us/
+    url: /about/
   - title: Keep Singapore Clean
-    url: /example-page/
+    url: /ksc/
   - title: Year of Public Hygiene
-    url: /permalink
+    url: /yoph/
   - title: Initiatives & Programmes
-    url: /permalink
+    url: /initiatives/
   - title: Resources
     url: /resources/overview
     sublinks:
