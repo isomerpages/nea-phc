@@ -30,11 +30,6 @@ sections:
         Singapore clean.
       button: Read more
       url: /faq/
-  - resources:
-      title: News
-      subtitle: you might have missed
-      id: resources
-      button: View all
   - infopic:
       title: Singapore, a clean city?
       subtitle: Interesting Reads
@@ -52,4 +47,8 @@ sections:
       url: /
       image: /images/hero-banner.png
       alt: Image alt text
+  - resources:
+      title: Resources
+      id: resources
+      button: View all
 ---
