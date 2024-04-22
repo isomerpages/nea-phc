@@ -13,10 +13,10 @@ sections:
       key_highlights:
         - title: News
           description: ""
-          url: https://google.com
+          url: /resource-room/news
         - title: Interesting reads
           description: ""
-          url: https://gmail.com
+          url: /resource-room/interesting-reads
         - title: Videos
           description: ""
           url: /privacy/
