@@ -1,11 +1,13 @@
 logo: /images/Templates/logo.jpg
 links:
-  - title: Contact Us
+  - title: About Us
     url: /contact-us/
-  - title: Example Page
+  - title: Keep Singapore Clean
     url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Year of Public Hygiene
+    url: /permalink
+  - title: Initiatives & Programmes
+    url: /permalink
   - title: Resources
     url: /resources/overview
     sublinks:
@@ -21,3 +23,5 @@ links:
         url: /resources/ph-times-newsletter
       - title: Videos
         url: /resources/videos
+  - title: Contact & FAQ
+    collection: resources
