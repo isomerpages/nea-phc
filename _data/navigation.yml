@@ -7,13 +7,17 @@ links:
   - title: Example Folder
     collection: example-folder
   - title: Resources
-    url: /resources
+    url: /resources/cleanpod
     sublinks:
+      - title: CleanPod
+        url: /resources/cleanpod
       - title: News
-        url: /resources/news
+        url: /news
       - title: Interesting Reads
         url: /resources/interesting-reads
       - title: Media
         url: /resources/media
       - title: PH Times Newsletter
         url: /resources/ph-times-newsletter
+      - title: Videos
+        url: /resources/videos
