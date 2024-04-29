@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Videos/.keep
       - Overview.md
       - CleanPod.md
       - Videos.md
