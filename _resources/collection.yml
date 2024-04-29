@@ -2,9 +2,9 @@ collections:
   resources:
     output: true
     order:
+      - Overview.md
+      - CleanPod.md
       - Videos/.keep
       - Videos/Campaign Videos.md
       - Videos/Educational Videos.md
-      - Overview.md
-      - CleanPod.md
       - Example Page.md
