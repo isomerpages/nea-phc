@@ -4,6 +4,7 @@ collections:
     order:
       - Overview.md
       - CleanPod.md
+      - Videos/Event Videos.md
       - Videos/.keep
       - Videos/Campaign Videos.md
       - Videos/Educational Videos.md
