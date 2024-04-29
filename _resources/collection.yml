@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Videos/.keep
-      - Videos/Videos.md
+      - Videos/Campaign Videos.md
       - Videos/Educational Videos.md
       - Overview.md
       - CleanPod.md
