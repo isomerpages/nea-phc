@@ -371,18 +371,15 @@ to enable greater participation and effectiveness.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/restroom_association_sg_tmb_thumbnail.png">
 </div>
-<p>
-<br>
-<br><a href="https://toilet.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Restroom Association (Singapore)</a>
+<p><a href="https://toilet.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Restroom Association (Singapore)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="Seastainable Co." alt="Sample Horizontal png" src="https://www.publichygienecouncil.sg/images/default-source/default-album/sample-horizontal-pngc99b30364ae346d8a41f4d19a7c22ac7.tmb-thumbnail.png?Culture=en&amp;sfvrsn=ce787629_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/sample_horizontal_png_tmb_thumbnail.png">
 </div>
 <p>
 <br>
@@ -399,7 +396,7 @@ to enable greater participation and effectiveness.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="Seven Clean Seas" alt="seven clean seas" src="https://www.publichygienecouncil.sg/images/default-source/logos/seven-clean-seas-(environmental).tmb-thumbnail.jpg?Culture=en&amp;sfvrsn=9229d550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/seven_clean_seas__environmental__tmb_thumbnail.jpg">
 </div>
 <p>
 <br>
@@ -410,16 +407,16 @@ to enable greater participation and effectiveness.</p>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="SG Beach Warriors Logo" alt="SG Beach Warriors Logo" src="https://www.publichygienecouncil.sg/images/default-source/default-album/sg-beach-warriors-logo.tmb-thumbnail.jpg?Culture=en&amp;sfvrsn=a16c2ea_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/sg_beach_warriors_logo_tmb_thumbnail.jpg">
 </div>
 <p>
-<br>
 <br><a href="https://www.facebook.com/groups/sgbeachwarriors/" rel="noopener noreferrer nofollow" target="_blank">SG Beach Warriors</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="Shinnyo-en Singapore" alt="Shinnyo-en Singapore logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/shinnyo01.tmb-thumbnail.jpeg?Culture=en&amp;sfvrsn=960fd550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/shinnyo_en_singapore_tmb_thumbnail.jpg">
 </div>
 <p>
 <br>
@@ -427,18 +424,19 @@ to enable greater participation and effectiveness.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="SCIC" alt="SCIC" src="https://www.publichygienecouncil.sg/images/default-source/default-album/scice34596c063b54a648fe328005186b4e2.tmb-thumbnail.png?Culture=en&amp;sfvrsn=a8f0dc46_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/scice34596c063b54a648fe328005186b4e2_tmb_thumbnail.png">
 </div>
 <p>
-<br>
 <br><a href="https://www.scic.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Chemical Industry Council</a> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="Singapore Glove Project" alt="Singapore Glove Project logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/singapore-glove-project.tmb-thumbnail.png?Culture=en&amp;sfvrsn=40fcd550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/singapore_glove_project_logo_tmb_thumbnail.png">
 </div>
 <p><a href="https://bit.ly/SG_Glove_Project" rel="noopener noreferrer nofollow" target="_blank">Singapore Glove Project</a> 
 <br>
@@ -447,6 +445,10 @@ to enable greater participation and effectiveness.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/singapore_kindness_movement_logo_tmb_thumbnail.png">
+</div>
 <p>
 <br>
 <br><a href="https://www.kindness.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Kindness Movement</a> 
@@ -457,6 +459,11 @@ to enable greater participation and effectiveness.</p>
 <td rowspan="1" colspan="1">
 <p>
 <br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/the_singapore_scout_association_logo_tmb_thumbnail.png">
+</div>
+<p>
 <br><a href="http://www.scout.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Scout Association</a> 
 <br>
 </p>
@@ -464,11 +471,20 @@ to enable greater participation and effectiveness.</p>
 <td rowspan="1" colspan="1">
 <p>
 <br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/sc_tmb_thumbnail.png">
+</div>
+<p>
 <br><a href="https://www.sc.com/sg/" rel="noopener noreferrer nofollow" target="_blank">Standard Chartered Singapore</a> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/stridy_mainmark_black_tmb_thumbnail.png">
+</div>
 <p>
 <br>
 <br><a href="http://www.stridy.com/" rel="noopener noreferrer nofollow" target="_blank">Stridy</a> 
@@ -480,6 +496,11 @@ to enable greater participation and effectiveness.</p>
 <td rowspan="1" colspan="1">
 <p>
 <br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/sutd_greenprint_tmb_thumbnail.png">
+</div>
+<p>
 <br><a href="https://greenprint.opensutd.org/index.html" rel="noopener noreferrer" target="_blank">SUTD Greenprint</a> 
 <br>
 </p>
@@ -487,7 +508,11 @@ to enable greater participation and effectiveness.</p>
 <td rowspan="1" colspan="1">
 <p>
 <br>
-<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/temasek_polytechnic_green_interest_group_logo_tmb_thumbnail.png">
+</div>
+<p>
 <br><a href="https://www.instagram.com/tpgig" rel="noopener noreferrer nofollow" target="_blank">Temasek Polytechnic Green Interest Group</a> 
 <br>
 </p>
@@ -495,6 +520,11 @@ to enable greater participation and effectiveness.</p>
 <td rowspan="1" colspan="1">
 <p>
 <br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/trash_hero_singapore_logo_tmb_thumbnail.png">
+</div>
+<p>
 <br><a href="https://www.facebook.com/TrashHeroSingapore" rel="noopener noreferrer nofollow" target="_blank">Trash Hero Singapore</a> 
 <br>
 </p>
@@ -502,6 +532,11 @@ to enable greater participation and effectiveness.</p>
 <td rowspan="1" colspan="1">
 <p>
 <br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/tzu_chi_foundation_sg_tmb_thumbnail.png">
+</div>
+<p>
 <br><a href="https://www.tzuchi.org.sg/en" rel="noopener noreferrer nofollow" target="_blank">Tzu Chi Foundation (Singapore)</a> 
 <br>&nbsp;
 <br>
@@ -510,8 +545,9 @@ to enable greater participation and effectiveness.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="WWS" alt="Waterways Watch Society logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/waterways-watch-society.tmb-thumbnail.png?Culture=en&amp;sfvrsn=30fcd550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/waterways_watch_society_logo_tmb_thumbnail.png">
 </div>
 <p>
 <br>
@@ -519,8 +555,9 @@ to enable greater participation and effectiveness.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="Youth Corps Singapore" alt="Youth Corps Singapore" src="https://www.publichygienecouncil.sg/images/default-source/logos/youth-corps-singapore-(public-agency).tmb-thumbnail.png?Culture=en&amp;sfvrsn=9629d550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/youth_corps_singapore__public_agency__tmb_thumbnail.png">
 </div>
 <p>
 <br>
@@ -528,8 +565,9 @@ to enable greater participation and effectiveness.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="Zeo Waste SG" alt="Zero Waste SG" src="https://www.publichygienecouncil.sg/images/default-source/default-album/zero-waste-sg-logo.tmb-thumbnail.png?Culture=en&amp;sfvrsn=d854d550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/zeo_waste_sg_tmb_thumbnail.png">
 </div>
 <p>
 <br>
