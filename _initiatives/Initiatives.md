@@ -8,7 +8,7 @@ description: ""
 the Keep Singapore Clean Movement:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/initiatives/bwtw" rel="noopener noreferrer nofollow" target="_blank">Bulky Waste to Wonder</a>
+<p><a href="https://www.publichygienecouncil.sg/initiatives/bwtw" rel="noopener noreferrer nofollow" target="_blank">Bulky Waste to Wonder</a>
 </p>
 </li>
 <li>
