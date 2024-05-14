@@ -204,8 +204,9 @@ to enable greater participation and effectiveness.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="J.O.E. Eco Alliance" alt="Just One Earth Eco Alliance logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/just-one-earth-eco-alliance-joe-eco-alliance.tmb-thumbnail.png?Culture=en&amp;sfvrsn=f0ed550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/just_one_earth_eco_alliance_tmb_thumbnail.png">
 </div>
 <p>
 <br>
@@ -213,24 +214,27 @@ to enable greater participation and effectiveness.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="Kindred Community" alt="Kindred Community logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/kindred-community.tmb-thumbnail.png?Culture=en&amp;sfvrsn=1dfdd550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/kindred_community_logo_tmb_thumbnail.png">
 </div>
 <p>
 <br>
 <br><a href="https://kindred.sg/" rel="noopener noreferrer nofollow" target="_blank">Kindred Community</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="Lions Club of Singapore (Mandarin)" alt="Lions Club of Singapore Mandarin logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/lions-club-of-singapore.tmb-thumbnail.png?Culture=en&amp;sfvrsn=24fdd550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/lions_club_of_singapore_mandarin_logo_tmb_thumbnail.png">
 </div>
 <p><a href="https://www.facebook.com/lcs.mandarin.1982/" rel="noopener noreferrer nofollow" target="_blank"><br></a> 
 <br><a href="https://www.facebook.com/lcs.mandarin.1982/" rel="noopener noreferrer nofollow" target="_blank">Lions Club of Singapore Mandarin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="Little Green Men" alt="Little Green Men logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/little-green-men.tmb-thumbnail.png?Culture=en&amp;sfvrsn=cafdd550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/little_green_men_tmb_thumbnail.png">
 </div>
 <p>
 <br>
@@ -240,8 +244,9 @@ to enable greater participation and effectiveness.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="NEA" alt="National Environment Agency logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/nea-logo-full-colour.tmb-thumbnail.png?Culture=en&amp;sfvrsn=eefdd550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/national_environment_agency_logo_tmb_thumbnail.png">
 </div>
 <p>
 <br>
@@ -249,8 +254,9 @@ to enable greater participation and effectiveness.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="NParks" alt="National Parks Board logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/national-parks-board.tmb-thumbnail.png?Culture=en&amp;sfvrsn=f0fdd550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/national_parks_board_logo_tmb_thumbnail.png">
 </div>
 <p>
 <br>
@@ -260,16 +266,18 @@ to enable greater participation and effectiveness.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="Nature Society (Singapore)" alt="Nature Society Singapore logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/nature-society-singapore.tmb-thumbnail.jpeg?Culture=en&amp;sfvrsn=780ed550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/nature_society_singapore_tmb_thumbnail.jpg">
 </div>
 <p>
 <br>
 <br><a href="https://www.nss.org.sg/" rel="noopener noreferrer" target="_blank">Nature Society (Singapore)</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="NYP GEO Council" alt="Nanyang Polytechnic GEO Council logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/geo-council-nyp.tmb-thumbnail.png?Culture=en&amp;sfvrsn=d8fdd550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/nanyang_polytechnic_geo_council_logo_tmb_thumbnail.png">
 </div>
 <p>
 <br>
@@ -280,7 +288,7 @@ to enable greater participation and effectiveness.</p>
 <td rowspan="1" colspan="1">
 <p>&nbsp; &nbsp; &nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="NUS SAVE" alt="NUS SAVE logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/nus-save-transparent-background.tmb-thumbnail.png?Culture=en&amp;sfvrsn=570ed550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/nus_save_transparent_background_tmb_thumbnail.png">
 </div>
 <p>
 <br>
@@ -288,19 +296,20 @@ to enable greater participation and effectiveness.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="One Planet (Singapore)" alt="One Planet (Singapore)" src="https://www.publichygienecouncil.sg/images/default-source/default-album/one-planet-sg-logo.tmb-thumbnail.png?Culture=en&amp;sfvrsn=1654d550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/one_planet__singapore__tmb_thumbnail.png">
 </div>
 <p>
 <br>
 <br><a href="https://www.facebook.com/groups/939651983034264/" rel="noopener noreferrer nofollow" target="_blank">One Planet (Singapore)</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="Our Singapore Reefs" alt="Our Singapore Reefs logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/our-singapore-reefs.tmb-thumbnail.png?Culture=en&amp;sfvrsn=86fdd550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/our_singapore_reefs_logo_tmb_thumbnail.png">
 </div>
 <p>
-<br>
 <br>
 <br><a href="https://www.instagram.com/oursingaporereefs/" rel="noopener noreferrer nofollow" target="_blank">Our Singapore Reefs</a>
 </p>
