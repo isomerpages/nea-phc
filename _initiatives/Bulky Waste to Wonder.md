@@ -201,7 +201,6 @@ able to provide a second life and further enhance the final product</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3>Prizes</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -325,5 +324,4 @@ the rules and regulations, and to the works created in the actual event
 including the liberty to handle the works as it deems fit.</p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <p>For further enquiries, please contact&nbsp;<a href="mailto:ask@publichygienecouncil.sg" rel="noopener noreferrer nofollow" target="_blank">ask@publichygienecouncil.sg</a>.</p>
