@@ -2,4 +2,5 @@ collections:
   year-of-public-hygiene:
     output: true
     order:
+      - Exemplary Educators.md
       - Year of Public Hygiene.md
