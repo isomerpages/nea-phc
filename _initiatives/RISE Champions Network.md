@@ -315,8 +315,9 @@ to enable greater participation and effectiveness.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="PA Passion Wave" alt="PA Passion Wave" src="https://www.publichygienecouncil.sg/images/default-source/logos/pa-passion-wave-logo-(public-agency).tmb-thumbnail.png?Culture=en&amp;sfvrsn=9e29d550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/pa_passion_wave_logo__public_agency__tmb_thumbnail.png">
 </div>
 <p>
 <br>
@@ -327,24 +328,27 @@ to enable greater participation and effectiveness.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="Partior with Black Background (11 × 3 in)" alt="Partior with Black Background (11 × 3 in)" src="https://www.publichygienecouncil.sg/images/default-source/default-album/partior-with-black-background-(11-3-in).tmb-thumbnail.png?Culture=en&amp;sfvrsn=ab0a7221_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/partior_with_black_background__11_3_in__tmb_thumbnail.png">
 </div>
 <p>
 <br>
 <br><a href="https://www.partior.com/" rel="noopener noreferrer nofollow" target="_blank">Partior</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="Plasticlite" alt="Plasticlite" src="https://www.publichygienecouncil.sg/images/default-source/default-album/plasticlite.tmb-thumbnail.jpg?Culture=en&amp;sfvrsn=dca4c9f8_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/plasticlite_tmb_thumbnail.jpg">
 </div>
 <p>
 <br><a href="https://www.instagram.com/plasticlitesg/" rel="noopener noreferrer nofollow" target="_blank">Plastic-Lite Singapore</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="Pulau Ubin Cleanup logo" alt="Pulau Ubin Cleanup logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/puc_logo.tmb-thumbnail.png?Culture=en&amp;sfvrsn=a40fd550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/pulau_ubin_cleanup_tmb_thumbnail.png">
 </div>
 <p>
 <br>
@@ -353,8 +357,9 @@ to enable greater participation and effectiveness.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="RP Conservation Interest Group" alt="Republic Poly Conservation Interest Group logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/republic-polytechnic-conservation-interest-group-logo.tmb-thumbnail.png?Culture=en&amp;sfvrsn=94fdd550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/republic_polytechnic_conservation_interest_group_logo_tmb_thumbnail.png">
 </div>
 <p>
 <br>
@@ -366,9 +371,9 @@ to enable greater participation and effectiveness.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="RAS" alt="Restroom Association SG logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/restroom-association-sg.tmb-thumbnail.png?Culture=en&amp;sfvrsn=bafdd550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/restroom_association_sg_tmb_thumbnail.png">
 </div>
 <p>
 <br>
