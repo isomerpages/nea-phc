@@ -2,5 +2,6 @@ collections:
   contact:
     output: true
     order:
+      - Terms of Use.md
       - Contact.md
       - faq.md
