@@ -2,6 +2,7 @@ collections:
   initiatives:
     output: true
     order:
+      - Sustainable Bright Spot.md
       - RISE Champions Network.md
       - Quarterly SG Clean Day.md
       - Pledge to Clean It Forward.md
