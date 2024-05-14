@@ -9,12 +9,12 @@ description: ""
         <tr>
             <td style="text-align: center;">
             <p>
-            <a href="https://asez.org/"></a><a href="https://wmscog.com/asez/"></a><a href="https://asez.org"><img title="ASEZ" alt="ASEZ logo" src="/images/Initiatives/Rise/national_environment_agency_logo_tmb_thumbnail"></a><br>
+            <a href="https://asez.org/"></a><a href="https://wmscog.com/asez/"></a><a href="https://asez.org"><img title="ASEZ" alt="ASEZ logo" src="/images/Initiatives/Rise/asez_logo_tmb_thumbnail.png"></a><br>
             <br>
             <a href="https://asez.org">ASEZ</a></p>
             </td>
             <td style="text-align: center;">
-            <p><a href="https://www.blossomworld.sg/"><img title="Blossom World Society" alt="Blossom World Society logo" data-displaymode="Thumbnail" src="/images/Initiatives/Rise/blossom-world-singapore-logo.tmb-thumbnail.png"></a><br>
+            <p><a href="https://www.blossomworld.sg/"><img title="Blossom World Society" alt="Blossom World Society logo" data-displaymode="Thumbnail" src="/images/Initiatives/Rise/blossom_world_singapore_logo_tmb_thumbnail.png"></a><br>
             <br>
             <a href="https://www.blossomworld.sg/">Blossom World Society -<br>
             Project C.P.R.</a></p>
