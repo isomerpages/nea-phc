@@ -77,11 +77,9 @@ to enable greater participation and effectiveness.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/asez_logo_tmb_thumbnail.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/asez_logo_tmb_thumbnail.png">
 </div>
 <p>
 <br><a href="https://asez.org/" rel="noopener noreferrer nofollow" target="_blank">ASEZ</a>
@@ -110,7 +108,7 @@ to enable greater participation and effectiveness.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/eco_sim_tmb_thumbnail.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/eco_sim_tmb_thumbnail.png">
 </div>
 <p>
 <br>
@@ -131,10 +129,6 @@ to enable greater participation and effectiveness.</p>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="Green Nudge" alt="Green Nudge logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/green-nudge.tmb-thumbnail.jpg?Culture=en&amp;sfvrsn=50d5d550_4">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/green_nudge_2d98410b_b3c5_43b2_a7ad_a9735e540197_tmb_thumbnail.jpg">
 </div>
 <p>
@@ -143,8 +137,11 @@ to enable greater participation and effectiveness.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="Guardians of Mother Earth" alt="Guardians of Mother Earth logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/guardians-of-mother-earth.tmb-thumbnail.png?Culture=en&amp;sfvrsn=51fdd550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/guardians_of_mother_earth_logo_tmb_thumbnail.png">
 </div>
 <p>
 <br>
@@ -153,7 +150,7 @@ to enable greater participation and effectiveness.</p>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="Habitat for Humanity Singapore" alt="Habitat for Humanity Singapore logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/habitat-for-humanity-singapore.tmb-thumbnail.png?Culture=en&amp;sfvrsn=7bfdd550_1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/habitat_for_humanity_singapore_logo_tmb_thumbnail.png">
 </div>
 <p>
 <br>
@@ -165,24 +162,41 @@ to enable greater participation and effectiveness.</p>
 <td rowspan="1" colspan="1">
 <p>
 <br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/hewlett_packard_enterprise_tmb_thumbnail.png">
+</div>
+<p>
 <br><a href="https://www.hpe.com/sg/en/home.html" rel="noopener noreferrer" target="_blank">Hewlett Packard Enterprise</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
 <br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/hilti_sg_tmb_thumbnail.png">
+</div>
+<p>
+<br>
 <br><a href="http://www.hilti.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Hilti Singapore</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/international_coastal_cleanup_singapore_logo_tmb_thumbnail.png">
+</div>
 <p>
-<br>&nbsp;
 <br><a href="http://coastalcleanup.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">International Coastal Cleanup Singapore</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/ipp_tmb_thumbnail.jpg">
+</div>
 <p>
-<br>
 <br><a href="https://www.ippfa.com/" rel="noopener noreferrer nofollow" target="_blank">IPP Financial Advisers Pte Ltd</a>
 </p>
 </td>
