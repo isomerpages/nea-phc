@@ -2,6 +2,7 @@ collections:
   initiatives:
     output: true
     order:
+      - Neighbourhood Toilets Community Group.md
       - KeepSGClean Supermons Story Writing Competition.md
       - Cleanup at Beaches and Parks.md
       - Bulky Waste to Wonder.md
