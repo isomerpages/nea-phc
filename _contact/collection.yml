@@ -2,4 +2,5 @@ collections:
   contact:
     output: true
     order:
+      - Contact.md
       - faq.md
