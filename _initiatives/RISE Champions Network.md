@@ -64,9 +64,6 @@ to enable greater participation and effectiveness.</p>
 </table>
 <p>For more information, visit <a href="https://rise-network.sg/" rel="noopener noreferrer nofollow" target="_blank">R.I.S.E. website</a>.</p>
 <h3>Members of the R.I.S.E. Champions Network:</h3>
-<p>
-<br>
-</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -225,7 +222,7 @@ to enable greater participation and effectiveness.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/lions_club_of_singapore_mandarin_logo_tmb_thumbnail.png">
 </div>
 <p><a href="https://www.facebook.com/lcs.mandarin.1982/" rel="noopener noreferrer nofollow" target="_blank"><br></a> 
-<br><a href="https://www.facebook.com/lcs.mandarin.1982/" rel="noopener noreferrer nofollow" target="_blank">Lions Club of Singapore Mandarin</a>
+<a href="https://www.facebook.com/lcs.mandarin.1982/" rel="noopener noreferrer nofollow" target="_blank">Lions Club of Singapore Mandarin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
