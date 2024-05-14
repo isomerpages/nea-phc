@@ -2,6 +2,7 @@ collections:
   initiatives:
     output: true
     order:
+      - Quarterly SG Clean Day.md
       - Pledge to Clean It Forward.md
       - Neighbourhood Toilets Community Group.md
       - KeepSGClean Supermons Story Writing Competition.md
