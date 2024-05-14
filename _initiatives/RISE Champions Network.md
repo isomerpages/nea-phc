@@ -124,15 +124,18 @@ to enable greater participation and effectiveness.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="Green &amp; Clean Volunteers Group" alt="Green &amp; Clean Volunteers Group logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/greenncleanmm.tmb-thumbnail.png?Culture=en&amp;sfvrsn=ebfad550_1">
 </div>
-<p>
-<br>
-<br><a href="https://www.facebook.com/greenncleanmm" rel="noopener noreferrer nofollow" target="_blank">Green &amp; Clean Volunteers Group</a>
+<p></p>
+<p><a href="https://www.facebook.com/greenncleanmm" rel="noopener noreferrer nofollow" target="_blank">Green &amp; Clean Volunteers Group</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="Green Nudge" alt="Green Nudge logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/green-nudge.tmb-thumbnail.jpg?Culture=en&amp;sfvrsn=50d5d550_4">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/green_nudge_2d98410b_b3c5_43b2_a7ad_a9735e540197_tmb_thumbnail.jpg">
 </div>
 <p>
 <br>
@@ -207,7 +210,7 @@ to enable greater participation and effectiveness.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="Lions Club of Singapore (Mandarin)" alt="Lions Club of Singapore Mandarin logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/lions-club-of-singapore.tmb-thumbnail.png?Culture=en&amp;sfvrsn=24fdd550_1">
 </div>
-<p><a href="https://www.facebook.com/lcs.mandarin.1982/" rel="noopener noreferrer nofollow" target="_blank"><br></a>
+<p><a href="https://www.facebook.com/lcs.mandarin.1982/" rel="noopener noreferrer nofollow" target="_blank"><br></a> 
 <br><a href="https://www.facebook.com/lcs.mandarin.1982/" rel="noopener noreferrer nofollow" target="_blank">Lions Club of Singapore Mandarin</a>
 </p>
 </td>
@@ -237,7 +240,7 @@ to enable greater participation and effectiveness.</p>
 </div>
 <p>
 <br>
-<br><a href="https://www.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Parks Board</a>
+<br><a href="https://www.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Parks Board</a> 
 <br>
 <br>
 </p>
@@ -332,7 +335,7 @@ to enable greater participation and effectiveness.</p>
 </div>
 <p>
 <br>
-<br><a href="https://www.instagram.com/rp_green_conservancy/" rel="noopener noreferrer nofollow" target="_blank">Republic Polytechnic Conservation Interest Group</a>
+<br><a href="https://www.instagram.com/rp_green_conservancy/" rel="noopener noreferrer nofollow" target="_blank">Republic Polytechnic Conservation Interest Group</a> 
 <br>
 <br>
 </p>
@@ -401,7 +404,7 @@ to enable greater participation and effectiveness.</p>
 </div>
 <p>
 <br>
-<br><a href="https://www.scic.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Chemical Industry Council</a>
+<br><a href="https://www.scic.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Chemical Industry Council</a> 
 <br>
 </p>
 </td>
@@ -409,7 +412,7 @@ to enable greater participation and effectiveness.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; border: 0px; vertical-align: middle; height: auto; max-width: 100%;" height="auto" width="100%" title="Singapore Glove Project" alt="Singapore Glove Project logo" src="https://www.publichygienecouncil.sg/images/default-source/logos/singapore-glove-project.tmb-thumbnail.png?Culture=en&amp;sfvrsn=40fcd550_1">
 </div>
-<p><a href="https://bit.ly/SG_Glove_Project" rel="noopener noreferrer nofollow" target="_blank">Singapore Glove Project</a>
+<p><a href="https://bit.ly/SG_Glove_Project" rel="noopener noreferrer nofollow" target="_blank">Singapore Glove Project</a> 
 <br>
 </p>
 </td>
@@ -418,7 +421,7 @@ to enable greater participation and effectiveness.</p>
 <td rowspan="1" colspan="1">
 <p>
 <br>
-<br><a href="https://www.kindness.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Kindness Movement</a>
+<br><a href="https://www.kindness.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Kindness Movement</a> 
 <br>
 <br>
 </p>
@@ -426,21 +429,21 @@ to enable greater participation and effectiveness.</p>
 <td rowspan="1" colspan="1">
 <p>
 <br>
-<br><a href="http://www.scout.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Scout Association</a>
+<br><a href="http://www.scout.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Scout Association</a> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
 <br>
-<br><a href="https://www.sc.com/sg/" rel="noopener noreferrer nofollow" target="_blank">Standard Chartered Singapore</a>
+<br><a href="https://www.sc.com/sg/" rel="noopener noreferrer nofollow" target="_blank">Standard Chartered Singapore</a> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
 <br>
-<br><a href="http://www.stridy.com/" rel="noopener noreferrer nofollow" target="_blank">Stridy</a>
+<br><a href="http://www.stridy.com/" rel="noopener noreferrer nofollow" target="_blank">Stridy</a> 
 <br>
 </p>
 </td>
@@ -449,7 +452,7 @@ to enable greater participation and effectiveness.</p>
 <td rowspan="1" colspan="1">
 <p>
 <br>
-<br><a href="https://greenprint.opensutd.org/index.html" rel="noopener noreferrer" target="_blank">SUTD Greenprint</a>
+<br><a href="https://greenprint.opensutd.org/index.html" rel="noopener noreferrer" target="_blank">SUTD Greenprint</a> 
 <br>
 </p>
 </td>
@@ -457,21 +460,21 @@ to enable greater participation and effectiveness.</p>
 <p>
 <br>
 <br>
-<br><a href="https://www.instagram.com/tpgig" rel="noopener noreferrer nofollow" target="_blank">Temasek Polytechnic Green Interest Group</a>
+<br><a href="https://www.instagram.com/tpgig" rel="noopener noreferrer nofollow" target="_blank">Temasek Polytechnic Green Interest Group</a> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
 <br>
-<br><a href="https://www.facebook.com/TrashHeroSingapore" rel="noopener noreferrer nofollow" target="_blank">Trash Hero Singapore</a>
+<br><a href="https://www.facebook.com/TrashHeroSingapore" rel="noopener noreferrer nofollow" target="_blank">Trash Hero Singapore</a> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
 <br>
-<br><a href="https://www.tzuchi.org.sg/en" rel="noopener noreferrer nofollow" target="_blank">Tzu Chi Foundation (Singapore)</a>
+<br><a href="https://www.tzuchi.org.sg/en" rel="noopener noreferrer nofollow" target="_blank">Tzu Chi Foundation (Singapore)</a> 
 <br>&nbsp;
 <br>
 </p>
