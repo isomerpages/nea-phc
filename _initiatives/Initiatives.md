@@ -4,6 +4,7 @@ permalink: /initiatives/
 variant: markdown
 description: ""
 ---
+```
 <p>The PHC has the following initiatives in place to support and strengthen
 the Keep Singapore Clean Movement:&nbsp;</p>
 <ul data-tight="true" class="tight">
@@ -40,3 +41,4 @@ the Keep Singapore Clean Movement:&nbsp;</p>
 </li>
 </ul>
 <p></p>
+```
