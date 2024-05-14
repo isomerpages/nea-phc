@@ -1,4 +1,5 @@
 collections:
   initiatives:
     output: true
-    order: []
+    order:
+      - Initiatives.md
