@@ -1,4 +1,5 @@
 collections:
   year-of-public-hygiene:
     output: true
-    order: []
+    order:
+      - Year of Public Hygiene.md
