@@ -55,4 +55,84 @@ to upkeep good hygiene practices for the betterment of our society.</p>
 <p>The PHC will also launch the latest edition of the annual Keep Singapore
 Clean Campaign on 28 April this year to rally the community to collectively
 keep Singapore clean and green.</p>
+<hr>
+<h3>Details:</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.nea.gov.sg/media/news/news/nea-will-step-up-efforts-across-five-key-areas-in-designation-of-2024-as-the-year-of-public-hygiene" rel="noopener noreferrer nofollow" target="_blank">NEA Will Step Up Efforts Across Five Key Areas in Designation Of 2024 as the Year of Public Hygiene</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.mse.gov.sg/resource-room/category/2024-03-04-media-release-cos2024" rel="noopener noreferrer nofollow" target="_blank">Creating a Clean, Green and Resilient Shared Singapore</a>
+</p>
+</li>
+</ul>
+<p>Keep a lookout for more exciting activities planned in this Year of Public
+Hygiene:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>April: Launch of <a href="/KSC" rel="noopener noreferrer nofollow" target="_blank">Keep Singapore Clean Campaign</a>&nbsp;and&nbsp;<a href="/initiatives/sgcleanday" rel="noopener noreferrer nofollow" target="_blank">SG Clean Day</a>&nbsp;by
+the Public Hygiene Council</p>
+</li>
+<li>
+<p>June to July: 2<sup>nd</sup>&nbsp;edition of Go Green SG to focus on rallying
+the community to collectively keep Singapore clean</p>
+</li>
+<li>
+<p>November:&nbsp;<a href="https://www.cgs.gov.sg/cleanpublictoilets" rel="noopener noreferrer nofollow" target="_blank">Clean Public Toilets Campaign</a>&nbsp;and
+<a href="https://www.cgs.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Clean &amp; Green Singapore</a>&nbsp;Day</p>
+</li>
+</ul>
+<h4>How you can play a part</h4>
+<p>Whether you are an individual looking to give back or an organisation
+seeking to make an impact, there's a place for you to contribute and be
+part of our Year of Public Hygiene! Here are some community activities
+and initiatives to get you started:</p>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>For individuals&nbsp;</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/initiatives/beachcleanup" rel="noopener noreferrer nofollow" target="_blank">Clean-up at Beaches and Parks</a>
+</p>
+</li>
+<li>
+<p><a href="/initiatives/NTCG" rel="noopener noreferrer nofollow" target="_blank">Neighbourhood Toilets Community Group</a>
+</p>
+</li>
+<li>
+<p><a href="/initiatives/sustainable-bright-spot" rel="noopener noreferrer nofollow" target="_blank">Sustainable Bright Spot</a>
+</p>
+</li>
+<li>
+<p><a href="http://www.cgs.gov.sg/how-can-we-act/volunteer/home" rel="noopener noreferrer nofollow" target="_blank">NEA Volunteer Corps</a>
+</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;For organisations</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/initiatives/rise" rel="noopener noreferrer nofollow" target="_blank">R.I.S.E. Champions Network</a>
+</p>
+</li>
+<li>
+<p><a href="/initiatives/sgcleanday" rel="noopener noreferrer nofollow" target="_blank"><u>Quarterly SG Clean Day</u></a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
