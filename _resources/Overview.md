@@ -33,14 +33,14 @@ learn how to organise a clean-up in less than 120 seconds!</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <h3>Environmental Hygiene Checklist</h3>
 <p>Good hygiene practices should be continued to safeguard wider public health.
-The PHC have developed an&nbsp;<strong><a href="/files/Resources/phc_environmental_hygiene_checklist___jul_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Environmental Hygiene Checklist</a></strong>&nbsp;to
+The PHC have developed an&nbsp;<a href="/files/Resources/phc_environmental_hygiene_checklist___jul_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Environmental Hygiene Checklist</a>&nbsp;to
 guide businesses in practising good environmental hygiene routines. We
 encourage all premises operators to make use of this checklist to maintain
 good hygiene standards.&nbsp;</p>
 <h3>Create Cleaner Events Playbook</h3>
 <p>Events often generate litter and research has shown that people are more
 likely to improperly dispose of their trash when there is litter around.
-This&nbsp;<strong><a href="/files/Resources/create_cleaner_events_playbook.pdf" rel="noopener noreferrer nofollow" target="_blank">Create Cleaner Events Playbook</a></strong>&nbsp;is
+This&nbsp;<a href="/files/Resources/create_cleaner_events_playbook.pdf" rel="noopener noreferrer nofollow" target="_blank">Create Cleaner Events Playbook</a>&nbsp;is
 a guide to mitigating litter at mass events. This is a particularly helpful
 resource for event organisers to refer - Before, During and After events
 to successfully provide cleaner and more enjoyable experience for your
