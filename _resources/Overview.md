@@ -72,8 +72,7 @@ relevant information and educational materials collated from various sources,
 targeted at Pre-school, Primary and Secondary level. It serves as an essential
 handbook for the students, parents and teachers.</p>
 <p></p>
-<p><strong>Background</strong>
-</p>
+<h4>Background</h4>
 <p>The Keep Singapore Clean Movement (KSCM) in Schools is a student-driven
 and school-supported effort for students to take ownership of the cleanliness
 of their school and the environment. It was launched by the Ministry of
@@ -85,9 +84,7 @@ of keeping their school clean as well as to train them in the various skills
 (e.g. teamwork, communication) required for the cleaning activities. It
 is an environment-based Values-In-Action (VIA) programme targeting at the&nbsp;<strong>Primary 3 and 4 students</strong>,
 which schools can take up to fulfil the Character &amp; Citizenship curriculum.</p>
-<p>
-<br><strong>Buddy Clean Workshop</strong>
-</p>
+<h4>Buddy Clean Workshop</h4>
 <p>The Buddy Clean Workshop is based on NEA’s programme – Project Buddy Clean,
 which aims to inculcate positive social values and norms on cleanliness
 amongst students. The project leveraged peer influence and feedback to
