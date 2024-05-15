@@ -48,7 +48,7 @@ participants.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Educational Material</summary>
+<summary>Educational Material - Buddy Clean Workshop</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h2>Keep SG Clean Comic Strip Competition 2022</h2>
 <p>Secondary school students across the nation drew on their talent for art
@@ -66,9 +66,6 @@ best works&nbsp;<a href="https://heyzine.com/flip-book/e0f7380861.html" rel="noo
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Keep SG Clean Comic Strip Competition 2022" src="/images/Resources/clean_it_forward_conversation_with_youths_scribe.jpg">
 </div>
-<p>
-<br>
-</p>
 <h2>Keep Singapore Clean Movement in Schools</h2>
 <p><a href="/files/Resources/phc_nea_keep_singapore_clean_movement.pdf" rel="noopener noreferrer nofollow" target="_blank">Keep Singapore Clean Movement in Schools’ educational resource pack</a>&nbsp;incorporates
 relevant information and educational materials collated from various sources,
