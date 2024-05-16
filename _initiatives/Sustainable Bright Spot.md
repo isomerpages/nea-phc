@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/sustainable_bright_spot_logo_tmb_medium.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Initiatives/sustainable_bright_spot_logo_tmb_medium.png">
 </div>
 <h3>Sustainable Bright Spot&nbsp;</h3>
 <p>The Sustainable Bright Spot is a long-term programme that encourages residents
@@ -20,7 +20,7 @@ public spaces.&nbsp;
 a Sustainable Bright Spot.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/sbs_playbook_cover_page_image6de8b435b581616488cfff000004b801_tmb_small.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Initiatives/sbs_playbook_cover_page_image6de8b435b581616488cfff000004b801_tmb_small.jpg">
 </div>
 <h3>Residential estates committed to be Sustainable Bright Spots:</h3>
 <table style="minWidth: 50px">
@@ -81,7 +81,7 @@ a Sustainable Bright Spot.&nbsp;</p>
 </li>
 <li>
 <p>Tampines<a href="https://www.facebook.com/TampNorth" rel="noopener noreferrer nofollow" target="_blank"> </a>North&nbsp;Citizens'
-<a href="https://www.facebook.com/TampNorth" rel="noopener noreferrer nofollow" target="_blank"></a>Consultative<a href="https://www.facebook.com/TampNorth" rel="noopener noreferrer nofollow" target="_blank"> </a>Committee</p>
+Consultative<a href="https://www.facebook.com/TampNorth" rel="noopener noreferrer nofollow" target="_blank"> </a>Committee</p>
 </li>
 <li>
 <p>Tampines West&nbsp;Citizens' Consultative<a href="https://www.facebook.com/tampineswest" rel="noopener noreferrer nofollow" target="_blank"> </a>Committee</p>
