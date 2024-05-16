@@ -105,7 +105,7 @@ and initiatives to get you started:</p>
 </p>
 </li>
 <li>
-<p><a href="/NTCG" rel="noopener noreferrer nofollow" target="_blank">Neighbourhood Toilets Community Group</a>
+<p><a href="/ntcg/" rel="noopener noreferrer nofollow" target="_blank">Neighbourhood Toilets Community Group</a>
 </p>
 </li>
 <li>
