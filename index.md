@@ -13,13 +13,13 @@ sections:
       key_highlights:
         - title: News
           description: ""
-          url: /resource-room/news
-        - title: Interesting reads
+          url: /resources/news
+        - title: Media
           description: ""
-          url: /resource-room/interesting-reads
+          url: /resources/media
         - title: Videos
           description: ""
-          url: /privacy/
+          url: /resources/videos
       variant: image
       backgroundColor: gray
       alignment: right
