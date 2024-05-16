@@ -6,6 +6,11 @@ links:
     url: /ksc/
   - title: Year of Public Hygiene
     url: /yoph/
+    sublinks:
+      - title: Exemplary Educators
+        url: /yoph/exemplary-educators/
+      - title: Unsung Heroes
+        url: /yoph/unsung-heroes/
   - title: Initiatives & Programmes
     url: /initiatives/
     sublinks:
