@@ -32,3 +32,7 @@ gym where we visit for a good workout.</p>
 <p>All these places make up the special place we call home. It is our responsibility
 to keep Singapore, our home, clean.</p>
 <p>![It’s not a job, it’s our home](/images/News/shutterstock_783679966.jpg)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="It’s not a job, it’s our home" src="/images/News/shutterstock_783679966.jpg">
+</div>
+<p></p>
