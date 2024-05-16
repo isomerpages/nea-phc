@@ -50,7 +50,7 @@ participants.</p>
 <details class="isomer-details">
 <summary>Educational Material - Buddy Clean Workshop</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h2>Keep SG Clean Comic Strip Competition 2022</h2>
+<h3>Keep SG Clean Comic Strip Competition 2022</h3>
 <p>Secondary school students across the nation drew on their talent for art
 and storytelling to create comics on keeping Singapore clean. Catch the
 best works&nbsp;<a href="https://heyzine.com/flip-book/e0f7380861.html" rel="noopener noreferrer nofollow" target="_blank">here</a>!&nbsp;
@@ -60,13 +60,13 @@ best works&nbsp;<a href="https://heyzine.com/flip-book/e0f7380861.html" rel="noo
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Keep SG Clean Comic Strip Competition 2022" src="/images/Resources/comic98999ba4388c44b4b2dfc93a3dc1801e.jpg">
 </div>
-<h2>Clean It Forward Conversation with Youths</h2>
+<h3>Clean It Forward Conversation with Youths</h3>
 <p>Snapshot of the discussion at the Clean It Forward with Youths:</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Keep SG Clean Comic Strip Competition 2022" src="/images/Resources/clean_it_forward_conversation_with_youths_scribe.jpg">
 </div>
-<h2>Keep Singapore Clean Movement in Schools</h2>
+<h3>Keep Singapore Clean Movement in Schools</h3>
 <p><a href="/files/Resources/phc_nea_keep_singapore_clean_movement.pdf" rel="noopener noreferrer nofollow" target="_blank">Keep Singapore Clean Movement in Schools’ educational resource pack</a>&nbsp;incorporates
 relevant information and educational materials collated from various sources,
 targeted at Pre-school, Primary and Secondary level. It serves as an essential
@@ -95,20 +95,23 @@ Resource Kit which consists of lessons plans to implement the project,
 please&nbsp;<a href="/files/Resources/phc_nea_keep_singapore_clean_movement.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</p>
 <p><strong>The Buddy Clean Workshop comprises of three key components and learning outcomes:</strong>
 </p>
-<p>1. Introduction</p>
+<p><strong>1. Introduction</strong>
+</p>
 <p>Students are introduced to the consequences of littering and the need
 to keep their school clean and&nbsp;undergo discussion on the role of cleaners
 to develop empathy and respect for them.
 <br>
 </p>
-<p>2. Capacity Building</p>
+<p><strong>2. Capacity Building</strong>
+</p>
 <p>Students undergo activities to learn how to communicate effectively, listen
 actively and work together as a team to keep the school clean and&nbsp;learn
 the various cleaning skills (e.g. how to sweep, mop) to conduct hands-on
 cleaning activities in school.&nbsp;
 <br>
 </p>
-<p>3. Discussion and Reflection</p>
+<p><strong>3. Discussion and Reflection</strong>
+</p>
 <p>Students discuss their group’s performance and reflect on what they have
 learnt and the areas of improvement.</p>
 <p>For more information, please email to:&nbsp;<a href="https://heyzine.com/flip-book/e0f7380861.html" rel="noopener noreferrer nofollow" target="_blank">ask@publichygienecouncil.sg</a>
