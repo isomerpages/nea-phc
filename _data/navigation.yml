@@ -8,6 +8,23 @@ links:
     url: /yoph/
   - title: Initiatives & Programmes
     url: /initiatives/
+    sublinks:
+      - title: Bulky Waste to Wonder
+        url: /initiatives/bulky-waste-to-wonder/
+      - title: Cleanup at Beaches and Parks
+        url: /beachcleanup/
+      - title: KeepSGClean Supermons Story
+        url: /initiatives/story-writing-competition/
+      - title: Corporate Action Network
+        url: /initiatives/can/
+      - title: NTCG
+        url: /ntcg/
+      - title: Quarterly SG Clean Day
+        url: /initiatives/sgcleanday/
+      - title: RISE Champions Network
+        url: /initiatives/rise/
+      - title: Sustainable Bright Spot
+        url: /initiatives/sustainable-bright-spot/
   - title: Resources
     url: /resources/overview
     sublinks:
