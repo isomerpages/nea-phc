@@ -88,7 +88,7 @@ pre- pandemic life, it remains to be seen if companies can keep up with
 these standards. Particularly so during this period with Covid cases on
 the rise again, we are served a stark reminder to be on our toes and remain
 vigilant towards maintaining good hygiene standards.</p>
-<h3><strong>A total ecosystem</strong></h3>
+<h3>A total ecosystem</h3>
 <p>Many may think that to maintain good cleanliness and hygiene, the solution
 is simply to deploy more cleaners or to introduce more deterrents to prevent
 people from dirtying places. While these measures definitely help, they
