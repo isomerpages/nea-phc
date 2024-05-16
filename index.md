@@ -31,21 +31,23 @@ sections:
       button: Read more
       url: /faq/
   - infopic:
-      title: Singapore, a clean city?
+      title: Bulky Waste to Wonder Competition 2024
       subtitle: Interesting Reads
       id: infopic
-      description: Time to come clean about that shiny image
+      description: Showcase your ideas by redesigning and/or repurposing used bulky
+        furniture into functional items
       button: Read More
-      image: /images/hero-banner.png
+      image: /images/Initiatives/bwtw_2024.png
       alt: Image alt text
-      url: https://www.publichygienecouncil.sg/interesting-reads/2024/02/07/singapore-a-clean-city-time-to-come-clean-about-that-shiny-image
+      url: /initiatives/bulky-waste-to-wonder/
   - infopic:
       title: Videos
       id: infopic
-      description: Lorem Ipsum
+      description: This is our goal - to keep Singapore clean. For you, for me, and
+        for our share tomorrow.
       button: View all Videos
-      url: /
-      image: /images/hero-banner.png
+      url: /resources/videos/
+      image: /images/Resources/Cleanpod/tds_4228.jpg
       alt: Image alt text
   - resources:
       title: Resources
