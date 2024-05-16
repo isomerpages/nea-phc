@@ -101,11 +101,11 @@ and initiatives to get you started:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/initiatives/beachcleanup" rel="noopener noreferrer nofollow" target="_blank">Clean-up at Beaches and Parks</a>
+<p><a href="/beachcleanup" rel="noopener noreferrer nofollow" target="_blank">Clean-up at Beaches and Parks</a>
 </p>
 </li>
 <li>
-<p><a href="/initiatives/NTCG" rel="noopener noreferrer nofollow" target="_blank">Neighbourhood Toilets Community Group</a>
+<p><a href="/NTCG" rel="noopener noreferrer nofollow" target="_blank">Neighbourhood Toilets Community Group</a>
 </p>
 </li>
 <li>
