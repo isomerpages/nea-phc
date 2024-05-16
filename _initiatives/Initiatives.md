@@ -23,7 +23,7 @@ the Keep Singapore Clean Movement:&nbsp;</p>
 </p>
 </li>
 <li>
-<p><a href="/NTCG">Neighbourhood Toilets Community Group</a>
+<p><a href="/ntcg/">Neighbourhood Toilets Community Group</a>
 </p>
 </li>
 <li>
