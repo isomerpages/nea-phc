@@ -60,7 +60,7 @@ naming and shaming litterbugs. Others have mentioned stiffer fines.</p>
 consider naming and shaming litterbugs. And, on fines, if they don’t work
 as Singaporeans continue to get more affluent, then what? It is also hard
 to see how these measures can be more effective in the long run.</p>
-<h3><strong>Starting from Young</strong></h3>
+<h3>Starting from Young</h3>
 <p><strong>&nbsp;</strong>We must make cleaning a part of our culture - and
 that has to start from young.</p>
 <p>The public hygiene successes of Japan and Taiwan are linked to the fact
