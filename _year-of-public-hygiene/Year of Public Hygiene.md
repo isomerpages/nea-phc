@@ -79,7 +79,7 @@ the Public Hygiene Council</p>
 the community to collectively keep Singapore clean</p>
 </li>
 <li>
-<p>November:&nbsp;<a href="https://www.cgs.gov.sg/cleanpublictoilets" rel="noopener noreferrer nofollow" target="_blank">Clean Public Toilets Campaign</a>&nbsp;and
+<p>November:&nbsp;<a href="https://www.cgs.gov.sg/what-we-do/cgs2023/exhibits/clean-public-toilets" rel="noopener noreferrer nofollow" target="_blank">Clean Public Toilets Campaign</a>&nbsp;and
 <a href="https://www.cgs.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Clean &amp; Green Singapore</a>&nbsp;Day</p>
 </li>
 </ul>
