@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Keep Singapore Clean" src="/images/Home/banner_home.jpg">
 </div>
-<h2><strong>Keep Singapore Clean</strong></h2>
+<h2>Keep Singapore Clean</h2>
 <p>Every year, the Public Hygiene Council (PHC) holds our flagship initiative,
 the Keep Singapore Clean (KSC) campaign, to raise awareness on the problem
 of littering and to nudge Singapore residents to uphold higher standards
@@ -26,7 +26,7 @@ public messages through mainstream news media.&nbsp; Please refer to our&nbsp;
 on&nbsp;<a href="https://www.tiktok.com/@keepsgclean" rel="noopener noreferrer nofollow" target="_blank">TikTok&nbsp;</a>,&nbsp;
 <a href="http://facebook.com/keepsgclean" rel="noopener noreferrer nofollow" target="_blank">Facebook&nbsp;</a>and&nbsp;<a href="http://instagram.com/keepsgclean" rel="noopener noreferrer nofollow" target="_blank">Instagram&nbsp;</a>for regular
 updates.</p>
-<h2><strong>Month-Long Community Activation</strong></h2>
+<h2>Month-Long Community Activation</h2>
 <p><strong>What better way to show support for a clean Singapore than taking action to keep it clean? We encourage&nbsp;residents/public to organise litter-picking activities at your estates, recreational beaches or parks from 28 Apr to 2 Jun 2024.&nbsp;</strong>
 </p>
 <p>Click&nbsp;<a href="https://www.keepsgclean.com/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
