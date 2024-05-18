@@ -3,7 +3,7 @@ url: https://www.publichygienecouncil.sg
 favicon: /images/Templates/favicon.png
 colors:
   primary-color: "#007cc2"
-  secondary-color: "#97ca3d"
+  secondary-color: "#76a02c"
   media-colors:
     - title: media-color-one
       color: "#49759a"
