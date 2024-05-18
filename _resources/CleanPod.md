@@ -86,8 +86,8 @@ and sustainable manner.</p>
 </p>
 </li>
 </ul>
-<p>Once you have&nbsp;<a href="https://wordhtml.com/initiatives/beachcleanup" rel="noopener noreferrer nofollow" target="_blank">registered your clean-up</a>,
-you may email us at&nbsp;<a href="https://wordhtml.com/initiatives/beachcleanup" rel="noopener noreferrer nofollow" target="_blank">ask@publichygienecouncil.sg</a>&nbsp;to
+<p>Once you have&nbsp;<a href="/initiatives/beachcleanup" rel="noopener noreferrer nofollow" target="_blank">registered your clean-up</a>, you may
+email us at&nbsp;<a href="https://wordhtml.com/initiatives/beachcleanup" rel="noopener noreferrer nofollow" target="_blank">ask@publichygienecouncil.sg</a>&nbsp;to
 request for access to the nearest CleanPod available.</p>
 <h2>CleanPods Located in Housing Estates:</h2>
 <table style="minWidth: 50px">
@@ -158,7 +158,7 @@ request for access to the nearest CleanPod available.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 6747 2919
-<br>Email:&nbsp;<a href="mailto:pa_kampongglamcc@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa_geylangseraicc@pa.gov.sg</a>
+<br>Email:&nbsp;<a href="mailto:pa_kampongglamcc@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa_geylangseraicc@pa.gov.sg</a> 
 <a href="mailto:pa_geylangseraicc@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
@@ -194,7 +194,7 @@ request for access to the nearest CleanPod available.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 6560 4490
-<br>Email:&nbsp;<a href="mailto:pa_kampongglamcc@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa_yuhuacc@pa.gov.sg</a>
+<br>Email:&nbsp;<a href="mailto:pa_kampongglamcc@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa_yuhuacc@pa.gov.sg</a> 
 <a href="mailto:pa_yuhuacc@pa.gov.sg%C2%A0" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
