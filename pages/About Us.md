@@ -6,7 +6,7 @@ description: ""
 ---
 <h2>VISION</h2>
 <p>A culture of personal hygiene and social responsibility to keep Singapore
-clean.&nbsp;</p>
+clean.</p>
 <h2>MISSION</h2>
 <p>To rally sustained collective actions from all stakeholders to:</p>
 <ul data-tight="true" class="tight">
