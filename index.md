@@ -24,12 +24,13 @@ sections:
       backgroundColor: gray
       alignment: right
   - infobar:
-      title: Keep Singapore Clean
+      title: About Us
       subtitle: Public Hygiene Council
-      description: A culture of personal hygiene and social responsibility to keep
-        Singapore clean.
+      description: Formed in 2011 to raise standards of cleanliness and hygiene in
+        Singapore, the PHC leads and galvanises community and industry efforts
+        to keep Singapore clean.
       button: Read more
-      url: /faq/
+      url: /about/
   - infopic:
       title: Bulky Waste to Wonder Competition 2024
       subtitle: Initiatives & Programmes
