@@ -2,6 +2,7 @@ collections:
   year-of-public-hygiene:
     output: true
     order:
+      - Inspiring Individuals.md
       - Year of Public Hygiene.md
       - Exemplary Educators.md
       - Unsung Heroes.md
