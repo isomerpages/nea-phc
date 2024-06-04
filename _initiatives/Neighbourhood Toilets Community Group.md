@@ -21,7 +21,7 @@ are in working condition. They will also actively engage users to remind
 them of the need to keep the toilets clean.&nbsp;</p>
 <p>The premises owners will also do their part by stepping up on their cleaning
 regime, to provide a clean toilet for the users. Interested community groups
-may email us <a href="mailto:ask@publichygienecouncil.sg" rel="noopener noreferrer nofollow" target="_blank">atask@publichygienecouncil.sg</a>&nbsp;for
+may email us at <a href="mailto:ask@publichygienecouncil.sg" rel="noopener noreferrer nofollow" target="_blank">ask@publichygienecouncil.sg</a>&nbsp;for
 more information on the initiative.</p>
 <h4>Adopt the Four Clean Toilet Actions now!</h4>
 <ol data-tight="true" class="tight">
