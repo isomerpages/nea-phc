@@ -9,8 +9,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sanjay__3_.jpg">
 </div>
-<p><sub>Sanjay at a litter-picking even with his fellow volunteer</sub>
-</p>
 <p>Sanjay Mundhra is passionate about keeping Singapore clean.&nbsp;</p>
 <p>Every fortnight, the spry 56-year-old Account Support Manager at Hewlett
 Packard Enterprise goes on patrols with fellow volunteers at littering
