@@ -2,6 +2,7 @@ collections:
   year-of-public-hygiene:
     output: true
     order:
+      - Georgia Mor.md
       - Sanjay Mundhra.md
       - Year of Public Hygiene.md
       - Exemplary Educators.md
