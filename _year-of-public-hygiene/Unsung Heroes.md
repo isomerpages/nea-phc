@@ -8,6 +8,8 @@ description: ""
 <p>A lot had been said about Singapore being a cleaned city. Meet our unsung
 heroes from the cleaning industry, who have been working tirelessly behind
 the scenes to Keep Singapore Clean!</p>
+<hr>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/thYlMr_gaB4?rel=0"></iframe>
 </div>
@@ -18,3 +20,28 @@ the next morning.
 <br>
 <br>Meet Uncle Spider, a night cleaner, as he shows you how he Keeps Singapore
 Clean!</p>
+<hr>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5LDccO7uoGs?si=oD5qaayOSKC94nja"></iframe>
+</div>
+<h3>An estate cleaner's voice</h3>
+<p>Every morning, town council cleaners will diligently spruce up our neighbourhoods
+so that we open our doors to a clean estate.
+<br>
+<br>Pak Andari is an estate cleaner with Jalan Besar Town Council. Join him
+on his daily routine to keep our estates clean and beautiful!</p>
+<hr>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7oRxrFCtC2E?si=cQcvMWWpIwwT-Mfp"></iframe>
+</div>
+<h3>She said it's hard for Singaporeans not to litter</h3>
+<p>Singapore is renowned for our clean streets. This is largely due to our
+efficient cleaning workforce who work tirelessly to make sure our common
+spaces remain clean and tidy.
+<br>
+<br>Catch a glimpse of Mdm Ho Luan Yin, an estate cleaner, in action as she
+goes about keeping our neighbourhoods clean.</p>
+<p></p>
+<p></p>
