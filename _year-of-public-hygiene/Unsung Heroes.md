@@ -23,7 +23,7 @@ Clean!</p>
 <hr>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5LDccO7uoGs?si=oD5qaayOSKC94nja"></iframe>
+<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5LDccO7uoGs?si=oD5qaayOSKC94nja"></iframe>
 </div>
 <h3>An estate cleaner's voice</h3>
 <p>Every morning, town council cleaners will diligently spruce up our neighbourhoods
@@ -34,7 +34,7 @@ on his daily routine to keep our estates clean and beautiful!</p>
 <hr>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7oRxrFCtC2E?si=cQcvMWWpIwwT-Mfp"></iframe>
+<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7oRxrFCtC2E?si=cQcvMWWpIwwT-Mfp"></iframe>
 </div>
 <h3>She said it's hard for Singaporeans not to litter</h3>
 <p>Singapore is renowned for our clean streets. This is largely due to our
