@@ -10,7 +10,7 @@ by these individuals who have contributed selflessly for our environment.</p>
 <p></p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/sanjay-mundhra/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Sanjay.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sanjay Mundhra</div><div class="isomer-card-description">Every fortnight, the spry 56-year-old Account Support Manager at Hewlett Packard Enterprise goes on patrols with fellow volunteers at littering hotspots...</div><div class="isomer-card-link">Read more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/georgia-mor/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Georgia.png">
