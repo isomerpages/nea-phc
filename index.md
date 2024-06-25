@@ -4,7 +4,7 @@ title: Public Hygiene Council (PHC) Singapore
 description: Public Hygiene Council (PHC)
 image: /images/Templates/logo.jpg
 permalink: /
-notification: This is PHC Staging site
+notification: ""
 sections:
   - hero:
       title: Hero title
