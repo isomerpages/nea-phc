@@ -1,0 +1,8 @@
+collections:
+  contact:
+    output: true
+    order:
+      - Sitemap.md
+      - Contact.md
+      - faq.md
+      - Terms of Use.md

@@ -1,15 +1,54 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Templates/logo.jpg
 links:
-  - title: Contact Us
+  - title: About Us
+    url: /about/
+  - title: Keep Singapore Clean
+    url: /ksc/
+  - title: Year of Public Hygiene
+    url: /yoph/
+    sublinks:
+      - title: Exemplary Educators
+        url: /yoph/exemplary-educators/
+      - title: Unsung Heroes
+        url: /yoph/unsung-heroes/
+      - title: Inspiring Individuals
+        url: /inspiring-individuals
+  - title: Initiatives & Programmes
+    url: /initiatives/
+    sublinks:
+      - title: Bulky Waste to Wonder
+        url: /initiatives/bulky-waste-to-wonder/
+      - title: Cleanup at Beaches and Parks
+        url: /beachcleanup/
+      - title: KeepSGClean Supermons Story
+        url: /initiatives/story-writing-competition/
+      - title: Corporate Action Network
+        url: /initiatives/can/
+      - title: N/hood Toilets Community Group
+        url: /ntcg/
+      - title: Quarterly SG Clean Day
+        url: /initiatives/sgcleanday/
+      - title: RISE Champions Network
+        url: /initiatives/rise/
+      - title: Sustainable Bright Spot
+        url: /initiatives/sustainable-bright-spot/
+  - title: Resources
+    url: /resources/overview
+    sublinks:
+      - title: CleanPod
+        url: /resources/cleanpod
+      - title: Interesting Reads
+        url: /resources/interesting-reads
+      - title: Media
+        url: /resources/media
+      - title: News
+        url: /resources/news
+      - title: PH Times Newsletter
+        url: /resources/ph-times-newsletter
+      - title: Videos
+        url: /resources/videos
+  - title: Contact & FAQ
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    sublinks:
+      - title: FAQ
+        url: /faq

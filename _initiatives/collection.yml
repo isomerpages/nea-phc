@@ -1,0 +1,13 @@
+collections:
+  initiatives:
+    output: true
+    order:
+      - Initiatives.md
+      - Bulky Waste to Wonder.md
+      - Cleanup at Beaches and Parks.md
+      - KeepSGClean Supermons Story Writing Competition.md
+      - Corporate Action Network.md
+      - Neighbourhood Toilets Community Group.md
+      - Quarterly SG Clean Day.md
+      - RISE Champions Network.md
+      - Sustainable Bright Spot.md

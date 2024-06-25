@@ -1,32 +1,57 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Public Hygiene Council (PHC) Singapore | Staging
+description: Staging Site of Public Hygiene Council (PHC)
+image: /images/_system/logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: This is PHC Staging site
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Hero title
+      subtitle: Hero subtitle
+      background: /images/Home/banner_home.jpg
+      key_highlights:
+        - title: News
+          description: ""
+          url: /resources/news
+        - title: Media
+          description: ""
+          url: /resources/media
+        - title: Videos
+          description: ""
+          url: /resources/videos
+      variant: image
+      backgroundColor: gray
+      alignment: right
+  - infobar:
+      title: About Us
+      subtitle: Public Hygiene Council
+      description: Formed in 2011 to raise standards of cleanliness and hygiene in
+        Singapore, the PHC leads and galvanises community and industry efforts
+        to keep Singapore clean.
+      button: Read more
+      url: /about/
+  - infopic:
+      title: Bulky Waste to Wonder Competition 2024
+      subtitle: Initiatives & Programmes
+      id: infopic
+      description: Showcase your ideas by redesigning and/or repurposing used bulky
+        furniture into functional items.
+      button: Read More
+      image: /images/Initiatives/bwtw_2024.png
+      alt: Image alt text
+      url: /initiatives/bulky-waste-to-wonder/
+  - infopic:
+      title: Videos
+      id: infopic
+      description: This is our goal - to keep Singapore clean. For you, for me, and
+        for our share tomorrow.
+      button: View all Videos
+      url: /resources/videos/
+      image: /images/Resources/Cleanpod/tds_4228.jpg
+      alt: Image alt text
+  - resources:
+      title: Resources
+      id: resources
+      button: View all
 ---
-
