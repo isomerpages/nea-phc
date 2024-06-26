@@ -123,5 +123,5 @@ No NEA / PHC personnel will be present to facilitate the clean-up.&nbsp;&nbsp;</
 </ul>
 <p>Once you have registered your clean-up on the <a href="https://www.eportal.nea.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">ePortal</a>, you may tap on the
 nearest available <a href="/resources/cleanpod" rel="noopener noreferrer nofollow" target="_blank">CleanPod</a>&nbsp;for loan of clean-up tools!
-To access the CleanPod, email us at&nbsp;<a href="https://www.eportal.nea.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">ask@publichygienecouncil.sg</a>&nbsp;7
+To access the CleanPod, email us at&nbsp;<a href="mailto:ask@publichygienecouncil.sg" rel="noopener noreferrer nofollow" target="_blank">ask@publichygienecouncil.sg</a>&nbsp;7
 - 10 days before your clean-up date with your booking reference number.&nbsp;</p>
