@@ -10,11 +10,11 @@ description: ""
 </div>
 <h1>Bulky Waste to Wonder Competition 2024</h1>
 <h3>About the Competition</h3>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Singapore generated 7.39 million tonnes of waste in 2022</a>.
-This is not sustainable, and it is imperative for every one of us to adopt
-an eco-friendlier lifestyle. Our youths are the future custodians of our
-environment and hence it is even more critical to inculcate the civic-mindedness
-and cultivate the right values in them.</p>
+<p>Singapore generated 7.39 million tonnes of waste in 2022. This is not
+sustainable, and it is imperative for every one of us to adopt an eco-friendlier
+lifestyle. Our youths are the future custodians of our environment and
+hence it is even more critical to inculcate the civic-mindedness and cultivate
+the right values in them.</p>
 <p>In partnership with the Ministry of Education (MOE) – Character &amp;
 Citizenship Education Branch and J.O.E (Just One Earth) Eco Alliance, the
 Public Hygiene Council (PHC) is pleased to organise a nation-wide competition

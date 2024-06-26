@@ -187,4 +187,4 @@ the rules and regulations, and to the works created in the actual event
 including the liberty to handle the works as it deems fit.</p>
 </li>
 </ol>
-<p>For further enquiries, please contact <a href="https://form.gov.sg/660ec7aa56b6d6b97a34c1a7" rel="noopener noreferrer nofollow" target="_blank">ask@publichygienecouncil.sg</a>.</p>
+<p>For further enquiries, please contact <a href="mailto:ask@publichygienecouncil.sg" rel="noopener noreferrer nofollow" target="_blank">ask@publichygienecouncil.sg</a>.</p>
