@@ -38,7 +38,7 @@ sections:
       description: Showcase your ideas by redesigning and/or repurposing used bulky
         furniture into functional items.
       button: Read More
-      image: /images/Initiatives/bwtw_2024.png
+      image: /images/Initiatives/bwtw_2024_resized.png
       alt: Image alt text
       url: /initiatives/bulky-waste-to-wonder/
   - infopic:

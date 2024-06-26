@@ -3,6 +3,7 @@ title: Sanjay Mundhra
 permalink: /sanjay-mundhra/
 variant: tiptap
 description: ""
+third_nav_title: Inspiring Individuals
 ---
 <h3><strong>Firm Believer of Joint Responsibility in Keeping Singapore Clean - Sanjay Mundhra</strong></h3>
 <p></p>
