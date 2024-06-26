@@ -1,4 +1,4 @@
-title: Public Hygiene Council (PHC) Singapore | Staging
+title: Public Hygiene Council (PHC) Singapore
 url: https://www.publichygienecouncil.sg
 favicon: /images/Templates/favicon.png
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#007cc2"
     - title: media-color-five
       color: "#97ca3d"
-description: Staging Site of Public Hygiene Council (PHC)
+description: Public Hygiene Council (PHC)
 permalink: none
 baseurl: ""
 exclude:
