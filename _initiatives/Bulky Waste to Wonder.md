@@ -45,7 +45,7 @@ or in group of max 3 pax.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;25 May 2024</p>
+<p>&nbsp;29 Jun 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Design workshop (in-person)</p>
