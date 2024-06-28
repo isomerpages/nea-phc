@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Hero title
       subtitle: Hero subtitle
-      background: /images/PHC_KSC_Banner__1200x630.jpg
+      background: /images/Banner.jpg
       key_highlights:
         - title: News
           description: ""
