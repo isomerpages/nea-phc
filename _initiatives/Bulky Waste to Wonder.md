@@ -283,7 +283,7 @@ Time). Late submissions will not be accepted.</p>
 with incomplete information will be disqualified.</p>
 <h3>Design Workshop (In-Person)</h3>
 <p>An in-person workshop will be conducted by our furniture designer partners,
-JLL Design Solutions and Triple Eyelid, to equip participants with knowledge,
+E3 Design, Semula and SCA Design, to equip participants with knowledge,
 techniques, and tips on how to work on a good design. You will get to meet
 industry designers and hear them share about their experiences too. Interested
 participants of the competition are strongly encouraged to attend the workshop.</p>
@@ -294,7 +294,7 @@ disappointment! Registration for physical session is based on first-come-first-s
 basis and only successful registrations for the physical workshop will
 be informed via email.</p>
 <h3>Details of Workshop</h3>
-<p><strong>Date:</strong> Saturday, 25 May 2024
+<p><strong>Date:</strong> Saturday, 29 Jun 2024
 <br><strong>Time:</strong> 10:00am to 11:30am (Registration begins at 9.30am)
 <br><strong>Venue:</strong> JOS &amp; Sunon Sustainability Experience Centre
 <br><strong>Address: </strong>18 Robinson Road, #02-03, Singapore 048547</p>
