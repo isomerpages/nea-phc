@@ -45,7 +45,7 @@ or in group of max 3 pax.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;25 May 2024</p>
+<p>&nbsp;29 Jun 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Design workshop (in-person)</p>
@@ -260,8 +260,8 @@ adhere to the above rules.</p>
 <h3>How to Take Part</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Step 1: Download the&nbsp;<a href="/files/Initiatives/bulky_waste_to_wonder_furniture_redesignrepurpose_template.pdf" rel="noopener noreferrer nofollow" target="_blank">Bulky Waste to Wonder Furniture Redesign/ Repurpose Template</a>.
-(<em>only available after the Design Workshop</em>)</p>
+<p>Step 1: Download the Bulky Waste to Wonder Furniture Redesign / Repurpose
+Template. (<em>only available after the Design Workshop</em>)</p>
 </li>
 <li>
 <p>Step 2: Design your creation using the template. Please note that your
@@ -274,16 +274,16 @@ pdf not exceeding 3 MB.</p>
 </li>
 <li>
 <p>Step 4: Submit your artwork with your personal and parent / guardian details,
-school information within the&nbsp;<a href="https://form.gov.sg/66349e152dba1edc04df248a" rel="noopener noreferrer nofollow" target="_blank">ENTRY FORM</a>.</p>
+school information within the ENTRY FORM.</p>
 </li>
 </ul>
 <p>All entries must be submitted no later than <u>Friday, 19 Jul 2024, 2359 hours</u> (Singapore
 Time). Late submissions will not be accepted.</p>
-<p>Submit your finalised artwork via <a href="https://form.gov.sg/66349e152dba1edc04df248a" rel="noopener noreferrer nofollow" target="_blank">ENTRY FORM</a>.&nbsp;Entries
-with incomplete information will be disqualified.</p>
+<p>Submit your finalised artwork via ENTRY FORM.&nbsp;Entries with incomplete
+information will be disqualified.</p>
 <h3>Design Workshop (In-Person)</h3>
 <p>An in-person workshop will be conducted by our furniture designer partners,
-JLL Design Solutions and Triple Eyelid, to equip participants with knowledge,
+E3 Design, Semula and SCA Design, to equip participants with knowledge,
 techniques, and tips on how to work on a good design. You will get to meet
 industry designers and hear them share about their experiences too. Interested
 participants of the competition are strongly encouraged to attend the workshop.</p>
@@ -294,7 +294,7 @@ disappointment! Registration for physical session is based on first-come-first-s
 basis and only successful registrations for the physical workshop will
 be informed via email.</p>
 <h3>Details of Workshop</h3>
-<p><strong>Date:</strong> Saturday, 25 May 2024
+<p><strong>Date:</strong> Saturday, 29 Jun 2024
 <br><strong>Time:</strong> 10:00am to 11:30am (Registration begins at 9.30am)
 <br><strong>Venue:</strong> JOS &amp; Sunon Sustainability Experience Centre
 <br><strong>Address: </strong>18 Robinson Road, #02-03, Singapore 048547</p>
