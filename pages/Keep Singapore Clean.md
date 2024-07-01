@@ -58,11 +58,15 @@ the activity.</p>
 </li>
 </ul>
 <p></p>
-<p>Keep Singapore Clean 2024 - Chairman Opening Address
+<p><a href="/files/KSC_2024_Chairman_Opening_Address_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Keep Singapore Clean 2024 - Chairman Opening Address </a>
 <br>
 </p>
 <h4><strong>Keep Clean, Singapore! Guest of Honour Speeches</strong></h4>
 <ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.mse.gov.sg/resource-room/category/2024-04-28-speech-at-keep-singapore-clean-2024-launch-event" rel="noopener noreferrer nofollow" target="_blank">KSC 2024 Speech by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment</a>
+</p>
+</li>
 <li>
 <p><a href="https://www.moe.gov.sg/news/speeches/20230513-speech-by-minister-chan-chun-sing-at-launch-ceremony-of-keep-clean-singapore-2023" rel="noopener noreferrer nofollow" target="_blank">KCS 2023 Speech by Mr Chan Chun Sing, Minister for Education</a>
 </p>
