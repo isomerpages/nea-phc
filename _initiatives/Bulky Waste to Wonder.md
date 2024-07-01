@@ -260,8 +260,8 @@ adhere to the above rules.</p>
 <h3>How to Take Part</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Step 1: Download the&nbsp;<a href="/files/Initiatives/bulky_waste_to_wonder_furniture_redesignrepurpose_template.pdf" rel="noopener noreferrer nofollow" target="_blank">Bulky Waste to Wonder Furniture Redesign/ Repurpose Template</a>.
-(<em>only available after the Design Workshop</em>)</p>
+<p>Step 1: Download the Bulky Waste to Wonder Furniture Redesign / Repurpose
+Template. (<em>only available after the Design Workshop</em>)</p>
 </li>
 <li>
 <p>Step 2: Design your creation using the template. Please note that your
@@ -274,13 +274,13 @@ pdf not exceeding 3 MB.</p>
 </li>
 <li>
 <p>Step 4: Submit your artwork with your personal and parent / guardian details,
-school information within the&nbsp;<a href="https://form.gov.sg/66349e152dba1edc04df248a" rel="noopener noreferrer nofollow" target="_blank">ENTRY FORM</a>.</p>
+school information within the ENTRY FORM.</p>
 </li>
 </ul>
 <p>All entries must be submitted no later than <u>Friday, 19 Jul 2024, 2359 hours</u> (Singapore
 Time). Late submissions will not be accepted.</p>
-<p>Submit your finalised artwork via <a href="https://form.gov.sg/66349e152dba1edc04df248a" rel="noopener noreferrer nofollow" target="_blank">ENTRY FORM</a>.&nbsp;Entries
-with incomplete information will be disqualified.</p>
+<p>Submit your finalised artwork via ENTRY FORM.&nbsp;Entries with incomplete
+information will be disqualified.</p>
 <h3>Design Workshop (In-Person)</h3>
 <p>An in-person workshop will be conducted by our furniture designer partners,
 E3 Design, Semula and SCA Design, to equip participants with knowledge,
