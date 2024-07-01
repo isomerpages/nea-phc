@@ -261,7 +261,7 @@ adhere to the above rules.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Step 1: Download the Bulky Waste to Wonder Furniture Redesign / Repurpose
-Template. (<em>only available after the Design Workshop</em>)</p>
+Template. (<em>Refer to Slide 48 - 52 of the <a href="/files/BWTW_Design_Workshop_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Design Workshop Presentation Deck</a></em>)</p>
 </li>
 <li>
 <p>Step 2: Design your creation using the template. Please note that your
@@ -274,13 +274,13 @@ pdf not exceeding 3 MB.</p>
 </li>
 <li>
 <p>Step 4: Submit your artwork with your personal and parent / guardian details,
-school information within the ENTRY FORM.</p>
+school information within the <a href="https://form.gov.sg/66349e152dba1edc04df248a" rel="noopener noreferrer nofollow" target="_blank">ENTRY FORM</a>.</p>
 </li>
 </ul>
 <p>All entries must be submitted no later than <u>Friday, 19 Jul 2024, 2359 hours</u> (Singapore
 Time). Late submissions will not be accepted.</p>
-<p>Submit your finalised artwork via ENTRY FORM.&nbsp;Entries with incomplete
-information will be disqualified.</p>
+<p>Submit your finalised artwork via <a href="https://form.gov.sg/66349e152dba1edc04df248a" rel="noopener noreferrer nofollow" target="_blank">ENTRY FORM</a>.&nbsp;Entries
+with incomplete information will be disqualified.</p>
 <h3>Design Workshop (In-Person)</h3>
 <p>An in-person workshop will be conducted by our furniture designer partners,
 E3 Design, Semula and SCA Design, to equip participants with knowledge,
@@ -298,6 +298,8 @@ be informed via email.</p>
 <br><strong>Time:</strong> 10:00am to 11:30am (Registration begins at 9.30am)
 <br><strong>Venue:</strong> JOS &amp; Sunon Sustainability Experience Centre
 <br><strong>Address: </strong>18 Robinson Road, #02-03, Singapore 048547</p>
+<p><strong>Download the Design Workshop Presentation Slides <a href="/files/BWTW_Design_Workshop_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
+</p>
 <h3>Disclaimers</h3>
 <ol data-tight="true" class="tight">
 <li>
