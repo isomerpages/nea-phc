@@ -26,6 +26,10 @@ public messages through mainstream news media.&nbsp; Please refer to our&nbsp;
 on&nbsp;<a href="https://www.tiktok.com/@keepsgclean" rel="noopener noreferrer nofollow" target="_blank">TikTok&nbsp;</a>,&nbsp;
 <a href="http://facebook.com/keepsgclean" rel="noopener noreferrer nofollow" target="_blank">Facebook&nbsp;</a>and&nbsp;<a href="http://instagram.com/keepsgclean" rel="noopener noreferrer nofollow" target="_blank">Instagram&nbsp;</a>for regular
 updates.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DKv9EyBXlO0?si=T-75ZPnSFlxQmp8f"></iframe>
+</div>
 <h2>Month-Long Community Activation</h2>
 <p><strong>What better way to show support for a clean Singapore than taking action to keep it clean? We encourage&nbsp;residents/public to organise litter-picking activities at your estates, recreational beaches or parks from 28 Apr to 2 Jun 2024.&nbsp;</strong>
 </p>

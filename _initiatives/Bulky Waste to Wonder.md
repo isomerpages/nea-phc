@@ -300,6 +300,12 @@ be informed via email.</p>
 <br><strong>Address: </strong>18 Robinson Road, #02-03, Singapore 048547</p>
 <p><strong>Download the Design Workshop Presentation Slides <a href="/files/BWTW_Design_Workshop_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
+<p></p>
+<p><strong>Video Highlights of Bulky Waste to Wonder Design Workshop 2024</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/J-5hfz-FgMM?si=rwcJxWziUnTYPyGC"></iframe>
+</div>
 <h3>Disclaimers</h3>
 <ol data-tight="true" class="tight">
 <li>
