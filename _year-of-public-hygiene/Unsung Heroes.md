@@ -43,5 +43,14 @@ spaces remain clean and tidy.
 <br>
 <br>Catch a glimpse of Mdm Ho Luan Yin, an estate cleaner, in action as she
 goes about keeping our neighbourhoods clean.</p>
+<hr>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VoPGfQlxclg?si=idoVggAr5lJXCMkw"></iframe>
+</div>
+<h3>He took over mantle of keeping Singapore clean from his father.</h3>
+<p>Sweeping void decks and washing the blocks are routine work for Dilbar,
+a Cleaner Supervisor with Chua Chu Kang Town Council. Let's catch him in
+action to understand what it takes to keep our estates clean.</p>
 <p></p>
 <p></p>
