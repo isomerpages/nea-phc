@@ -274,13 +274,12 @@ pdf not exceeding 3 MB.</p>
 </li>
 <li>
 <p>Step 4: Submit your artwork with your personal and parent / guardian details,
-school information within the <a href="https://form.gov.sg/66349e152dba1edc04df248a" rel="noopener noreferrer nofollow" target="_blank">ENTRY FORM</a>.</p>
+school information within the ENTRY FORM.</p>
 </li>
 </ul>
 <p>All entries must be submitted no later than <u>Friday, 19 Jul 2024, 2359 hours</u> (Singapore
 Time). Late submissions will not be accepted.</p>
-<p>Submit your finalised artwork via <a href="https://form.gov.sg/66349e152dba1edc04df248a" rel="noopener noreferrer nofollow" target="_blank">ENTRY FORM</a>.&nbsp;Entries
-with incomplete information will be disqualified.</p>
+<p>Entries with incomplete information will be disqualified. Submission closed.</p>
 <h3>Design Workshop (In-Person)</h3>
 <p>An in-person workshop will be conducted by our furniture designer partners,
 E3 Design, Semula and SCA Design, to equip participants with knowledge,
