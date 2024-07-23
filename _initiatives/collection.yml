@@ -2,8 +2,6 @@ collections:
   initiatives:
     output: true
     order:
-      - Tar Ball Clean Up/Tar Ball Clean Ups for Volunteers.md
-      - Tar Ball Clean Up/.keep
       - Initiatives.md
       - Bulky Waste to Wonder.md
       - Cleanup at Beaches and Parks.md
