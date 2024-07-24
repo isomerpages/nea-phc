@@ -17,4 +17,31 @@ to be washed ashore.</p>
 <p>We need your help to remove these residual tar balls - small, dark-coloured
 pieces of coagulated oil.</p>
 <p>The task will involve walking sections of the beach near the tide lines,
-wearing gloves, long pants and covered shoes for protection. Using</p>
+wearing gloves, long pants and covered shoes for protection. Using rakes
+and tongs, volunteers will deposit the tar balls and other debris into
+trash bags, before bringing them to demarcated areas for disposal.</p>
+<p><strong>Volunteer Requirements</strong>
+</p>
+<p>Please note that the activity is potentially strenuous, and will be conducted
+in outdoor conditions subject to sun and wind exposure. As such, interested
+volunteers should ensure that they meet the following criteria:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Age 18 years and above</p>
+</li>
+<li>
+<p>Do not have skin/chemical allergies to oil/petroleum as well as latex
+(due to use of latex gloves)</p>
+</li>
+<li>
+<p>Reasonably physically fit and medically well. Volunteers who are unsure
+if they can join this activity should seek advice from their doctor</p>
+</li>
+</ul>
+<p><strong>Beach that has Reopened</strong>
+</p>
+<p>Stay tuned for the latest updates.</p>
+<p><strong>Detailed Volunteer Guide</strong>
+</p>
+<p></p>
+<p></p>
