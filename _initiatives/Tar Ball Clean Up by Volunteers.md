@@ -14,6 +14,34 @@ such as rock bunds, breakwaters, and oil trapped deeper in the sand.</p>
 <p>The majority of the clean-up efforts have been completed. What remains
 are some tar balls and oil-stained marine litter and debris, which continue
 to be washed ashore.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Pictures of Tar Balls</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>We need your help to remove these residual tar balls - small, dark-coloured
 pieces of coagulated oil.</p>
 <p>The task will involve walking sections of the beach near the tide lines,
@@ -41,7 +69,7 @@ if they can join this activity should seek advice from their doctor</p>
 <p><strong>Beach that has Reopened</strong>
 </p>
 <p>Stay tuned for the latest updates.</p>
-<p><strong>Detailed Volunteer Guide</strong>
+<p><strong><a href="/files/Tar_Ball_Clean_Up_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Detailed Volunteer Guide</a></strong>
 </p>
 <p></p>
 <p></p>
