@@ -11,9 +11,9 @@ description: ""
 <p>The earlier phases focused on removing oil slicks and contaminated sand
 from the surface of affected beaches, as well as difficult to clean areas
 such as rock bunds, breakwaters, and oil trapped deeper in the sand.</p>
-<p><strong>Beaches that have reopened</strong>
+<p><strong>Reopened beaches</strong>
 </p>
-<p>Good news! The following beaches have been reopened!</p>
+<p>Good news! The following beaches have reopened!</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>East Coast Park Area G</p>
