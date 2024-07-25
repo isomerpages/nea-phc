@@ -30,24 +30,53 @@ to be washed ashore.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TB1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TB2.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>We need your help to remove these residual tar balls - small, dark-coloured
 pieces of coagulated oil.</p>
 <p>The task will involve walking sections of the beach near the tide lines,
 wearing gloves, long pants and covered shoes for protection. Using rakes
 and tongs, volunteers will deposit the tar balls and other debris into
 trash bags, before bringing them to demarcated areas for disposal.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Raking Tar Balls and Picking them with tongs, placing into trash bags</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TB3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TB4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Volunteer Requirements</strong>
 </p>
 <p>Please note that the activity is potentially strenuous, and will be conducted
