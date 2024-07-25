@@ -2,7 +2,6 @@ collections:
   initiatives:
     output: true
     order:
-      - Tar Ball Clean Up by Volunteers.md
       - Initiatives.md
       - Bulky Waste to Wonder.md
       - Cleanup at Beaches and Parks.md
@@ -12,3 +11,4 @@ collections:
       - Quarterly SG Clean Day.md
       - RISE Champions Network.md
       - Sustainable Bright Spot.md
+      - Tar Ball Clean Up by Volunteers.md
