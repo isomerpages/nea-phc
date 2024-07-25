@@ -61,7 +61,7 @@ or in group of max 3 pax.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;5 &amp; 6 Aug 2024</p>
+<p>&nbsp;15 Aug 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Pitch presentation by shortlisted students</p>
@@ -69,7 +69,7 @@ or in group of max 3 pax.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;16 Aug 2024</p>
+<p>&nbsp;19 Aug 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Announcement of finalists</p>
@@ -77,7 +77,7 @@ or in group of max 3 pax.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Early Sep</p>
+<p>&nbsp;2 - 5 Sep 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Internship opportunity for finalists</p>
