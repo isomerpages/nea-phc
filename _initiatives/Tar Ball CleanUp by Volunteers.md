@@ -32,11 +32,11 @@ to be washed ashore.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tar Balls</strong>
+<p><strong>Tar balls</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Marine Litter</strong>
+<p><strong>Marine litter</strong>
 </p>
 </td>
 </tr>
@@ -92,7 +92,7 @@ trash bags, before bringing them to demarcated areas for disposal.</p>
 </tbody>
 </table>
 <p></p>
-<p>The activity could be strenuous, and will be conducted in outdoor conditions
+<p>The activity could be strenuous and will be conducted under outdoor conditions
 subject to sun and wind exposure. As such, you should be:</p>
 <ul data-tight="true" class="tight">
 <li>
