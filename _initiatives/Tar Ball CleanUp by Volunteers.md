@@ -57,7 +57,7 @@ trash bags, before bringing them to demarcated areas for disposal.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Raking Tar Balls and Picking them with tongs, placing into trash bags</strong>
+<p><strong>Raking tar balls and picking them with tongs, placing into trash bags</strong>
 </p>
 </td>
 </tr>
