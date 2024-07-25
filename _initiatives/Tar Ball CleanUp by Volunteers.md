@@ -57,7 +57,7 @@ to be washed ashore.</p>
 </tbody>
 </table>
 <p></p>
-<p>You can help to remove these marine litter and residual tar balls - small,
+<p>You can help remove these marine litter and residual tar balls - small,
 dark-coloured pieces of coagulated oil.</p>
 <p>The task will involve walking sections of the beach near the tide lines,
 wearing gloves, long pants and covered shoes for protection. Using rakes
