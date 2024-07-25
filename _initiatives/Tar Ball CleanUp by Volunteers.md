@@ -4,12 +4,22 @@ permalink: /initiatives/tar-ball-clean-up/
 variant: tiptap
 description: ""
 ---
-<p>Thank you for expressing interest in helping with the tar ball clean-up
-at the reopened beaches at East Coast Park.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tar_Ball_CleanUp_EDM_Final.png">
+</div>
 <p>The earlier phases focused on removing oil slicks and contaminated sand
 from the surface of affected beaches, as well as difficult to clean areas
 such as rock bunds, breakwaters, and oil trapped deeper in the sand.</p>
-<p><strong>What We Need Your Help With</strong>
+<p><strong>Beaches that have reopened</strong>
+</p>
+<p>Good news! The following beaches have been reopened!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>East Coast Park Area G</p>
+</li>
+</ul>
+<p><strong>If you wish to help</strong>
 </p>
 <p>The majority of the clean-up efforts have been completed. What remains
 are some tar balls and oil-stained marine litter and debris, which continue
@@ -21,8 +31,12 @@ to be washed ashore.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
-<p><strong>Pictures of Tar Balls</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Tar Balls</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Marine Litter</strong>
 </p>
 </td>
 </tr>
@@ -36,15 +50,15 @@ to be washed ashore.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TB2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TB5.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>We need your help to remove these residual tar balls - small, dark-coloured
-pieces of coagulated oil.</p>
+<p>You can help to remove these marine litter and residual tar balls - small,
+dark-coloured pieces of coagulated oil.</p>
 <p>The task will involve walking sections of the beach near the tide lines,
 wearing gloves, long pants and covered shoes for protection. Using rakes
 and tongs, volunteers will deposit the tar balls and other debris into
@@ -77,11 +91,9 @@ trash bags, before bringing them to demarcated areas for disposal.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Volunteer Requirements</strong>
-</p>
-<p>Please note that the activity is potentially strenuous, and will be conducted
-in outdoor conditions subject to sun and wind exposure. As such, interested
-volunteers should ensure that they meet the following criteria:</p>
+<p></p>
+<p>The activity could be strenuous, and will be conducted in outdoor conditions
+subject to sun and wind exposure. As such, you should be:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Age 18 years and above</p>
@@ -91,13 +103,11 @@ volunteers should ensure that they meet the following criteria:</p>
 (due to use of latex gloves)</p>
 </li>
 <li>
-<p>Reasonably physically fit and medically well. Volunteers who are unsure
-if they can join this activity should seek advice from their doctor</p>
+<p>Reasonably physically fit and medically well. If unsure, please seek advice
+from their doctor</p>
 </li>
 </ul>
-<p><strong>Beach that has Reopened</strong>
-</p>
-<p>Stay tuned for the latest updates.</p>
+<p></p>
 <p><strong><a href="/files/Tar_Ball_Clean_Up_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Detailed Volunteer Guide</a></strong>
 </p>
 <p></p>
