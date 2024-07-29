@@ -16,7 +16,7 @@ such as rock bunds, breakwaters, and oil trapped deeper in the sand.</p>
 <p>Good news! The following beaches have reopened!</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>East Coast Park Area G</p>
+<p>East Coast Park Area F (<a href="/files/East_Coast_Beach_Area_F.pdf" rel="noopener noreferrer nofollow" target="_blank">Map</a>)</p>
 </li>
 </ul>
 <p><strong>If you wish to help</strong>
