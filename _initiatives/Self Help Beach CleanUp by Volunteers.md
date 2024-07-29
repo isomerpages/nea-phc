@@ -93,7 +93,8 @@ trash bags, before bringing them to demarcated areas for disposal.</p>
 </table>
 <p></p>
 <p>The activity could be strenuous and will be conducted under outdoor conditions
-subject to sun and wind exposure. As such, you should be:</p>
+subject to sun and wind exposure. As such, we recommend it only to those
+who are:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Age 18 years and above</p>
