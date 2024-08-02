@@ -2,6 +2,7 @@ collections:
   initiatives:
     output: true
     order:
+      - National Day Beach CleanUp.md
       - Initiatives.md
       - Bulky Waste to Wonder.md
       - CleanUp at Beaches and Parks.md
