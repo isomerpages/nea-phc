@@ -10,12 +10,12 @@ beaches and parks. From students to families and volunteers from various
 organisations, these individuals from diverse backgrounds share a common
 goal - to make a difference to the cleanliness of our home, Singapore.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CleanPod" src="/images/Resources/Cleanpod/tds_4173.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CleanPod" src="/images/Resources/Cleanpod/tds_4228.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CleanPod" src="/images/Resources/Cleanpod/tds_4173.jpg">
 </div>
 <p></p>
 <div class="iframe-wrapper">
