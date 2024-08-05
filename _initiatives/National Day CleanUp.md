@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDCleanUp_EDM1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDCleanUP_EDM_Public.png">
 </div>
+<p></p>
 <p><strong>To celebrate Singapore's National Day, we are calling on everyone to clean it forward and contribute to a better living environment for all.</strong>
 </p>
 <p></p>
@@ -19,7 +19,7 @@ description: ""
 <p>This is a fully self-organised clean-up activity. You do not need to register.</p>
 </li>
 <li>
-<p>You may conduct your cleanm-up anytime that day, but it is recommended
+<p>You may conduct your clean-up anytime that day, but it is recommended
 that you conduct the activity during the day when there is daylight.</p>
 </li>
 <li>
@@ -41,7 +41,7 @@ bags.</p>
 </li>
 <li>
 <p><strong>Step 3:</strong> Before the clean-up, brief your friends/family/participants
-on the dos and don'ts and and safety guidelines to note for the activity.
+on the dos and don'ts, and safety guidelines to note for the activity.
 Remind them to stay hydrated.</p>
 </li>
 <li>
@@ -58,6 +58,6 @@ bins nearest to you.</p>
 <p><strong>Remember: Safety First! Watch out for inclement weather or possible dangerous items on the ground like sharp objects. Stop the activity if you are not feeling well.</strong>
 </p>
 <p></p>
-<p><strong>Thank you for doing your part and helping to keep Singapore clean.</strong>
+<p><strong>Thank you for doing your part and helping to keep Singapore clean!</strong>
 </p>
 <p></p>
