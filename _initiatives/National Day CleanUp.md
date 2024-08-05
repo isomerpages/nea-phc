@@ -9,7 +9,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDCleanUP_EDM_Public.png">
 </div>
 <p></p>
-<p><strong>To celebrate Singapore's National Day, we are calling on everyone to clean it forward and contribute to a better living environment for all.</strong>
+<p><strong>To celebrate Singapore's National Day, we are calling on everyone to clean it forward and contribute to a better living environment for all!</strong>
 </p>
 <p></p>
 <p><strong>Please note:</strong>
