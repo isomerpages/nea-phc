@@ -9,8 +9,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDCleanUp_EDM1.png">
 </div>
-<p>To celebrate SIngapore's National Day, we are calling on everyone to clean
-it forward and contribute to a better living environment for all.</p>
+<p><strong>To celebrate SIngapore's National Day, we are calling on everyone to clean it forward and contribute to a better living environment for all.</strong>
+</p>
 <p></p>
 <p><strong>Please note:</strong>
 </p>
