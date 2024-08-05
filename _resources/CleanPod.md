@@ -11,12 +11,13 @@ organisations, these individuals from diverse backgrounds share a common
 goal - to make a difference to the cleanliness of our home, Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CleanPod" src="/images/Resources/Cleanpod/tds_4173.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CleanPod" src="/images/Resources/Cleanpod/tds_4228.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CleanPod" src="/images/Resources/Cleanpod/tds_4228.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CleanPod" src="/images/Resources/Cleanpod/tds_4173.jpg">
 </div>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ONR-omBxNi8?rel=0"></iframe>
 </div>
@@ -31,6 +32,7 @@ the organisation of clean-ups easier and more sustainable!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CleanPod" src="/images/Resources/Cleanpod/cleanpod_at_ecp_c1_door.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CleanPod" src="/images/Resources/Cleanpod/cleanpod_at_ecp_c1_sideview.jpg">
 </div>
@@ -70,6 +72,9 @@ and sustainable manner.</p>
 </li>
 <li>
 <p>East Coast Park - Area G</p>
+</li>
+<li>
+<p>Gardens by the Bay - Next to Understorey Mushroom Hut</p>
 </li>
 <li>
 <p>Jurong Central Park&nbsp;</p>
