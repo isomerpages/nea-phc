@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/phc_x_tp_static_edm_w1200px.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHCxTP_EDM_W2500.jpg">
 </div>
 <h3>Introduction</h3>
 <p>Good habits start from young. It is therefore important to raise awareness
@@ -32,10 +32,13 @@ old</p>
 Diploma in Early Childhood Development &amp; Education.</p>
 </li>
 <li>
+<p>Option to participate individually or in a group of maximum 3 participants.</p>
+</li>
+<li>
 <p>Participants are free to create story based on the three Supermons</p>
 </li>
 <li>
-<p>Only one entry per participant.</p>
+<p>Only one entry per individual/team.</p>
 </li>
 <li>
 <p>Each entry should not exceed five hundred (500) words, excluding the title.</p>
@@ -142,10 +145,10 @@ in children</p>
 <p>29 April 2024 - Competition Briefing by the Public Hygiene Council</p>
 </li>
 <li>
-<p>10 July 2024 - Closing Date for Entry Submission</p>
+<p>Extension of Closing Date: 1 November 2024</p>
 </li>
 <li>
-<p>31 July 2024 - Announcement of Results and Prize Presentation</p>
+<p>January 2025 - Announcement of Results and Prize Presentation</p>
 </li>
 </ul>
 <h4><strong>Competition Briefing</strong></h4>
@@ -159,7 +162,7 @@ in children</p>
 </ul>
 <p>Please register your interest to attend the Competition Briefing via <strong><a href="https://form.gov.sg/660ec119e4f50d9ed13424b0" rel="noopener noreferrer nofollow" target="_blank">FORM.</a></strong>
 </p>
-<p><strong>Submission your entry <a href="https://form.gov.sg/660ec7aa56b6d6b97a34c1a7" rel="noopener noreferrer nofollow" target="_blank">HERE</a> by the closing deadline of <u>10 July 2024</u>.</strong>
+<p><strong>Submission your entry <a href="https://form.gov.sg/660ec7aa56b6d6b97a34c1a7" rel="noopener noreferrer nofollow" target="_blank">HERE</a> by the closing deadline of <u>1 November 2024</u>.</strong>
 </p>
 <h4><strong>Disclaimers</strong></h4>
 <ol data-tight="true" class="tight">
@@ -188,3 +191,4 @@ including the liberty to handle the works as it deems fit.</p>
 </li>
 </ol>
 <p>For further enquiries, please contact <a href="mailto:ask@publichygienecouncil.sg" rel="noopener noreferrer nofollow" target="_blank">ask@publichygienecouncil.sg</a>.</p>
+<p></p>
