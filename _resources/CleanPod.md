@@ -91,9 +91,9 @@ and sustainable manner.</p>
 </p>
 </li>
 </ul>
-<p>Once you have&nbsp;<a href="/initiatives/beachcleanup" rel="noopener noreferrer nofollow" target="_blank">registered your clean-up</a>, you may
-email us at&nbsp;<a href="mailto:ask@publichygienecouncil.sg" rel="noopener noreferrer nofollow" target="_blank">ask@publichygienecouncil.sg</a>&nbsp;to
-request for access to the nearest CleanPod available.</p>
+<p>Once you have&nbsp;<a href="/beachcleanup/" rel="noopener noreferrer nofollow" target="_blank">registered your clean-up</a>, you may email us at&nbsp;
+<a href="mailto:ask@publichygienecouncil.sg" rel="noopener noreferrer nofollow" target="_blank">ask@publichygienecouncil.sg</a>&nbsp;to request for access to the nearest
+CleanPod available.</p>
 <h2>CleanPods Located in Housing Estates:</h2>
 <table style="minWidth: 50px">
 <colgroup>
