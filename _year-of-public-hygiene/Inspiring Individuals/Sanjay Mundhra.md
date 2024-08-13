@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Inspiring Individuals
 ---
-<h3><strong>Firm Believer of Joint Responsibility in Keeping Singapore Clean - Sanjay Mundhra</strong></h3>
+<h3><strong>Firm believer of joint responsibility in keeping Singapore clean </strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sanjay__3_.jpg">
