@@ -2,9 +2,9 @@ collections:
   year-of-public-hygiene:
     output: true
     order:
-      - Inspiring Individuals/Aung Myo Hein.md
       - Inspiring Individuals/.keep
       - Inspiring Individuals/Inspiring Individuals.md
+      - Inspiring Individuals/Aung Myo Hein.md
       - Inspiring Individuals/Georgia Mor.md
       - Inspiring Individuals/Sanjay Mundhra.md
       - Inspiring Individuals/Tong Siew Keong.md
