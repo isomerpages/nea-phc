@@ -25,8 +25,8 @@ for the environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aung.jpg">
 </div>
-<p>Photo Caption: Aung Myo Hein and Aye Thet Mon Win at a clean-up activity
-held at Fort Canning Park</p>
+<p><em><sup>Photo Caption: Aung Myo Hein and Aye Thet Mon Win at a clean-up activity held at Fort Canning Park </sup></em>
+</p>
 <p>Aung shares that the work he is passionate about does not come without
 challenges. He has encountered negative reactions from members of the public
 during clean-up activities, such as on one occasion at Fort Canning Park
