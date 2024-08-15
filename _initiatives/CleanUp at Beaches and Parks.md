@@ -6,9 +6,7 @@ description: ""
 ---
 <p>Everyone has a role to play in keeping Singapore clean. Clean-ups are
 a great way for you to take action and make a positive difference.&nbsp;</p>
-<blockquote>
 <h3>Here's a simple&nbsp;<a href="/files/Initiatives/Beach cleanup/briefing_for_participants.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a>&nbsp;to get you started on organising your first clean-up!</h3>
-</blockquote>
 <p><strong>We strongly encourage you to get ready these items for a clean-up:</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -88,10 +86,8 @@ borrow your litter-picking tools.</p>
 <p>Your contact details</p>
 </li>
 </ol>
-<blockquote>
 <p><strong>Register at</strong>&nbsp;<strong><a href="https://www.eportal.nea.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.eportal.nea.gov.sg</a></strong>
 </p>
-</blockquote>
 <p><strong>Click on&nbsp;-&gt;&nbsp;Public Education &amp; Partnership&nbsp;-&gt;&nbsp;Learning Journeys -&gt;&nbsp;Clean-up at Beaches and Parks</strong>
 </p>
 <hr>
