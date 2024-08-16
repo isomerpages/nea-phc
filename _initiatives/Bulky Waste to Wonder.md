@@ -9,6 +9,177 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="Bulky Waste to Wonder Competition 2024" src="/images/Initiatives/bwtw_2024.png">
 </div>
 <h1>Bulky Waste to Wonder Competition 2024</h1>
+<h3>Finalists Announced!</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>S/N</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>TEAM</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>DESIGN TITLE</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>SCHOOL</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tai Bei Ni</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SOFY-SOFA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bedok Green Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siva Ganesh Raman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mobile Guitar and Masterpiece Holder</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Greenridge Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chong Haw Yang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guitar Storage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Greenridge Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liu Chang Yuxi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bookstamp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Greenridge Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SZC</p>
+<p>(Sio Zi Ting, Ong Shi Ying &amp; Chloe Chan Hsuen Wen)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Space Saving Study (SSS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kranji Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eco Friendly</p>
+<p>(Jeya and Alya)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indoor Urban</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kranji Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team Kyra and Natasha</p>
+<p>(Kyra Seow Kai Hui &amp; Natasha Lee Shuen Lin)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GreenCanvas Cabinet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raffles Girls' School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team SST</p>
+<p>(Gedeon Koh, Tessa Lee &amp; Rykiel Han)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Play Haven Table</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School of Science and Technology, Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team YTD</p>
+<p>(Daen Lau Peet Woon, Lee Yih Neng &amp; Teo Tian Shan)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Magic Stairs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Temasek Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NAZ Design</p>
+<p>(Advaith Karthikeyan, Dhandhania Nivan Pankaj &amp; Tham Zi Him)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Baobab Accessory Holder</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Temasek Secondary School</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>About the Competition</h3>
 <p>Singapore generated 7.39 million tonnes of waste in 2022. This is not
 sustainable, and it is imperative for every one of us to adopt an eco-friendlier
