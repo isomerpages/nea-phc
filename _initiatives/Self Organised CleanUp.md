@@ -43,7 +43,7 @@ you.</p>
 </li>
 <li>
 <p><strong>Step 3:</strong> Get ready tongs and trash bags. Alternatively,
-you may wish to borrow litter-picking tools from a CleanPod near you.</p>
+you may wish to borrow litter-picking tools from a <a href="/resources/cleanpod/" rel="noopener noreferrer nofollow" target="_blank">CleanPod</a> near you.</p>
 </li>
 <li>
 <p><strong>Step 4:</strong> Before the clean-up, brief your friends/family/participants
