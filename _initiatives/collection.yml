@@ -2,12 +2,12 @@ collections:
   initiatives:
     output: true
     order:
-      - National Day CleanUp.md
       - Initiatives.md
       - Bulky Waste to Wonder.md
       - CleanUp at Beaches and Parks.md
       - Corporate Action Network.md
       - KeepSGClean Supermons Story Writing Competition.md
+      - National Day CleanUp.md
       - Neighbourhood Toilets Community Group.md
       - Quarterly SG Clean Day.md
       - RISE Champions Network.md
