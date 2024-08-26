@@ -66,7 +66,7 @@ bins nearest to you.</p>
 <p></p>
 <p>You may organise your own clean-up activity in the housing estates or
 at parks and beaches. For clean-ups at parks and beaches, you may wish
-to register your activity with us <a href="/selforgcleanup/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+to register your activity with us <a href="/beachcleanup/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p><strong>Remember: Safety First! Watch out for inclement weather or possible dangerous items on the ground like sharp objects. Stop the activity if you are not feeling well.</strong>
 </p>
