@@ -2,7 +2,6 @@ collections:
   initiatives:
     output: true
     order:
-      - National Day CleanUp.md
       - Initiatives.md
       - Bulky Waste to Wonder.md
       - CleanUp at Beaches and Parks.md
@@ -11,4 +10,5 @@ collections:
       - Neighbourhood Toilets Community Group.md
       - Quarterly SG Clean Day.md
       - RISE Champions Network.md
+      - Self Organised CleanUp.md
       - Sustainable Bright Spot.md
