@@ -181,11 +181,11 @@ description: ""
 </tbody>
 </table>
 <h3>About the Competition</h3>
-<p>Singapore generated 7.39 million tonnes of waste in 2022. This is not
-sustainable, and it is imperative for every one of us to adopt an eco-friendlier
-lifestyle. Our youths are the future custodians of our environment and
-hence it is even more critical to inculcate the civic-mindedness and cultivate
-the right values in them.</p>
+<p>Singapore generated 7.39 million tonnes and 6.86 million tonnes of waste
+in 2022 and 2023 respectively. This is not sustainable, and it is imperative
+for every one of us to adopt an eco-friendlier lifestyle. Our youths are
+the future custodians of our environment and hence it is even more critical
+to inculcate the civic-mindedness and cultivate the right values in them.</p>
 <p>In partnership with the Ministry of Education (MOE) – Character &amp;
 Citizenship Education Branch and J.O.E (Just One Earth) Eco Alliance, the
 Public Hygiene Council (PHC) is pleased to organise a nation-wide competition
