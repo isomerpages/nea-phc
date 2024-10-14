@@ -2,7 +2,6 @@ collections:
   year-of-public-hygiene:
     output: true
     order:
-      - Inspiring Individuals/Seet Kok Heng.md
       - Inspiring Individuals/.keep
       - Inspiring Individuals/Inspiring Individuals.md
       - Inspiring Individuals/Aung Myo Hein.md
