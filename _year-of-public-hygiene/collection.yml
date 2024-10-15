@@ -2,6 +2,9 @@ collections:
   year-of-public-hygiene:
     output: true
     order:
+      - Exemplary Educators/Seet Kok Heng.md
+      - Exemplary Educators/Exemplary Educators.md
+      - Exemplary Educators/.keep
       - Inspiring Individuals/.keep
       - Inspiring Individuals/Inspiring Individuals.md
       - Inspiring Individuals/Aung Myo Hein.md
@@ -9,5 +12,4 @@ collections:
       - Inspiring Individuals/Sanjay Mundhra.md
       - Inspiring Individuals/Tong Siew Keong.md
       - Year of Public Hygiene.md
-      - Exemplary Educators.md
       - Unsung Heroes.md
