@@ -86,10 +86,7 @@ and sustainable manner.</p>
 <p>Pasir Ris Park - Area 4</p>
 </li>
 <li>
-<p>Ulu Pandan Park Connector (North Bank)</p>
-</li>
-<li>
-<p>West Coast
+<p>Ulu Pandan Park Connector (North Bank
 <br>
 </p>
 </li>
@@ -193,14 +190,6 @@ CleanPod available.</p>
 <p>Tel: 6299 0565
 <br>Email:&nbsp;<a href="mailto:pa_pekkiocc@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa_pekkiocc@pa.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>West Coast</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
