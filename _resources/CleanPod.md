@@ -86,7 +86,10 @@ and sustainable manner.</p>
 <p>Pasir Ris Park - Area 4</p>
 </li>
 <li>
-<p>Ulu Pandan Park Connector (North Bank)
+<p>Ulu Pandan Park Connector (North Bank)</p>
+</li>
+<li>
+<p>West Coast
 <br>
 </p>
 </li>
@@ -154,14 +157,6 @@ CleanPod available.</p>
 <p>Tel: 6563 2528&nbsp;
 <br>Email:&nbsp;<a href="mailto:bukitbatokzone8rc@gmail.com" rel="noopener noreferrer nofollow" target="_blank">bukitbatokzone8rc@gmail.com</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Gardens by the Bay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
