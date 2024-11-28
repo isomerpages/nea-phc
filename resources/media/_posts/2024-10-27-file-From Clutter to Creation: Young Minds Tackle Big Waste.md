@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/Media_Release_Bulky_Waste_to_Wonder_Competition_2024.pdf
+file_url: /files/MR_BWTW2024_Finals.pdf
 ---

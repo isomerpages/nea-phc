@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/Resource Room/Media/sg_clean_day_travel_quest_mr_final.pdf
+file_url: /files/MR_Travel_Quest.pdf
 ---
