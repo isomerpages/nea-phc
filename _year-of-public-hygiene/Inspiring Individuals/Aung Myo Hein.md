@@ -13,8 +13,8 @@ demeanour change and his face light up with joy.</p>
 <p>The 32-year-old has been an active volunteer and environmental advocate
 since his days at university. After moving to Singapore in 2020, Aung’s
 friends invited him to participate in clean-up activities organised by
-the Green and Clean Volunteers Group – a member of the Public Hygiene Council
-(PHC)’s R.I.S.E Champions Network.</p>
+the <a href="https://www.facebook.com/greenncleanmm/" rel="noopener nofollow" target="_blank">Green and Clean Volunteers Group</a> –
+a member of the Public Hygiene Council (PHC)’s R.I.S.E Champions Network.</p>
 <p>It was during one of these occasions that he met his fiancée, Aye Thet
 Mon Win, who shares the same passion for the environment as he does. The
 couple did not have much opportunity to interact at first, as they were
