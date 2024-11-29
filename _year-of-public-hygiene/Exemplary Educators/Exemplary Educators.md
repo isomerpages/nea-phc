@@ -28,7 +28,7 @@ Clean!</p>
 <hr>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/seet-kok-heng/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A Dedicated Family Man and Community Leader" src="/images/Seet.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Seet Kok Heng</div><div class="isomer-card-description">It is heartening to see how the message has been accepted. Nowadays, we see more and more people cleaning up after themselves</div><div class="isomer-card-link">Read more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.publichygienecouncil.sg/zhou-haiyan/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Inspiring Sustainability Through Creativity, One Community at A Time" src="/images/HY.jpg">
