@@ -18,9 +18,9 @@ to play in conservation and that even the smallest actions can have a profound
 impact.</p>
 <p></p>
 <p>As Chairperson of Just One Solution (JOS), an office furniture company,
-and the non-profit organisation Just One Earth (J.O.E), which focuses on
-environmental conservation, Haiyan has made sustainability a cornerstone
-of her life and work.</p>
+and the non-profit organisation <a href="https://www.joeecoalliance.com/en/" rel="noopener nofollow" target="_blank">Just One Earth (J.O.E.) Eco Alliance</a>,
+which focuses on environmental conservation, Haiyan has made sustainability
+a cornerstone of her life and work.</p>
 <p></p>
 <p>Her commitment was sparked by the potential threat of rising sea levels
 to Singapore, leading her to volunteer with the Tzu Chi Foundation. For
