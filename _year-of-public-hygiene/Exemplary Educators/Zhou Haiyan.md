@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Exemplary Educators
 ---
-<p><strong>Inspiring Sustainability Through Creativity, One Community at A Time</strong>
-</p>
+<h1><strong>Inspiring sustainability through creativity, one community at a time</strong></h1>
 <p></p>
 <p>"While changing the world can be challenging, we can all do our part by
 altering our lifestyles. If everyone comes together with the same commitment,
@@ -30,8 +29,8 @@ environmental stewardship.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HY1.jpg">
 </div>
-<p>Photo Caption: Zhou Hai Yan educating neighbourhood residents on making
-reusable bags for Tzu Chi Environmental Sustainability Day</p>
+<p><em><sub>Photo Caption: Zhou Hai Yan educating neighbourhood residents on making reusable bags for Tzu Chi Environmental Sustainability Day</sub></em>
+</p>
 <p></p>
 <p>Haiyan’s vision aligns with that of the Public Hygiene Council (PHC),
 prompting her to partner with PHC and the Ministry of Education to launch
@@ -42,10 +41,7 @@ pieces, fostering creativity and environmental consciousness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HY2.jpg">
 </div>
-<p>Photo Caption: Hai Yan (Left), alongside Dr Amy Khor, Senior Minister
-of State for Transport and Senior Minister of State for Sustainability
-and the Environment and Mr Andrew Khng, PHC Chairman viewing winning entries
-at the Bulky Waste to Wonder Competition 2024
+<p><em><sub>Photo Caption: Hai Yan (Left), alongside Dr Amy Khor, Senior Minister of State for Transport and Senior Minister of State for Sustainability and the Environment and Mr Andrew Khng, PHC Chairman viewing winning entries at the Bulky Waste to Wonder Competition 2024 </sub></em>
 <br>
 <br>
 </p>
