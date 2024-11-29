@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Exemplary Educators
 ---
-<h1>A dedicated family man and community leader</h1>
+<h3><strong>A dedicated family man and community leader</strong></h3>
 <p>Seet Kok Heng, 57, is a devoted family man, husband to Cai Xiao Feng,
 47, and father to 8-year-old Ethan Seet Yu Chen. As Director at Hai Khim
 Engineering, a local eco-mobility firm that designs, develops and delivers
