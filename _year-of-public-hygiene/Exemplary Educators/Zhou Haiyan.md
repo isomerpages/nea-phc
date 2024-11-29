@@ -29,7 +29,7 @@ environmental stewardship.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HY1.jpg">
 </div>
-<p><em><sub>Photo Caption: Zhou Hai Yan educating neighbourhood residents on making reusable bags for Tzu Chi Environmental Sustainability Day</sub></em>
+<p><em><sub>Photo Caption: Hai Yan educating neighbourhood residents on making reusable bags for Tzu Chi Environmental Sustainability Day</sub></em>
 </p>
 <p></p>
 <p>Haiyan’s vision aligns with that of the Public Hygiene Council (PHC),
