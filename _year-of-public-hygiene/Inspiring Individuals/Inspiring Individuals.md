@@ -20,7 +20,7 @@ by these individuals who have contributed selflessly for our environment.</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Georgia Mor, Co-Founder, One Planet Singapore</div>
 <div class="isomer-card-description">Small actions, big impact. Our little actions everyday can make a huge
-difference to our environment</div>
+difference to our environment.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/tong-siew-keong/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Siew Keong clearing trash from the beach at Punggol Point Jetty" src="/images/SKTong1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tong Siew Keong, Senior IT Manager</div><div class="isomer-card-description">I love Singapore. This is where I live. I see it as my responsiblity to keep her clean.</div><div class="isomer-card-link">Read more</div></div></a>
