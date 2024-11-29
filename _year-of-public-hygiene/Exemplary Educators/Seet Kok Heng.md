@@ -24,7 +24,8 @@ commitment with his family to volunteering.</p>
 <p>Today, Kok Heng is an active Grassroots Leader and the Organising Chair
 for Jalan Kayu’s Community Food Rescue, an initiative that distributes
 food that is near expiry to those who need it.</p>
-<p>He also serves as an advisor at the Lions Club of Singapore Mandarin.
+<p>He also serves as an advisor at the <a href="a member of the Public Hygiene Council (PHC)’s R.I.S.E Champions Network" rel="noopener nofollow" target="_blank">Lions Club of Singapore Mandarin</a>,
+a member of the Public Hygiene Council (PHC)’s R.I.S.E Champions Network.
 Previously holding the position of District Chairperson from 2019 to 2022,
 he continues to act as the liaison between the Lions Club and the Public
 Hygiene Council (PHC).</p>
