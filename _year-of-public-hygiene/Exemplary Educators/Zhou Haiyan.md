@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Exemplary Educators
 ---
-<h1><strong>Inspiring sustainability through creativity, one community at a time</strong></h1>
+<h1>Inspiring sustainability through creativity, one community at a time</h1>
 <p></p>
 <p>"While changing the world can be challenging, we can all do our part by
 altering our lifestyles. If everyone comes together with the same commitment,
