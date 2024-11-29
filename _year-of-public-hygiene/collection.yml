@@ -2,10 +2,10 @@ collections:
   year-of-public-hygiene:
     output: true
     order:
-      - Exemplary Educators/Zhou Haiyan.md
-      - Exemplary Educators/Seet Kok Heng.md
-      - Exemplary Educators/Exemplary Educators.md
       - Exemplary Educators/.keep
+      - Exemplary Educators/Seet Kok Heng.md
+      - Exemplary Educators/Zhou Haiyan.md
+      - Exemplary Educators/Exemplary Educators.md
       - Inspiring Individuals/.keep
       - Inspiring Individuals/Inspiring Individuals.md
       - Inspiring Individuals/Aung Myo Hein.md
