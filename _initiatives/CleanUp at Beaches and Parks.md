@@ -48,6 +48,10 @@ borrow your litter-picking tools.</p>
 </p>
 </li>
 <li>
+<p><a href="/files/Instruction_to_CleanPod_GBB_101224.pdf" rel="noopener noreferrer nofollow" target="_blank">Gardens by the Bay</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Initiatives/Beach cleanup/jurong_central_park_map_updated_mar_2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Jurong Central Park</a>
 </p>
 </li>
