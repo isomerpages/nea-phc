@@ -74,7 +74,7 @@ and sustainable manner.</p>
 <p>East Coast Park - Area G</p>
 </li>
 <li>
-<p>Gardens by the Bay - Next to Understorey Mushroom Hut</p>
+<p>Gardens by the Bay - Understorey (next to Mushroom Hut)</p>
 </li>
 <li>
 <p>Jurong Central Park&nbsp;</p>
@@ -86,7 +86,7 @@ and sustainable manner.</p>
 <p>Pasir Ris Park - Area 4</p>
 </li>
 <li>
-<p>Ulu Pandan Park Connector (North Bank
+<p>Ulu Pandan Park Connector (North Bank)
 <br>
 </p>
 </li>
