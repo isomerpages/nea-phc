@@ -6,7 +6,7 @@ description: ""
 ---
 <p>Everyone has a role to play in keeping Singapore clean. Clean-ups are
 a great way for you to take action and make a positive difference.&nbsp;</p>
-<h3>Here's a simple&nbsp;<a href="/files/Initiatives/Beach cleanup/briefing_for_participants.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a>&nbsp;to get you started on organising your first clean-up!</h3>
+<h3>Here's a simple&nbsp;<a href="/files/briefing_for_participants.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a>&nbsp;to get you started on organising your first clean-up!</h3>
 <p><strong>We strongly encourage you to get ready these items for a clean-up:</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -45,6 +45,10 @@ borrow your litter-picking tools.</p>
 </li>
 <li>
 <p><a href="/files/Initiatives/Beach cleanup/east_coast_park_map.pdf" rel="noopener noreferrer nofollow" target="_blank">East Coast Beach Park</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Instruction_to_CleanPod_GBB_101224.pdf" rel="noopener noreferrer nofollow" target="_blank">Gardens by the Bay</a>
 </p>
 </li>
 <li>
