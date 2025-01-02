@@ -78,6 +78,7 @@ to enable greater participation and effectiveness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/asez_logo_tmb_thumbnail.png">
 </div>
+<p></p>
 <p><a href="https://asez.org/" rel="noopener noreferrer nofollow" target="_blank">ASEZ</a>
 </p>
 </td>
@@ -86,6 +87,7 @@ to enable greater participation and effectiveness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/blossom_world_singapore_logo_tmb_thumbnail.png">
 </div>
+<p></p>
 <p><a href="https://www.blossomworld.sg/" rel="noopener noreferrer nofollow" target="_blank">Blossom World Society - Project C.P.R.</a>
 </p>
 </td>
@@ -110,7 +112,6 @@ to enable greater participation and effectiveness.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/G_C_Logo.jpg">
@@ -125,21 +126,15 @@ to enable greater participation and effectiveness.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/green_nudge_2d98410b_b3c5_43b2_a7ad_a9735e540197_tmb_thumbnail.jpg">
 </div>
 <p>
-<br>
-<br>
 <br><a href="https://www.greennudge.sg/" rel="noopener noreferrer nofollow" target="_blank">Green Nudge</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/guardians_of_mother_earth_logo_tmb_thumbnail.png">
 </div>
 <p>
-<br>
-<br>
 <br><a href="https://www.facebook.com/GuardiansOfMotherEarth.Sg/" rel="noopener noreferrer nofollow" target="_blank">Guardians of Mother Earth</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -148,7 +143,6 @@ to enable greater participation and effectiveness.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/habitat_for_humanity_singapore_logo_tmb_thumbnail.png">
 </div>
 <p>
-<br>
 <br><a href="https://www.habitat.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Habitat for Humanity Singapore</a>
 </p>
 </td>
@@ -168,16 +162,14 @@ to enable greater participation and effectiveness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/just_one_earth_eco_alliance_tmb_thumbnail.png">
 </div>
-<p>&nbsp;<a href="http://www.joeecoalliance.com/" rel="noopener noreferrer" target="_blank">Just One Earth<br>Eco Alliance (JOE Eco Alliance)</a>
+<p><a href="http://www.joeecoalliance.com/" rel="noopener noreferrer" target="_blank">Just One Earth<br>Eco Alliance (JOE Eco Alliance)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/kindred_community_logo_tmb_thumbnail.png">
 </div>
-<p></p>
 <p>
 <br><a href="https://kindred.sg/" rel="noopener noreferrer nofollow" target="_blank">Kindred Community</a>&nbsp;</p>
 </td>
@@ -197,28 +189,25 @@ to enable greater participation and effectiveness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/little_green_men_tmb_thumbnail.png">
 </div>
+<p></p>
 <p><a href="https://www.facebook.com/littlegreenmensg" rel="noopener noreferrer nofollow" target="_blank">Little Green Men</a>&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/national_environment_agency_logo_tmb_thumbnail.png">
 </div>
 <p>
-<br>
 <br><a href="https://www.nea.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Environment Agency</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/national_parks_board_logo_tmb_thumbnail.png">
 </div>
 <p>
-<br>
-<br><a href="https://www.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Parks Board</a> 
+<br><a href="https://www.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Parks Board</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -226,6 +215,7 @@ to enable greater participation and effectiveness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/nature_society_singapore_tmb_thumbnail.jpg">
 </div>
+<p></p>
 <p><a href="https://www.nss.org.sg/" rel="noopener noreferrer" target="_blank">Nature Society (Singapore)</a>&nbsp;</p>
 </td>
 </tr>
@@ -239,9 +229,7 @@ to enable greater participation and effectiveness.</p>
 <br><a href="https://www.instagram.com/nypgeocouncil" rel="noopener noreferrer nofollow" target="_blank">Nanyang Polytechnic GEO Council</a>&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/nus_save_transparent_background_tmb_thumbnail.png">
 </div>
@@ -274,9 +262,7 @@ to enable greater participation and effectiveness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/pa_passion_wave_logo__public_agency__tmb_thumbnail.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p><a href="https://www.facebook.com/pa.passionwave" rel="noopener noreferrer nofollow" target="_blank">PA Passion Wave</a>
 </p>
 </td>
@@ -306,15 +292,18 @@ to enable greater participation and effectiveness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/republic_polytechnic_conservation_interest_group_logo_tmb_thumbnail.png">
 </div>
-<p><a href="https://www.instagram.com/rp_green_conservancy/" rel="noopener noreferrer nofollow" target="_blank">Republic Polytechnic Conservation Interest Group</a> 
+<p></p>
+<p><a href="https://www.instagram.com/rp_green_conservancy/" rel="noopener noreferrer nofollow" target="_blank">Republic Polytechnic Conservation Interest Group</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/restroom_association_sg_tmb_thumbnail.png">
 </div>
+<p></p>
 <p>Restroom Association (Singapore)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -328,13 +317,11 @@ to enable greater participation and effectiveness.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondsguru_Logo.jpg">
 </div>
 <p>&nbsp;</p>
-<p>
-<br><a href="https://secondsguru.com/" rel="noopener noreferrer nofollow" target="_blank">Secondsguru</a>
+<p><a href="https://secondsguru.com/" rel="noopener noreferrer nofollow" target="_blank">Secondsguru</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -363,9 +350,8 @@ to enable greater participation and effectiveness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/shinnyo_en_singapore_tmb_thumbnail.jpg">
 </div>
-<p>
-<br>
-<br><a href="https://www.shinnyoen.sg/" rel="noopener noreferrer" target="_blank">Shinnyo-en Singapore</a>
+<p></p>
+<p><a href="https://www.shinnyoen.sg/" rel="noopener noreferrer" target="_blank">Shinnyo-en Singapore</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -373,19 +359,17 @@ to enable greater participation and effectiveness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/singapore_glove_project_logo_tmb_thumbnail.png">
 </div>
-<p><a href="https://bit.ly/SG_Glove_Project" rel="noopener noreferrer nofollow" target="_blank">Singapore Glove Project</a> 
+<p></p>
+<p><a href="https://bit.ly/SG_Glove_Project" rel="noopener noreferrer nofollow" target="_blank">Singapore Glove Project</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/singapore_kindness_movement_logo_tmb_thumbnail.png">
 </div>
 <p>
-<br>
-<br><a href="https://www.kindness.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Kindness Movement</a> 
+<br><a href="https://www.kindness.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Kindness Movement</a>
 </p>
 </td>
 </tr>
@@ -396,7 +380,7 @@ to enable greater participation and effectiveness.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/the_singapore_scout_association_logo_tmb_thumbnail.png">
 </div>
 <p>
-<br><a href="http://www.scout.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Scout Association</a> 
+<br><a href="http://www.scout.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Scout Association</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -404,15 +388,17 @@ to enable greater participation and effectiveness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/stridy_mainmark_black_tmb_thumbnail.png">
 </div>
-<p><a href="http://www.stridy.com/" rel="noopener noreferrer nofollow" target="_blank">Stridy</a> 
+<p></p>
+<p><a href="http://www.stridy.com/" rel="noopener noreferrer nofollow" target="_blank">Stridy</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/sutd_greenprint_tmb_thumbnail.png">
 </div>
 <p>
-<br><a href="https://greenprint.opensutd.org/index.html" rel="noopener noreferrer" target="_blank">SUTD Greenprint</a> 
+<br><a href="https://greenprint.opensutd.org/index.html" rel="noopener noreferrer" target="_blank">SUTD Greenprint</a>
 </p>
 <p></p>
 </td>
@@ -422,17 +408,18 @@ to enable greater participation and effectiveness.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/temasek_polytechnic_green_interest_group_logo_tmb_thumbnail.png">
 </div>
 <p></p>
-<p><a href="https://www.instagram.com/tpgig" rel="noopener noreferrer nofollow" target="_blank">Temasek Polytechnic Green Interest Group</a> 
+<p><a href="https://www.instagram.com/tpgig" rel="noopener noreferrer nofollow" target="_blank">Temasek Polytechnic Green Interest Group</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/trash_hero_singapore_logo_tmb_thumbnail.png">
 </div>
 <p>
-<br><a href="https://www.facebook.com/TrashHeroSingapore" rel="noopener noreferrer nofollow" target="_blank">Trash Hero Singapore</a> 
+<br><a href="https://www.facebook.com/TrashHeroSingapore" rel="noopener noreferrer nofollow" target="_blank">Trash Hero Singapore</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -445,9 +432,7 @@ to enable greater participation and effectiveness.</p>
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/youth_corps_singapore__public_agency__tmb_thumbnail.png">
 </div>
@@ -456,6 +441,7 @@ to enable greater participation and effectiveness.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/zeo_waste_sg_tmb_thumbnail.png">
 </div>
