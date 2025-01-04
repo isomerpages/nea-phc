@@ -453,6 +453,12 @@ to enable greater participation and effectiveness.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/BMR_Logo.png">
+</div>
+<p></p>
+<p><a href="https://www.bmr.sg/page/about_us" rel="noopener nofollow" target="_blank">Buddhist Meditation Retreat</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
