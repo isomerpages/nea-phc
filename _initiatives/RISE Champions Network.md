@@ -65,30 +65,6 @@ to enable greater participation and effectiveness.</p>
 <p>For more information, visit <a href="https://rise-network.sg/" rel="noopener noreferrer nofollow" target="_blank">R.I.S.E. website</a>.</p>
 <h3>Members of the R.I.S.E. Champions Network:</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://asez.org/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ASEZ" src="/images/Initiatives/Rise/asez_logo_tmb_thumbnail.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ASEZ</div><div class="isomer-card-link">Website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.blossomworld.sg/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Blossom" src="/images/Initiatives/Rise/blossom_world_singapore_logo_tmb_thumbnail.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Blossom World Society</div>
-<div class="isomer-card-link">Website</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.bmr.sg/page/about_us" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder imageBMR" src="/images/Initiatives/Rise/BMR_Logo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Buddhist Meditation Retreat</div><div class="isomer-card-link">Website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.coastalnatives.sg/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="coastal native" src="/images/Initiatives/Rise/coastal_natives_logo_tmb_thumbnail.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Coastal Natives</div>
-<div class="isomer-card-link">Website</div>
-</div>
-</a>
-</div>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
