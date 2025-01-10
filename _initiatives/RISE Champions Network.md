@@ -64,7 +64,74 @@ to enable greater participation and effectiveness.</p>
 </table>
 <p>For more information, visit <a href="https://rise-network.sg/" rel="noopener noreferrer nofollow" target="_blank">R.I.S.E. website</a>.</p>
 <h3>Members of the R.I.S.E. Champions Network:</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="4">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/Tier_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ASEZ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Buddhist Meditation Retreat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blossom World Society</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coastal Natives</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/Tier_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eco-SIM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Green &amp; Clean Volunteers Group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Green Nudge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guardians of Mother Earth</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
