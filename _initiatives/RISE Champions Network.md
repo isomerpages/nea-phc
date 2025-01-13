@@ -82,16 +82,20 @@ to enable greater participation and effectiveness.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ASEZ</p>
+<p><a href="https://asez.org/" rel="noopener nofollow" target="_blank">ASEZ</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Buddhist Meditation Retreat</p>
+<p><a href="https://bmr.sg/page/about_us" rel="noopener nofollow" target="_blank">Buddhist Meditation Retreat</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Blossom World Society</p>
+<p><a href="https://www.blossomworld.sg/" rel="noopener nofollow" target="_blank">Blossom World Society</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Coastal Natives</p>
+<p><a href="https://www.coastalnatives.sg/" rel="noopener nofollow" target="_blank">Coastal Natives</a>
+</p>
 </td>
 </tr>
 <tr>
