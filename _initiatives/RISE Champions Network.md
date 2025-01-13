@@ -191,7 +191,6 @@ to enable greater participation and effectiveness.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://nussavewrites.wordpress.com/" rel="noopener nofollow" target="_blank">NUS SAVE</a>
-<a href="https://www.facebook.com/groups/939651983034264/" rel="noopener nofollow" target="_blank">One Planet (Singapore)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
