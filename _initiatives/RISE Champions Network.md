@@ -134,16 +134,20 @@ to enable greater participation and effectiveness.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.habitat.org.sg/" rel="noopener nofollow" target="_blank">Habitat for Humanity Singapore</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://coastalcleanup.nus.edu.sg/" rel="noopener nofollow" target="_blank">International Coastal Cleanup Singapore</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.joeecoalliance.com/en/" rel="noopener nofollow" target="_blank">J.O.E Eco Alliance</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://kindred.sg/" rel="noopener nofollow" target="_blank">Kindred Community</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -156,16 +160,20 @@ to enable greater participation and effectiveness.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.facebook.com/lcs.mandarin.1982/" rel="noopener nofollow" target="_blank">Lions Club of Singapore Mandarin</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.facebook.com/littlegreenmensg" rel="noopener nofollow" target="_blank">Little Green Men</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.nea.gov.sg/" rel="noopener nofollow" target="_blank">National Environment Agency</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.nparks.gov.sg/" rel="noopener nofollow" target="_blank">National Parks Board</a>
+</p>
 </td>
 </tr>
 <tr>
