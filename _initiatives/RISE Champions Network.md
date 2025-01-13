@@ -199,7 +199,8 @@ to enable greater participation and effectiveness.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.facebook.com/groups/939651983034264/" rel="noopener nofollow" target="_blank">One Planet (Singapore)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -225,7 +226,6 @@ to enable greater participation and effectiveness.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.facebook.com/pulauubincleanup" rel="noopener nofollow" target="_blank">Pulau Ubin Cleanup</a>
-<a href="https://www.facebook.com/groups/939651983034264/" rel="noopener nofollow" target="_blank">One Planet (Singapore)</a>
 </p>
 </td>
 </tr>
@@ -239,16 +239,20 @@ to enable greater participation and effectiveness.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.instagram.com/rp_conservation/" rel="noopener nofollow" target="_blank">Republic Polytechnic Conservation Interest Group</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.toilet.org.sg/" rel="noopener nofollow" target="_blank">Restroom Association (Singapore)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.seastainable.co/" rel="noopener nofollow" target="_blank">Seastainable Co.</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.instagram.com/secondsguru/?hl=en" rel="noopener nofollow" target="_blank">Secondsguru</a>
+</p>
 </td>
 </tr>
 <tr>
