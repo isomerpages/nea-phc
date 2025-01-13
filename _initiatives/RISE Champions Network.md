@@ -108,16 +108,20 @@ to enable greater participation and effectiveness.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Eco-SIM</p>
+<p><a href="https://www.facebook.com/EcoSIMClub" rel="noopener nofollow" target="_blank">Eco-SIM</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Green &amp; Clean Volunteers Group</p>
+<p><a href="https://www.facebook.com/greenncleanmm" rel="noopener nofollow" target="_blank">Green &amp; Clean Volunteers Group</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Green Nudge</p>
+<p><a href="https://www.greennudge.sg/" rel="noopener nofollow" target="_blank">Green Nudge</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guardians of Mother Earth</p>
+<p><a href="https://www.facebook.com/GuardiansOfMotherEarth.Sg/" rel="noopener nofollow" target="_blank">Guardians of Mother Earth</a>
+</p>
 </td>
 </tr>
 <tr>
