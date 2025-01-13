@@ -265,16 +265,20 @@ to enable greater participation and effectiveness.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.facebook.com/sevencleanseas" rel="noopener nofollow" target="_blank">Seven Clean Seas</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.shinnyoen.sg/" rel="noopener nofollow" target="_blank">Shinnyo-En Singapore</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.facebook.com/groups/sgbeachwarriors/" rel="noopener nofollow" target="_blank">SG Beach Warriors</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.facebook.com/groups/yellowgloveproject/" rel="noopener nofollow" target="_blank">Singapore Glove Project</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -287,7 +291,8 @@ to enable greater participation and effectiveness.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.kindness.sg/" rel="noopener nofollow" target="_blank">Singapore Kindness Movement</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
