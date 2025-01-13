@@ -186,13 +186,17 @@ to enable greater participation and effectiveness.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.nss.org.sg/" rel="noopener nofollow" target="_blank">Nature Society Singapore</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://nussavewrites.wordpress.com/" rel="noopener nofollow" target="_blank">NUS SAVE</a>
+<a href="https://www.facebook.com/groups/939651983034264/" rel="noopener nofollow" target="_blank">One Planet (Singapore)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.instagram.com/nypgeocouncil" rel="noopener nofollow" target="_blank">Nanyang Polytechnic GEO Council</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -208,16 +212,21 @@ to enable greater participation and effectiveness.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.instagram.com/oursingaporereefs/" rel="noopener nofollow" target="_blank">Our Singapore Reefs</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.facebook.com/pa.passionwave" rel="noopener nofollow" target="_blank">PAssion Wave</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.instagram.com/plasticlitesg/" rel="noopener nofollow" target="_blank">Plastic-Lite Singapore</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.facebook.com/pulauubincleanup" rel="noopener nofollow" target="_blank">Pulau Ubin Cleanup</a>
+<a href="https://www.facebook.com/groups/939651983034264/" rel="noopener nofollow" target="_blank">One Planet (Singapore)</a>
+</p>
 </td>
 </tr>
 <tr>
