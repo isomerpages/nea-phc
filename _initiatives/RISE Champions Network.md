@@ -295,13 +295,16 @@ to enable greater participation and effectiveness.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://scout.sg/" rel="noopener nofollow" target="_blank">Singapore Scout Association</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://stridy.com/" rel="noopener nofollow" target="_blank">Stridy</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://greenprint.opensutd.org/About_Us.html" rel="noopener nofollow" target="_blank">SUTD Greenprint</a>
+</p>
 </td>
 </tr>
 <tr>
