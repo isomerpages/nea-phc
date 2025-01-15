@@ -342,7 +342,7 @@ to enable greater participation and effectiveness.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/zerowastesg" rel="noopener nofollow" target="_blank">Zero Waste Singapore</a>
+<p><a href="https://www.zerowastesg.com/" rel="noopener nofollow" target="_blank">Zero Waste Singapore</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
