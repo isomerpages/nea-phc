@@ -24,7 +24,7 @@ and clean, you won't be disappointed. Once <strong><a href="https://www.nytimes.
 a place "so clean that bubble gum is a controlled substance", Singapore
 is universally known for its perfectly paved roads, manicured public parks,
 and spotless, litter-free streets.</p>
-<p>ut cleanliness is more than a merely aesthetic ideal here. In this small
+<p>But cleanliness is more than a merely aesthetic ideal here. In this small
 city-state with just under 56 years of national independence under its
 belt, cleanliness has been synonymous with major social progress, unprecedented
 economic growth and, most recently, <strong><a href="https://covid19.who.int/region/wpro/country/sg" class="sc-c9299ecf-0 bZUiKB" rel="noopener noreferrer nofollow" target="_blank"><u>a coordinated containment of the coronavirus pandemic</u></a></strong>.</p>
@@ -36,14 +36,6 @@ explained Donald Low, a Singaporean academic and public policy scholar.
 "Originally, that cleanliness had at least two connotations: the first
 was physical, or environmental, cleanliness; the second was a clean government
 and society that didn't tolerate corruption.</p>
-<p><strong>You may also be interested in:</strong>
-</p>
-<p>• <strong><a href="http://www.bbc.com/travel/story/20190317-the-three-values-that-shaped-singapore" class="sc-c9299ecf-0 bZUiKB" rel="noopener noreferrer nofollow" target="_self"><u>Is this the safest city in the world?</u></a></strong>
-</p>
-<p>• <strong><a href="http://www.bbc.com/travel/story/20191006-what-japan-can-teach-us-about-cleanliness" class="sc-c9299ecf-0 bZUiKB" rel="noopener noreferrer nofollow" target="_self"><u>What Japan can teach us about cleanliness</u></a></strong>
-</p>
-<p>• <strong><a href="http://www.bbc.com/travel/story/20180311-the-most-ambitious-country-in-the-world" class="sc-c9299ecf-0 bZUiKB" rel="noopener noreferrer nofollow" target="_self"><u>Is Singapore suffering from FOMO?</u></a></strong>
-</p>
 <p>Having separated from Malaysia in 1965, Singapore, led by then-prime minister
 Lee Kuan Yew, had lofty ambitions of becoming a "first-world oasis in a
 third-world region", as he termed it. "As a newly independent city-state
@@ -58,7 +50,7 @@ hawker centres.</p>
 <p>It also meant enacting a multitude of nationwide public hygiene campaigns
 appealing to Singapore's citizens to do their part. "Keeping the community
 clean requires a people conscious of their responsibilities," proclaimed
-Lee at the 1968 inauguration of <strong><a href="https://www.nea.gov.sg/programmes-grants/campaigns/keep-sg-clean-movement" class="sc-c9299ecf-0 bZUiKB" rel="noopener noreferrer nofollow" target="_blank"><u>Keep Singapore Clean</u></a></strong>,
+Lee at the 1968 inauguration of <strong><a href="https://www.cgs.gov.sg/what-we-do/keepsgclean/home/" class="sc-c9299ecf-0 bZUiKB" rel="noopener noreferrer nofollow" target="_blank"><u>Keep Singapore Clean</u></a></strong>,
 a now annual anti-littering initiative. Lee's speech sought to arouse a
 new sense of national pride among Singaporeans, appealing to a collectivist,
 communitarian spirit that he saw as vital to achieving the nation's goals.</p>
@@ -71,9 +63,9 @@ economy ranks as one of the most competitive on the planet.</p>
 <p>Nowhere feels more emblematic of the nation's modern-day vigour than its
 Central Business District, where shiny, sky-scraping office towers – home
 to thousands of international headquarters – sit beside world-class luxury
-hotels, including the iconic Moshe Safdie-designed <strong><a href="https://www.marinabaysands.com/" class="sc-c9299ecf-0 bZUiKB" rel="noopener noreferrer nofollow" target="_blank"><u>Marina Bay Sands</u></a></strong>.
-It's the kind of futuristic utopia that its founding prime minister could
-have only dreamed of.</p>
+hotels, including the iconic Moshe Safdie-designed Marine Bay Sands. It's
+the kind of futuristic utopia that its founding prime minister could have
+only dreamed of.</p>
 <p>It irked Lee that, despite his country's achievements, he'd somehow always
 be asked about the notorious chewing gum ban during interviews with foreign
 media. It's unlikely that he foresaw the level of global attention it would
