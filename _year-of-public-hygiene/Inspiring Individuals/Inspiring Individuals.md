@@ -44,7 +44,7 @@ a tangible impact on our community's cleanliness and environmental health.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Johny Tan</div>
+<div class="isomer-card-title">Johny Tan, Healthcare Administrator</div>
 <div class="isomer-card-description">We need to do our part in maintaining the cleanliness of our shared places
 – not just leaving it to cleaners.</div>
 <div class="isomer-card-link">Read more</div>
