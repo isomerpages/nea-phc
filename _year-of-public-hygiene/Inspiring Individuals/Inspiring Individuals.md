@@ -40,7 +40,7 @@ a tangible impact on our community's cleanliness and environmental health.</div>
 <a rel="noopener noreferrer nofollow" href="/johny-tan/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Johny Tan" src="/images/johnytan.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Johny Tan" src="/images/Johny_cropped.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
