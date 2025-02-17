@@ -37,5 +37,18 @@ a tangible impact on our community's cleanliness and environmental health.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/amatul-jameel-suhani-sujari/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Amatul Jameel Suhani Sujari" src="/images/Suhani_3a.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Amatul Jameel Suhani Sujari, Teacher</div><div class="isomer-card-description">Every small effort counts in upholding Singapore's Garden City status.</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/johny-tan/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Johny Tan" src="/images/Johny_cropped.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Johny Tan, Healthcare Administrator</div>
+<div class="isomer-card-description">We need to do our part in maintaining the cleanliness of our shared places
+– not just leaving it to cleaners.</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a>
 </div>
 <p></p>
