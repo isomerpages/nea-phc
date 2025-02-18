@@ -12,16 +12,16 @@ third_nav_title: Videos
 <iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CwguQLsPW3U?rel=0"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zALfgFsuExs?rel=0"></iframe>
-</div>
-<div class="iframe-wrapper">
 <iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YTH-PlHN9Ow?rel=0"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vg0foLiqu7U?rel=0"></iframe>
+<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zALfgFsuExs?rel=0"></iframe>
 </div>
 <div class="iframe-wrapper">
 <iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EOFHDyoRXnE?rel=0"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vg0foLiqu7U?rel=0"></iframe>
 </div>
 <div class="iframe-wrapper">
 <iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/n3j1D09rWrQ?rel=0"></iframe>
