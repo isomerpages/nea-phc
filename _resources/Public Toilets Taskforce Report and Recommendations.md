@@ -16,4 +16,4 @@ working with stakeholders, including coffeeshop operators and owners, industry
 experts, academics and the relevant agencies, the Taskforce has made 10
 recommendations to uplift the standards of our public toilets.</p>
 <p>The recommendations are summarised in a report. Download the report
-<a href="/files/briefing_for_participants.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<a href="/files/Public_Toilets_Taskforce_Report_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
