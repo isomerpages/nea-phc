@@ -89,3 +89,5 @@ provision of such services, as well as the application of these terms and
 conditions. Further, you agree to submit to the non-exclusive jurisdiction
 of the Singapore courts regarding any and all disputes relating to these
 terms and conditions and/or the use of this website.</p>
+<p><a href="/files/Public_Toilets_Taskforce_Report_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">PHC</a>
+</p>
