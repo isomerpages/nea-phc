@@ -73,5 +73,4 @@ to register your activity with us <a href="/beachcleanup/" rel="noopener norefer
 <p></p>
 <p><strong>Thank you for doing your part and helping to keep Singapore clean!</strong>
 </p>
-<p><a href="/files/Public_Toilets_Taskforce_Report.pdf" rel="noopener noreferrer nofollow" target="_blank">.....</a>
-</p>
+<p></p>
