@@ -2,9 +2,9 @@ collections:
   resources:
     output: true
     order:
-      - Public Toilets Taskforce Report and Recommendations.md
       - Overview.md
       - CleanPod.md
+      - Public Toilets Taskforce Report and Recommendations.md
       - Videos/.keep
       - Videos/Campaign Videos.md
       - Videos/Educational Videos.md
