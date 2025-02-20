@@ -4,17 +4,18 @@ permalink: /initiatives/sgcleanday/
 variant: tiptap
 description: ""
 ---
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SG Clean day" src="/images/Initiatives/phc_sg_clean_day_2024_fb_cover.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fb_cover_with_logo_v1.jpg">
 </div>
 <h3>SG Clean Day</h3>
 <p>The Public Hygiene Council designated 25 April 2021 as the inaugural SG
 Clean Day in partnership with all 17 Town Councils. Scheduled to be held
-quarterly, all Town Councils and partners will cease sweeping at selected
-areas of participating housing estates, public parks, attractions, reservoirs,
-shopping malls, transport nodes for a day with the aim of showing what
-the amount of litter there will be when we go without cleaners. This also
-helps us appreciate our cleaners more.</p>
+once every two months, all Town Councils and partners will cease sweeping
+at selected areas of participating housing estates, public parks, attractions,
+reservoirs, shopping malls, transport nodes for a day with the aim of showing
+what the amount of litter there will be when we go without cleaners. This
+also helps us appreciate our cleaners more.</p>
 <p>The upcoming bimonthly SG Clean Day will be held on Sunday, 23 Feb, 13
 Apr, 29 Jun, 31 Aug, 26 Oct and 28 Dec 2025, and new partners will be part
 of this initiative by ceasing cleaning at selected areas of public spaces.
