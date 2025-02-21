@@ -45,10 +45,10 @@ links:
         url: /resources/news
       - title: PH Times Newsletter
         url: /resources/ph-times-newsletter
-      - title: Videos
-        url: /resources/videos
       - title: PTTF Report
         url: /resources/pttf-report/
+      - title: Videos
+        url: /resources/videos
   - title: Contact & FAQ
     url: /contact-us/
     sublinks:
