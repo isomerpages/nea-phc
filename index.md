@@ -26,9 +26,9 @@ sections:
   - infobar:
       title: About Us
       subtitle: Public Hygiene Council
-      description: Formed in 2011 to improve public hygiene and cleanliness in
-        Singapore, PHC leads and galvanises community and industry efforts to
-        keep Singapore clean.
+      description: Formed in 2011 to improve public hygiene and cleanliness standards
+        in Singapore, PHC leads ground-up community and industry efforts to keep
+        Singapore clean.
       button: Read more
       url: /about/
   - infopic:
