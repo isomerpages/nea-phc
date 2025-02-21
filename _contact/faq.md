@@ -24,7 +24,7 @@ in a state we can be proud of, via the Keep Singapore Clean Movement.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Currently, we do not have any regular volunteer programmes for individuals.
 However, you may like to sign up as a volunteer for the environment at
-the Clean &amp; Green Singapore website at <a href="https://www.cgs.gov.sg/volunteer" rel="noopener noreferrer nofollow" target="_blank">https://www.cgs.gov.sg/how-can-we-act/volunteer/home</a>.</p>
+the Clean &amp; Green Singapore website at <a href="https://www.cgs.gov.sg/how-can-we-act/volunteer/home/" rel="noopener noreferrer nofollow" target="_blank">https://www.cgs.gov.sg/how-can-we-act/volunteer/home</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
