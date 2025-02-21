@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Hero title
       subtitle: Hero subtitle
-      background: /images/Banner.jpg
+      background: /images/Web_Banner_with_QR_code.jpg
       key_highlights:
         - title: News
           description: ""
