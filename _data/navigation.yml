@@ -9,10 +9,10 @@ links:
     sublinks:
       - title: Exemplary Educators
         url: /yoph/exemplary-educators/
-      - title: Unsung Heroes
-        url: /yoph/unsung-heroes/
       - title: Inspiring Individuals
         url: /inspiring-individuals
+      - title: Unsung Heroes
+        url: /yoph/unsung-heroes/
   - title: Initiatives & Programmes
     url: /initiatives/
     sublinks:
@@ -45,6 +45,8 @@ links:
         url: /resources/news
       - title: PH Times Newsletter
         url: /resources/ph-times-newsletter
+      - title: PTTF Report
+        url: /resources/pttf-report/
       - title: Videos
         url: /resources/videos
   - title: Contact & FAQ

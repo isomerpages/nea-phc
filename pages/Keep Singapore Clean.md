@@ -41,7 +41,7 @@ take action for a clean Singapore!</p>
 <p>Choose a location with toilets located nearby, whenever possible</p>
 </li>
 <li>
-<p>Wash and sanitise their hands and tools (from CleanPods) before and after
+<p>Wash and sanitise your hands and tools (from CleanPods) before and after
 the activity.</p>
 </li>
 </ol>

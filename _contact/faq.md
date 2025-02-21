@@ -14,7 +14,7 @@ Asked Questions (FAQs) regarding the Public Hygiene Council (PHC).
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Website aims to inspire everyone in Singapore to promote values of picking
-up after ourselves, throwing waste in bins and leaving our environment
+up after ourselves, disposing of waste in bins and leaving our environment
 in a state we can be proud of, via the Keep Singapore Clean Movement.</p>
 </div>
 </details>
@@ -24,7 +24,7 @@ in a state we can be proud of, via the Keep Singapore Clean Movement.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Currently, we do not have any regular volunteer programmes for individuals.
 However, you may like to sign up as a volunteer for the environment at
-the Clean &amp; Green Singapore website at <a href="https://www.cgs.gov.sg/volunteer" rel="noopener noreferrer nofollow" target="_blank">https://www.cgs.gov.sg/volunteer</a>.</p>
+the Clean &amp; Green Singapore website at <a href="https://www.cgs.gov.sg/how-can-we-act/volunteer/home/" rel="noopener noreferrer nofollow" target="_blank">https://www.cgs.gov.sg/how-can-we-act/volunteer/home</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -52,7 +52,10 @@ download links for the resources:</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You can&nbsp;<a href="https://www.publichygienecouncil.sg/beachcleanup" rel="noopener noreferrer nofollow" target="_blank">register&nbsp;</a>with
 NEA &amp; PHC to schedule clean-ups at popular locations such as the recreational
-beaches (Changi Beach, East Coast Beach, Pasir Ris Beach and Sembwang Beach)</p>
+beaches (Changi Beach, East Coast Beach, Pasir Ris Beach and Sembawang
+Beach) and parks (Bishan-Ang Mo Kio Park, Coney Island Park, Gardens by
+the Bay, Jurong Central Park, Tiong Bahru Park, Ulu Pandan Park Connector
+[North Bank] and Woodlands Waterfront Park).</p>
 </div>
 </details>
 <details class="isomer-details">
