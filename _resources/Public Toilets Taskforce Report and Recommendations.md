@@ -18,6 +18,7 @@ recommendations to uplift the standards of our public toilets to the Ministry
 of Sustainability and the Environment (MSE).</p>
 <p><a href="/files/Letter_from_PTTF_Co_Chairs.pdf" rel="noopener noreferrer nofollow" target="_blank">PTTF's Letter to MSE</a>
 </p>
-<p></p>
+<p><a href="/files/Public_Toilet_Taskforce_Reply_letter_from_Min___21_Feb_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Minister's Reply to PTTF</a>
+</p>
 <p>The recommendations are summarised in a report. Download the report
 <a href="/files/Public_Toilets_Taskforce_Report.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
