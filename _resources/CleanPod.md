@@ -89,7 +89,10 @@ and sustainable manner.</p>
 <p>Ulu Pandan Park Connector (North Bank)</p>
 </li>
 <li>
-<p>West Coast Park
+<p>West Coast Park</p>
+</li>
+<li>
+<p>Woodlands Waterfront Park
 <br>
 </p>
 </li>
