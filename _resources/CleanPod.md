@@ -65,7 +65,8 @@ and sustainable manner.</p>
 <p>East Coast Park - Area C1 (behind Parkland Green)</p>
 </li>
 <li>
-<p>East Coast Park - Area C4 (behind C4 toilet)</p>
+<p>East Coast Park - Area C4 (behind C4 toilet) <strong>[Closed for maintenance. Please use other CleanPods in the vicinity]</strong>
+</p>
 </li>
 <li>
 <p>East Coast Park - Area F2 (beside F2 carpark)</p>

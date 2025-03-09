@@ -72,6 +72,10 @@ borrow your litter-picking tools.</p>
 </p>
 </li>
 <li>
+<p><a href="/files/Instruction_to_CleanPod_West_Coast_Park.pdf" rel="noopener noreferrer nofollow" target="_blank">West Coast Park</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Initiatives/Beach cleanup/woodlands_waterfront_park_map_updated_mar_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Woodlands Waterfront Park</a>
 </p>
 </li>
