@@ -34,7 +34,7 @@ updates.</p>
 <h2>Month-Long Community Activation</h2>
 <p><strong>What better way to show support for a clean Singapore than taking action to keep it clean? We encourage&nbsp;residents/public to organise litter-picking activities at your estates, recreational beaches or parks from 13 Apr to 29 Jun 2025.&nbsp;</strong>
 </p>
-<p>Click&nbsp;<a href="https://www.keepsgclean.com/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<p>Click&nbsp;<a href="https://keepsgclean.com/registration_for_clean_ups/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 take action for a clean Singapore!</p>
 <p>Tips for Clean-Ups:</p>
 <ol data-tight="true" class="tight">
