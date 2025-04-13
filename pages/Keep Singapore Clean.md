@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Keep Singapore Clean" src="/images/Home/banner_home.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHC_Generic_KV_1640x720px.jpg">
 </div>
 <h2>Keep Singapore Clean</h2>
 <p>Every year, the Public Hygiene Council (PHC) holds our flagship initiative,
@@ -28,12 +29,12 @@ on&nbsp;<a href="https://www.tiktok.com/@keepsgclean" rel="noopener noreferrer n
 updates.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DKv9EyBXlO0?si=T-75ZPnSFlxQmp8f"></iframe>
+<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FCjUHZhwRro?si=4ZCBbSiP_PKjZb7N"></iframe>
 </div>
 <h2>Month-Long Community Activation</h2>
-<p><strong>What better way to show support for a clean Singapore than taking action to keep it clean? We encourage&nbsp;residents/public to organise litter-picking activities at your estates, recreational beaches or parks from 28 Apr to 2 Jun 2024.&nbsp;</strong>
+<p><strong>What better way to show support for a clean Singapore than taking action to keep it clean? We encourage&nbsp;residents/public to organise litter-picking activities at your estates, recreational beaches or parks from 13 Apr to 29 Jun 2025.&nbsp;</strong>
 </p>
-<p>Click&nbsp;<a href="https://www.keepsgclean.com/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<p>Click&nbsp;<a href="https://keepsgclean.com/registration_for_clean_ups/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 take action for a clean Singapore!</p>
 <p>Tips for Clean-Ups:</p>
 <ol data-tight="true" class="tight">
@@ -59,12 +60,14 @@ the activity.</p>
 <li>
 <p><a href="https://www.youtube.com/watch?v=ERnvwXADRZY" rel="noopener noreferrer nofollow" target="_blank">Guide to Organise a Clean-Up Activity</a>
 </p>
+<p></p>
+</li>
+<li>
+<p><a href="/files/KSC_2025_Launch_Chairman_Welcome_Speech_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Keep Singapore Clean 2025 - Chairman Welcome Address</a>
+</p>
 </li>
 </ul>
 <p></p>
-<p><a href="/files/KSC_2024_Chairman_Opening_Address_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Keep Singapore Clean 2024 - Chairman Opening Address </a>
-<br>
-</p>
 <h4><strong>Keep Clean, Singapore! Guest of Honour Speeches</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -105,7 +108,7 @@ residential estates, schools, parks, hawker centres and etc., to conduct
 the clean-up activities.&nbsp;</p>
 <h4><strong>3. When are the activities held?</strong></h4>
 <p>Organisers are welcomed to conduct their activities on any day between
-28 Apr and 2 Jun 2024.</p>
+13 Apr and 29 Jun 2025.</p>
 <h4><strong>4. What if we are unable to commit any day in KCS month?</strong></h4>
 <p>Keeping Singapore Clean is a lifetime commitment and not just a one-day
 effort. We welcome groups and individuals to initiate their own programmes
