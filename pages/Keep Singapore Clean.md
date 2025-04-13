@@ -29,7 +29,7 @@ on&nbsp;<a href="https://www.tiktok.com/@keepsgclean" rel="noopener noreferrer n
 updates.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DKv9EyBXlO0?si=T-75ZPnSFlxQmp8f"></iframe>
+<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FCjUHZhwRro?si=4ZCBbSiP_PKjZb7N"></iframe>
 </div>
 <h2>Month-Long Community Activation</h2>
 <p><strong>What better way to show support for a clean Singapore than taking action to keep it clean? We encourage&nbsp;residents/public to organise litter-picking activities at your estates, recreational beaches or parks from 13 Apr to 29 Jun 2025.&nbsp;</strong>
@@ -60,12 +60,14 @@ the activity.</p>
 <li>
 <p><a href="https://www.youtube.com/watch?v=ERnvwXADRZY" rel="noopener noreferrer nofollow" target="_blank">Guide to Organise a Clean-Up Activity</a>
 </p>
+<p></p>
+</li>
+<li>
+<p><a href="/files/KSC_2025_Launch_Chairman_Welcome_Speech_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Keep Singapore Clean 2025 - Chairman Welcome Address</a>
+</p>
 </li>
 </ul>
 <p></p>
-<p><a href="/files/KSC_2024_Chairman_Opening_Address_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Keep Singapore Clean 2024 - Chairman Opening Address </a>
-<br>
-</p>
 <h4><strong>Keep Clean, Singapore! Guest of Honour Speeches</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
