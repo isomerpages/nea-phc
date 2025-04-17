@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHC_Generic_KV_1640x720px.jpg">
 </div>
@@ -22,9 +21,9 @@ the tray return stations after meals, and keeping the school and public
 toilets clean and dry.</p>
 <p>The PHC has engaged agency partners to systematically develop and implement
 strategic communications campaigns on various platforms, including delivering
-public messages through mainstream news media.&nbsp; Please refer to our&nbsp;
+public messages through mainstream news media.&nbsp; Please refer to our
 <a href="https://www.youtube.com/publichygienecouncil" rel="noopener noreferrer nofollow" target="_blank">YouTube channel</a>&nbsp;and follow us on Social Media at @KeepSGClean
-on&nbsp;<a href="https://www.tiktok.com/@keepsgclean" rel="noopener noreferrer nofollow" target="_blank">TikTok&nbsp;</a>,&nbsp;
+on&nbsp;<a href="https://www.tiktok.com/@keepsgclean" rel="noopener noreferrer nofollow" target="_blank">TikTok</a>,&nbsp;
 <a href="http://facebook.com/keepsgclean" rel="noopener noreferrer nofollow" target="_blank">Facebook&nbsp;</a>and&nbsp;<a href="http://instagram.com/keepsgclean" rel="noopener noreferrer nofollow" target="_blank">Instagram&nbsp;</a>for regular
 updates.</p>
 <p></p>
@@ -32,7 +31,7 @@ updates.</p>
 <iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FCjUHZhwRro?si=4ZCBbSiP_PKjZb7N"></iframe>
 </div>
 <h2>Month-Long Community Activation</h2>
-<p><strong>What better way to show support for a clean Singapore than taking action to keep it clean? We encourage&nbsp;residents/public to organise litter-picking activities at your estates, recreational beaches or parks from 13 Apr to 29 Jun 2025.&nbsp;</strong>
+<p><strong>What better way to show support for a clean Singapore than taking action to keep it clean? We encourage&nbsp;residents/public to organise litter-picking activities at your estates, recreational beaches or parks from 13 Apr to 11 May 2025.&nbsp;</strong>
 </p>
 <p>Click&nbsp;<a href="https://keepsgclean.com/registration_for_clean_ups/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 take action for a clean Singapore!</p>
@@ -68,8 +67,13 @@ the activity.</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>Keep Clean, Singapore! Guest of Honour Speeches</strong></h4>
+<h4><strong>Keep Singapore Clean Launch Event</strong></h4>
+<h4><strong>Guest of Honour Speeches</strong></h4>
 <ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.mse.gov.sg/latest-news/launch-of-keep-singapore-clean-2025---ms-grace-fu-apr-2025/" rel="noopener nofollow" target="_blank">KSC 2025 Speech by Ms Grace Fu, Minister of Sustainability and the Environment</a>
+</p>
+</li>
 <li>
 <p><a href="https://www.mse.gov.sg/resource-room/category/2024-04-28-speech-at-keep-singapore-clean-2024-launch-event" rel="noopener noreferrer nofollow" target="_blank">KSC 2024 Speech by Dr Amy Khor, Senior Minister of State for Sustainability and the Environment</a>
 </p>
@@ -108,7 +112,7 @@ residential estates, schools, parks, hawker centres and etc., to conduct
 the clean-up activities.&nbsp;</p>
 <h4><strong>3. When are the activities held?</strong></h4>
 <p>Organisers are welcomed to conduct their activities on any day between
-13 Apr and 29 Jun 2025.</p>
+13 Apr and 11 May 2025.</p>
 <h4><strong>4. What if we are unable to commit any day in KCS month?</strong></h4>
 <p>Keeping Singapore Clean is a lifetime commitment and not just a one-day
 effort. We welcome groups and individuals to initiate their own programmes
