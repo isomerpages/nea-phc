@@ -76,7 +76,7 @@ borrow your litter-picking tools.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Initiatives/Beach cleanup/woodlands_waterfront_park_map_updated_mar_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Woodlands Waterfront Park</a>
+<p><a href="/files/Woodlands_Waterfront_Map.pdf" rel="noopener nofollow" target="_blank">Woodlands Waterfront Park</a>
 </p>
 </li>
 </ul>
