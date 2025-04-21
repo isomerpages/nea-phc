@@ -3,23 +3,23 @@ links:
   - title: About Us
     url: /about/
   - title: Keep Singapore Clean
-    url: /ksc/
-  - title: Year of Public Hygiene
-    url: /yoph/
+    url: /ksc
     sublinks:
+      - title: Keep Singapore Clean
+        url: /ksc
       - title: Exemplary Educators
-        url: /yoph/exemplary-educators/
+        url: /exemplary-educators/
       - title: Inspiring Individuals
         url: /inspiring-individuals
       - title: Unsung Heroes
-        url: /yoph/unsung-heroes/
+        url: /unsung-heroes/
   - title: Initiatives & Programmes
     url: /initiatives/
     sublinks:
-      - title: Bimonthly SG Clean Day
-        url: /initiatives/sgcleanday/
       - title: Bulky Waste to Wonder
         url: /initiatives/bulky-waste-to-wonder/
+      - title: CleanHood
+        url: /initiatives/cleanhood
       - title: CleanUp at Beaches and Parks
         url: /beachcleanup/
       - title: Corporate Action Network
@@ -32,8 +32,8 @@ links:
         url: /initiatives/rise/
       - title: Self Organised CleanUp
         url: /selforgcleanup/
-      - title: Sustainable Bright Spot
-        url: /initiatives/sustainable-bright-spot/
+      - title: SG Clean Day
+        url: /initiatives/sgcleanday/
   - title: Resources
     url: /resources/overview
     sublinks:

@@ -1,6 +1,6 @@
 ---
 title: Unsung Heroes
-permalink: /yoph/unsung-heroes/
+permalink: /unsung-heroes/
 variant: tiptap
 description: ""
 ---

@@ -1,18 +1,19 @@
 collections:
-  year-of-public-hygiene:
+  keep-singapore-clean:
     output: true
     order:
-      - Year of Public Hygiene.md
-      - Exemplary Educators/.keep
       - Exemplary Educators/Seet Kok Heng.md
       - Exemplary Educators/Zhou Haiyan.md
       - Exemplary Educators/Exemplary Educators.md
+      - Exemplary Educators/.keep
       - Inspiring Individuals/.keep
-      - Inspiring Individuals/Inspiring Individuals.md
       - Inspiring Individuals/Amatul Jameel Suhani Sujari.md
       - Inspiring Individuals/Aung Myo Hein.md
       - Inspiring Individuals/Georgia Mor.md
       - Inspiring Individuals/Johny Tan.md
+      - Inspiring Individuals/Ng Hak Hai.md
       - Inspiring Individuals/Sanjay Mundhra.md
       - Inspiring Individuals/Tong Siew Keong.md
+      - Inspiring Individuals/Inspiring Individuals.md
       - Unsung Heroes.md
+      - Keep Singapore Clean.md

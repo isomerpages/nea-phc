@@ -32,31 +32,47 @@ borrow your litter-picking tools.</p>
 <h3>Locations</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Initiatives/Beach cleanup/bishan_ang_mo_kio_park_map.pdf" rel="noopener noreferrer nofollow" target="_blank">Bishan – Ang Mo Kio Park</a>
+<p><a href="/files/Instruction_to_CleanPod_Bishan_Ang_Mo_Kio_Park_no_pin.pdf" rel="noopener nofollow" target="_blank">Bishan-Ang Mo Kio Park</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Initiatives/Beach cleanup/changi_beach_park_map.pdf" rel="noopener noreferrer nofollow" target="_blank">Changi Beach Park</a>
+<p><a href="/files/Instruction_to_CleanPod__Changi_Beach_Park_no_pin.pdf" rel="noopener nofollow" target="_blank">Changi Beach Park</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Instruction_to_CleanPod_Coney_Island_Park_2024.pdf" rel="noopener nofollow" target="_blank">Coney Island Park</a>
+<p><a href="/files/Instruction_to_CleanPod_Coney_Island_Park_no_pin.pdf" rel="noopener nofollow" target="_blank">Coney Island Park</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Initiatives/Beach cleanup/east_coast_park_map.pdf" rel="noopener noreferrer nofollow" target="_blank">East Coast Beach Park</a>
+<p><a href="/files/Instruction_to_CleanPod_ECP_Carpark_C1_April_2025_no_pin.pdf" rel="noopener nofollow" target="_blank">East Coast Beach Park (Area C1)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Instruction_to_CleanPod_GBB_101224.pdf" rel="noopener noreferrer nofollow" target="_blank">Gardens by the Bay</a>
+<p><a href="/files/Instruction_to_CleanPod_ECP_Carpark_C4_april_2025_no_pin.pdf" rel="noopener nofollow" target="_blank">East Coast Beach Park (Area C4)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Initiatives/Beach cleanup/jurong_central_park_map_updated_mar_2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Jurong Central Park</a>
+<p><a href="/files/Instruction_to_CleanPod_ECP_Carpark_F2_no_pin.pdf" rel="noopener nofollow" target="_blank">East Coast Beach Park (Area F2)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Initiatives/Beach cleanup/pasir_ris_park_map_updated_mar_2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Pasir Ris Beach Park</a>
+<p><a href="/files/Instruction_to_CleanPod_ECP_Carpark_G_no_pin.pdf" rel="noopener nofollow" target="_blank">East Coast Beach Park (Area G)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Instruction_to_CleanPod_GB_no_pin.pdf" rel="noopener nofollow" target="_blank">Gardens by the Bay</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Instruction_to_CleanPod__Jurong_Central_Park_no_pin.pdf" rel="noopener nofollow" target="_blank">Jurong Central Park</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Instruction_to_CleanPod_Pasir_Ris_Area_1_no_pin.pdf" rel="noopener nofollow" target="_blank">Pasir Ris Beach Park (Area 1)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Instruction_to_CleanPod_Pasir_Ris_Area_4_no_pin.pdf" rel="noopener nofollow" target="_blank">Pasir Ris Beach Park (Area 4)</a>
 </p>
 </li>
 <li>
@@ -68,15 +84,15 @@ borrow your litter-picking tools.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Initiatives/Beach cleanup/ulu_pandan_park_connector_map_updated_mar_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Ulu Pandan Park Connector (North Bank)</a>
+<p><a href="/files/Instruction_to_CleanPod_Ulu_Pandan_Park_Connector_no_pin.pdf" rel="noopener nofollow" target="_blank">Ulu Pandan Park Connector (North Bank)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Instruction_to_CleanPod_West_Coast_Park.pdf" rel="noopener noreferrer nofollow" target="_blank">West Coast Park</a>
+<p><a href="/files/Instruction_to_CleanPod_West_Coast_Park_no_pin.pdf" rel="noopener nofollow" target="_blank">West Coast Park</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Initiatives/Beach cleanup/woodlands_waterfront_park_map_updated_mar_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Woodlands Waterfront Park</a>
+<p><a href="/files/Instruction_to_CleanPod_Woodlands_Waterfront_Park_no_pin.pdf" rel="noopener nofollow" target="_blank">Woodlands Waterfront Park</a>
 </p>
 </li>
 </ul>
