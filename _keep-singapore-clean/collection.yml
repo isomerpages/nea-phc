@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Inspiring Individuals/.keep
-      - Inspiring Individuals.md
       - Unsung Heroes.md
       - Keep Singapore Clean.md
