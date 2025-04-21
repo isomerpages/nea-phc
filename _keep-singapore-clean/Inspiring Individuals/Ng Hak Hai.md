@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Inspiring Individuals
 ---
-<h2><strong>Pioneering a Cleaner Singapore</strong></h2>
+<h3><strong>Pioneering a Cleaner Singapore</strong></h3>
 <p>“You wouldn’t want your guests to enter your home when it’s messy, so
 why would you want to leave the same impression for our tourists?” This
 is the philosophy of Ng Hak Hai, a 64-year-old product manager and Chairman
