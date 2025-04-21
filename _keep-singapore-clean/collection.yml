@@ -2,6 +2,7 @@ collections:
   keep-singapore-clean:
     output: true
     order:
+      - Inspiring Individuals/Johny Tan.md
       - Inspiring Individuals/Georgia Mor.md
       - Inspiring Individuals/Aung Myo Hein.md
       - Inspiring Individuals/Amatul Jameel Suhani Sujari.md
