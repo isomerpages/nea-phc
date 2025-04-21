@@ -16,8 +16,6 @@ links:
   - title: Initiatives & Programmes
     url: /initiatives/
     sublinks:
-      - title: SG Clean Day
-        url: /initiatives/sgcleanday/
       - title: Bulky Waste to Wonder
         url: /initiatives/bulky-waste-to-wonder/
       - title: CleanUp at Beaches and Parks
@@ -32,6 +30,8 @@ links:
         url: /initiatives/rise/
       - title: Self Organised CleanUp
         url: /selforgcleanup/
+      - title: SG Clean Day
+        url: /initiatives/sgcleanday/
       - title: Sustainable Bright Spot
         url: /initiatives/sustainable-bright-spot/
   - title: Resources
