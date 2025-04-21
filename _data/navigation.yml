@@ -3,16 +3,16 @@ links:
   - title: About Us
     url: /about/
   - title: Keep Singapore Clean
-    url: /ksc/
-  - title: Year of Public Hygiene
-    url: /yoph/
+    url: /ksc
     sublinks:
       - title: Exemplary Educators
-        url: /yoph/exemplary-educators/
+        url: /exemplary-educators/
       - title: Inspiring Individuals
         url: /inspiring-individuals
       - title: Unsung Heroes
-        url: /yoph/unsung-heroes/
+        url: /unsung-heroes/
+      - title: Keep Singapore Clean
+        url: /ksc
   - title: Initiatives & Programmes
     url: /initiatives/
     sublinks:
