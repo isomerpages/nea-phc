@@ -35,7 +35,7 @@ awareness, building advocacy, and inspiring action.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h3><strong>AWARENESS</strong></h3>
+<h4><strong>AWARENESS</strong></h4>
 </td>
 <td rowspan="1" colspan="2">
 <ul data-tight="true" class="tight">
@@ -60,7 +60,7 @@ to promote good cleanliness habits.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3><strong>ADVOCACY</strong></h3>
+<h4><strong>ADVOCACY</strong></h4>
 </td>
 <td rowspan="1" colspan="2">
 <ul data-tight="true" class="tight">
@@ -80,7 +80,7 @@ who champion KSC initiatives within their communities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3><strong>ACTION</strong></h3>
+<h4><strong>ACTION</strong></h4>
 </td>
 <td rowspan="1" colspan="2">
 <ul data-tight="true" class="tight">
@@ -103,7 +103,7 @@ the community to create lasting impact.</p>
 </tbody>
 </table>
 <p></p>
-<p>CleanHood Partners:</p>
+<h3><strong>CleanHood Partners:</strong></h3>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -132,8 +132,209 @@ the community to create lasting impact.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Admiralty Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pasir Ris Central Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ang Mo Kio - Hougang Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bedok Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boon Lay Constituency</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bukit Panjang Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines Changkat Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bishan East - Sin Ming Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Braddell Heights Zone B RC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boon Lay View RN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chong Pang Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines East Zone 4 RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheng San - Seletar Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Changi - Simei Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boon Lay Zone D RN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gateway View RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines Grace RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fernvale Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geylang Serai Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brickland Constituency</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Limbang View RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines North Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jalan Kayu Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joo Chiat Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bukit Batok Constituency</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nee Soon Central Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines West Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kampong Glam Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kampong Chai Chee Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bukit Batok East Constituency</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nee Soon East Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Kebun Baru Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Linear Green RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bukit Batok Zone 10 RN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nee Soon South Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kolam Ayer Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mountbatten Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bukit Gombak Constituency</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sembawang West Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marymount Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ping An RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clementi Constituency</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yew Tee Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Moulmein- Cairnhill Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tanjong Rhu NC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goodview Gardens RC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yishun Greenwalk RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Potong Pasir Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jurong Central Constituency</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zhenghua Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teck Ghee Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jurong Spring Constituency</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -141,10 +342,47 @@ the community to create lasting impact.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>The Peak RN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Keat Hong Constituency</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toa Payoh East Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pioneer Constituency</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yio Chu Kang Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Taman Jurong Zone C RN</p>
 </td>
 </tr>
 <tr>
@@ -161,7 +399,7 @@ the community to create lasting impact.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Taman Jurong Zone F RC</p>
 </td>
 </tr>
 <tr>
@@ -178,7 +416,7 @@ the community to create lasting impact.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Telok Blangah Constituency</p>
 </td>
 </tr>
 <tr>
@@ -195,179 +433,27 @@ the community to create lasting impact.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>West Coast Constituency</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yuhua Constituency</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Initiatives/sbs_playbook_cover_page_image6de8b435b581616488cfff000004b801_tmb_small.jpg">
-</div>
-<h3>Residential estates committed to be Sustainable Bright Spots:</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;<strong>CENTRAL</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Ang Mo Kio Town Council&nbsp;</p>
-</li>
-<li>
-<p>Ang Mo Kio – Hougang Citizens' Consultative Committee</p>
-</li>
-<li>
-<p>Cheng San – Seletar Citizens' Consultative Committee</p>
-</li>
-<li>
-<p>Fernvale Citizens' Consultative Committee</p>
-</li>
-<li>
-<p>Jalan Kayu Citizens' Consultative Committee</p>
-</li>
-<li>
-<p>Kebun Baru Citizens' Consultative Committee</p>
-</li>
-<li>
-<p>Kolam Ayer Citizens' Consultative Committee</p>
-</li>
-<li>
-<p>Teck Ghee Citizens' Consultative Committee</p>
-</li>
-<li>
-<p>Yio Chu Kang Citizens' Consultative Committee</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;<strong>NORTH EAST</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Pasir Ris Central&nbsp;Citizens'&nbsp;Consultative&nbsp;Committee</p>
-</li>
-<li>
-<p>Tampines Grace Residents' Committee</p>
-</li>
-<li>
-<p>Tampines<a href="https://www.facebook.com/TampNorth" rel="noopener noreferrer nofollow" target="_blank"> </a>North&nbsp;Citizens'
-Consultative<a href="https://www.facebook.com/TampNorth" rel="noopener noreferrer nofollow" target="_blank"> </a>Committee</p>
-</li>
-<li>
-<p>Tampines West&nbsp;Citizens' Consultative<a href="https://www.facebook.com/tampineswest" rel="noopener noreferrer nofollow" target="_blank"> </a>Committee</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>NORTH WEST</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Bukit Panjang Citizens' Consultative Committee</p>
-</li>
-<li>
-<p>Bukit Timah Citizens' Consultative Committee</p>
-</li>
-<li>
-<p>Gateway View Residents' Network</p>
-</li>
-<li>
-<p>Nee Soon East Citizens' Consultative Committee</p>
-</li>
-<li>
-<p>Nee Soon South Citizens' Consultative Committee</p>
-</li>
-<li>
-<p>Nee Soon South Zone C Residents’ Committee</p>
-</li>
-<li>
-<p>Sembawang West Citizens' Consultative Committee</p>
-</li>
-<li>
-<p>Yew Tee Citizens' Consultative Committee</p>
-</li>
-<li>
-<p>Yishun Greenwalk Residents' Network
-<br>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SOUTH EAST</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Braddell Heights Zone B Residents’ Committee</p>
-</li>
-<li>
-<p>Geylang Serai&nbsp;Citizens' Consultative Committee</p>
-</li>
-<li>
-<p>Kampong Chai Chee&nbsp;Citizens' Consultative Committee</p>
-</li>
-<li>
-<p>Linear Green Residents' Network</p>
-</li>
-<li>
-<p>Ping An Residents’ Committee</p>
-</li>
-<li>
-<p>Tanjong Rhu&nbsp;Neighbourhood Committee
-<br>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SOUTH WEST</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Boon Lay View Residents’ Network</p>
-</li>
-<li>
-<p>Bukit Batok&nbsp;Citizens' Consultative Committee</p>
-</li>
-<li>
-<p>Bukit Gombak&nbsp;Citizens' Consultative Committee</p>
-</li>
-<li>
-<p>Bukit Gombak Goodview Garden Residents’ Committee</p>
-</li>
-<li>
-<p>Taman Jurong Zone C Residents’ Network</p>
-</li>
-<li>
-<p>Taman Jurong Zone F Residents’ Committee</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
