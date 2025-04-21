@@ -2,4 +2,5 @@ collections:
   keep-singapore-clean:
     output: true
     order:
+      - Unsung Heroes.md
       - Keep Singapore Clean.md
