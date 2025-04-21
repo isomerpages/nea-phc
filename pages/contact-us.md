@@ -6,7 +6,7 @@ agency_name: Public Hygiene Council
 locations:
   - address:
       - 40 Scotts Road
-      - "Environment Building #17-00 "
+      - "#17-00, Environment Building"
       - Singapore 228231
     operating_hours: []
     maps_link: ""
