@@ -1,4 +1,5 @@
 collections:
   keep-singapore-clean:
     output: true
-    order: []
+    order:
+      - Keep Singapore Clean.md
