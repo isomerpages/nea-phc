@@ -26,6 +26,7 @@ liveable environment.</p>
 <p>The CleanHood programme drives positive change across the residential,
 educational and business sectors through the three pillars of: raising
 awareness, building advocacy, and inspiring action.</p>
+<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
