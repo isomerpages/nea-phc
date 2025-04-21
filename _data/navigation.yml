@@ -18,6 +18,8 @@ links:
     sublinks:
       - title: Bulky Waste to Wonder
         url: /initiatives/bulky-waste-to-wonder/
+      - title: CleanHood
+        url: /initiatives/cleanhood
       - title: CleanUp at Beaches and Parks
         url: /beachcleanup/
       - title: Corporate Action Network
@@ -32,8 +34,6 @@ links:
         url: /selforgcleanup/
       - title: SG Clean Day
         url: /initiatives/sgcleanday/
-      - title: CleanHood
-        url: /initiatives/cleanhood
   - title: Resources
     url: /resources/overview
     sublinks:
