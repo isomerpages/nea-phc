@@ -1,7 +1,0 @@
-collections:
-  year-of-public-hygiene:
-    output: true
-    order:
-      - Year of Public Hygiene.md
-      - Exemplary Educators/.keep
-      - Inspiring Individuals/.keep
