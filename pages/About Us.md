@@ -28,6 +28,6 @@ efforts in maintaining high standards of cleanliness and hygiene.</p>
 <h2>COUNCIL MEMBERS - 7<sup>TH</sup> TERM</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHC_7_Term_Org_Chart_180924.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org_Chart_7T.png">
 </div>
 <p></p>
