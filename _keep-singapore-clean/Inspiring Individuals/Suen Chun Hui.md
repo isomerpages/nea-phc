@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Inspiring Individuals
 ---
-<h2><strong>Cultivating kindred spirits for a cleaner Singapore</strong></h2>
+<h3><strong>Cultivating kindred spirits for a cleaner Singapore</strong></h3>
 <p>Suen Chun Hui, a 47-year-old software developer turned environmental advocate,
 has always been passionate about keeping Singapore clean. Inspired by mentors
 who taught him that even small actions can create big changes, he decided
