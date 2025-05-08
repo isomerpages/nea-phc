@@ -19,7 +19,7 @@ but also creates breeding grounds for pests.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NHH2.jpg">
 </div>
-<p><em><sup>Hak Hai (on the platform) with the volunteers from Nee Soon Clean and Green Community in 2016.</sup></em>
+<p><em><sup>Photo Caption: Hak Hai (on the platform) with the volunteers from Nee Soon Clean and Green Community in 2016.</sup></em>
 </p>
 <p></p>
 <p>Hak Hai takes great pride in his estate, where the community actively
