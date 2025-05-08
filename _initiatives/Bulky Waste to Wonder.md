@@ -4,125 +4,31 @@ permalink: /initiatives/bulky-waste-to-wonder/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h1>Bulky Waste to Wonder Competition 2025</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bulky Waste to Wonder Competition 2024" src="/images/Initiatives/bwtw_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BWTW_2025_eDM.jpg">
 </div>
-<h1>Bulky Waste to Wonder Competition 2024</h1>
-<h3>Winners Announced! Stay tuned for our 2025 edition in May!</h3>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>S/N</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>TEAM</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>DESIGN TITLE</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>SCHOOL</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1st Prize</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Team SST</p>
-<p>(Gedeon Koh, Tessa Lee &amp; Rykiel Han)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Play Haven Table</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School of Science and Technology, Singapore</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2nd Prize</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tai Bei Ni</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SOFY-SOFA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bedok Green Secondary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3rd Prize</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Team Kyra and Natasha</p>
-<p>(Kyra Seow Kai Hui &amp; Natasha Lee Shuen Lin)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GreenCanvas Cabinet</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Raffles Girls' School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Merit Prize</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Siva Ganesh Raman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mobile Guitar and Masterpiece Holder</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Greenridge Secondary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Merit Prize</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NAZ Design</p>
-<p>(Advaith Karthikeyan, Dhandhania Nivan Pankaj &amp; Tham Zi Him)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Baobab Accessory Holder</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Temasek Secondary School</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3>About the Competition</h3>
-<p>Singapore generated 7.39 million tonnes and 6.86 million tonnes of waste
-in 2022 and 2023 respectively. This is not sustainable, and it is imperative
-for every one of us to adopt an eco-friendlier lifestyle. Our youths are
-the future custodians of our environment and hence it is even more critical
-to inculcate the civic-mindedness and cultivate the right values in them.</p>
+<p>Singapore generated 6.86 million tonnes of waste in 2023 respectively.
+This is not sustainable, and it is imperative for each one of us to adopt
+an eco-friendly lifestyle. Our youths are the future custodians of our
+environment; thus, it is important for us to inculcate the civic-mindedness
+and the right values in them.</p>
 <p>In partnership with the Ministry of Education (MOE) – Character &amp;
 Citizenship Education Branch and J.O.E (Just One Earth) Eco Alliance, the
-Public Hygiene Council (PHC) is pleased to organise a nation-wide competition
-titled ‘<em>Bulky Waste to Wonder Competition 2024</em>’. It has been designed
-to provide opportunities for youths to rethink the use of bulky waste and
-showcase their ideas by redesigning and/or repurposing used bulky furniture
-into functional items. We hope that through the youths’ creativity and
-imagination, they can inspire others to think twice before dumping their
-bulky waste items. This will help us to achieve a more sustainable lifestyle
-and progress towards maintaining a truly clean and hygienic Singapore.</p>
+Public Hygiene Council (PHC) is pleased to organise the third run of its
+nation-wide competition: <em>Bulky Waste to Wonder Competition 2025</em>’.
+The competition has been designed to provide opportunities for youths to
+rethink the use of bulky waste and showcase their ideas by redesigning
+and/or repurposing used bulky furniture into functional items.</p>
+<p>We hope that through the youths’ creativity and imagination, our youths
+can inspire others to think twice before disposing of their bulky waste
+that may still be useful. This will help us to achieve a more sustainable
+lifestyle, and progress towards maintaining a truly clean and hygienic
+Singapore.</p>
+<p>Please submit your entries by <strong>Sunday, 13 July 2025, 2359 hours</strong> 
+<a href="https://form.gov.sg/66349e152dba1edc04df248a" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <h3>Open to</h3>
 <p>All secondary school students, option to participate as an individual
 or in group of max 3 pax.</p>
@@ -135,7 +41,7 @@ or in group of max 3 pax.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;6 May 2024</p>
+<p>&nbsp;Tue, 6 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Competition opens</p>
@@ -143,7 +49,7 @@ or in group of max 3 pax.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;29 Jun 2024</p>
+<p>&nbsp;Tue, 27 Jun 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Design workshop (in-person)</p>
@@ -151,52 +57,26 @@ or in group of max 3 pax.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;19 Jul 2024</p>
+<p>&nbsp;Sun, 13 Jul 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Closing date</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;15 Aug 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Pitch presentation by shortlisted students</p>
+<p>&nbsp;Closing date for submission of entries</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;19 Aug 2024</p>
+<p>&nbsp;Week of 4 Aug 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Announcement of finalists</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2 - 5 Sep 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Internship opportunity for finalists</p>
+<p>&nbsp;Presentation pitches by shortlisted participants</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;27 Oct 2024</p>
+<p>&nbsp;Sun, 26 Oct 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>&nbsp;Final judging</p>
-</li>
-<li>
-<p>&nbsp;Announcement of winners&nbsp;</p>
-</li>
-<li>
-<p>&nbsp;Prize presentation</p>
-</li>
-</ul>
+<p>&nbsp;Final judging &amp; prize presentation</p>
 </td>
 </tr>
 </tbody>
@@ -228,8 +108,8 @@ criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Originality of the design concept (i.e. should introduce fresh and novel
-concepts that have not been commonly seen) / how well it stands out from
-conventional furniture pieces</p>
+concepts that are not commonly seen) / how well it stands out from conventional
+furniture pieces</p>
 </li>
 <li>
 <p>Alignment with competition goal of reducing bulky waste and promoting
@@ -252,8 +132,8 @@ materiality, texture and colours to create a pleasing end product</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>The practicality (i.e. design should not be just aesthetically pleasing
-but also serve a functional purpose in everyday use) and useability (i.e.,
+<p>Practicality (i.e. design should not be just aesthetically pleasing but
+also serve a functional purpose in everyday life) and usability (i.e.,
 design should cater to user comfort and convenience) of the upcycled furniture
 piece</p>
 </li>
@@ -359,7 +239,7 @@ adhere to the above rules.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Step 1: Download the Bulky Waste to Wonder Furniture Redesign / Repurpose
-Template. (<em>Refer to Slide 48 - 52 of the <a href="/files/BWTW_Design_Workshop_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Design Workshop Presentation Deck</a></em>)</p>
+Template. (<em>only available after the Design Workshop</em>)</p>
 </li>
 <li>
 <p>Step 2: Design your creation using the template. Please note that your
@@ -372,56 +252,48 @@ pdf not exceeding 3 MB.</p>
 </li>
 <li>
 <p>Step 4: Submit your artwork with your personal and parent / guardian details,
-school information within the ENTRY FORM.</p>
+school information within the <a href="https://form.gov.sg/66349e152dba1edc04df248a" rel="noopener nofollow" target="_blank">ENTRY FORM</a>.</p>
 </li>
 </ul>
-<p>All entries must be submitted no later than <u>Friday, 19 Jul 2024, 2359 hours</u> (Singapore
+<p>All entries must be submitted no later than <u>Sunday, 13 Jul 2025, 2359 hours</u> (Singapore
 Time). Late submissions will not be accepted.</p>
-<p>Entries with incomplete information will be disqualified. Submission closed.</p>
+<p>Entries with incomplete information will be disqualified.</p>
 <h3>Design Workshop (In-Person)</h3>
 <p>An in-person workshop will be conducted by our furniture designer partners,
-E3 Design, Semula and SCA Design, to equip participants with knowledge,
-techniques, and tips on how to work on a good design. You will get to meet
+E3 Design, Peace of Art and SCA Design, to equip participants with knowledge,
+techniques, and tips on how to develop a good design. You will get to meet
 industry designers and hear them share about their experiences too. Interested
 participants of the competition are strongly encouraged to attend the workshop.</p>
 <p>Participants of in-person workshop will stand a chance to win limited
 edition giveaways. Light refreshments will also be served.</p>
-<p>Only 80 seats are available, so register&nbsp;<a href="https://form.gov.sg/66349f8a2a773b9445054e29" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to avoid
-disappointment! Registration for physical session is based on first-come-first-served
+<p>Only 80 seats are available, so register&nbsp;<a href="https://form.gov.sg/681b336d08ec7d131392a493" rel="noopener nofollow" target="_blank">here</a><a href="https://form.gov.sg/66349f8a2a773b9445054e29" rel="noopener noreferrer nofollow" target="_blank"> </a>to
+avoid disappointment! Registration for physical session is based on first-come-first-served
 basis and only successful registrations for the physical workshop will
 be informed via email.</p>
 <h3>Details of Workshop</h3>
-<p><strong>Date:</strong> Saturday, 29 Jun 2024
-<br><strong>Time:</strong> 10:00am to 11:30am (Registration begins at 9.30am)
+<p><strong>Date:</strong> Tuesday, 27 May 2054
+<br><strong>Time:</strong> 2:30pm to 4:30pm (Registration begins at 2:00pm)
 <br><strong>Venue:</strong> JOS &amp; Sunon Sustainability Experience Centre
 <br><strong>Address: </strong>18 Robinson Road, #02-03, Singapore 048547</p>
-<p><strong>Download the Design Workshop Presentation Slides <a href="/files/BWTW_Design_Workshop_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
-</p>
-<p></p>
-<p><strong>Video Highlights of Bulky Waste to Wonder Design Workshop 2024</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/J-5hfz-FgMM?si=rwcJxWziUnTYPyGC"></iframe>
-</div>
 <h3>Disclaimers</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>While all possible care will be taken during the verification of the Finalists'
-designs, the PHC will assume no responsibility for any loss or damage of
-the designs before, during and after verification.</p>
+designs, PHC will assume no responsibility for any loss or damage of the
+designs before, during and after verification.</p>
 </li>
 <li>
-<p>The copyright in all works and the ownership of the submitted works remains
-with the PHC and approval must be sought from the PHC for any use.</p>
+<p>Copyright in all works and the ownership of the submitted works remains
+with PHC and approval must be sought from PHC for any use thereafter.</p>
 </li>
 <li>
-<p>By submitting an entry to the Public Hygiene Council (PHC), the Participant
-agrees to the terms stated above and allows PHC to share his/her personal
-data within the organisation, to collect and use the data, and to disclose
-the data to the organisation’s authorised service providers and competition
-sponsor, for the following purposes:&nbsp; To contact the award winners
-and / or participants to discuss any future exhibitions, public events
-related to their artworks and other art events.</p>
+<p>By submitting an entry to PHC, the Participant agrees to the terms stated
+above and allows PHC to share his/her personal data within the organisation,
+to collect and use the data, and to disclose the data to the organisation’s
+authorised service providers and competition sponsor, for the following
+purposes:&nbsp; To contact the award winners and / or participants to discuss
+any future exhibitions, public events related to their artworks and other
+art events.</p>
 </li>
 <li>
 <p>The PHC reserves the right to disqualify entries that do not comply with
