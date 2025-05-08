@@ -5,12 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Inspiring Individuals
 ---
-<h3><strong>Firm believer of joint responsibility in keeping Singapore clean </strong></h3>
+<h3><strong>Firm believer of joint responsibility in keeping Singapore clean</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sanjay__3_.jpg">
 </div>
-<p><sup>Photo Caption: Sanjay participating in a litter-picking activity with his fellow volunteer</sup>
+<p><sup>Photo Caption: Sanjay participating in a litter-picking activity with his fellow volunteer.</sup>
 </p>
 <p>Sanjay Mundhra is passionate about keeping Singapore clean.&nbsp;</p>
 <p>Every fortnight, the spry 56-year-old Account Support Manager at Hewlett
@@ -25,7 +25,7 @@ clean.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sanjay_Mundhra_1.jpg">
 </div>
-<p><sup>Photo Caption: Sanjay (2nd from left, back row) at a litter-picking activity with Tampines East Zone 4 Residents' Network</sup>
+<p><em><sup>Photo Caption: Sanjay (2nd from left, back row) at a litter-picking activity with Tampines East Zone 4 Residents' Network.</sup></em>
 </p>
 <p>Sanjay’s journey as an advocate for public cleanliness started in 2016,
 when he realised how much Singaporeans – including himself – rely on the
