@@ -50,5 +50,17 @@ a tangible impact on our community's cleanliness and environmental health.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/ng-hak-hai/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ng Hak Hai" src="/images/NHH1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ng Hak Hai, Product Manager</div><div class="isomer-card-description">You wouldn’t want your guests to enter your home when it’s messy, so why would you not want to leave the same impression for our tourists?</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/suen-chun-hui/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Suen Chun Hui" src="/images/SCHA.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Suen Chun Hui, Chairman, Kindred Community</div>
+<div class="isomer-card-description">Each one of us has an important role to play in keeping Singapore clean</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a>
 </div>
 <p></p>
