@@ -43,15 +43,15 @@ or in group of max 3 pax.</p>
 <p>&nbsp;Tue, 6 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Competition opens</p>
+<p>Competition opens</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Tue, 27 Jun 2025</p>
+<p>&nbsp;Tue, 27 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Design workshop (in-person)</p>
+<p>Design workshop (in-person)</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ or in group of max 3 pax.</p>
 <p>&nbsp;Sun, 13 Jul 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Closing date for submission of entries</p>
+<p>Closing date for submission of entries</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ or in group of max 3 pax.</p>
 <p>&nbsp;Week of 4 Aug 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Presentation pitches by shortlisted participants</p>
+<p>Presentation pitches by shortlisted participants</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ or in group of max 3 pax.</p>
 <p>&nbsp;Sun, 26 Oct 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Final judging &amp; prize presentation</p>
+<p>Final judging &amp; prize presentation</p>
 </td>
 </tr>
 </tbody>
@@ -220,17 +220,17 @@ shall retain any furniture that is not donated.</p>
 <p>Entry must be submitted online - no hard copies will be accepted.</p>
 </li>
 <li>
-<p>The submitted entry must be original and should not be a winning entry
-in any other competitions. PHC reserves the right to request for proof(s)
-that an entry is the original property of the participant and has been
-submitted by the participant solely for this competition.</p>
+<p>The entry must be original and should not be a winning entry in any other
+competitions. PHC reserves the right to request proof that an entry is
+the original property of the participant, and has been submitted by the
+participant solely for this competition.</p>
 </li>
 <li>
-<p>The entry cannot contain third-party copyright logos or material and must
-not violate the rights of any person or entity, including copyright, privacy,
-or any other intellectual property rights. Upon submitting the artwork
-to this competition, the participant is solely responsible for any infringement
-of copyrights.</p>
+<p>The entry cannot contain third-party copyright logos or materials, and
+must not violate the rights of any person or entity, including copyright,
+privacy, or any other intellectual property rights. Upon submitting the
+artwork to this competition, the participant is solely responsible for
+any infringement of copyrights.</p>
 </li>
 <li>
 <p>The judges' decision is final, and no queries will be entertained.</p>
