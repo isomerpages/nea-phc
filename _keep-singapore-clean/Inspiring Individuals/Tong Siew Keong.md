@@ -10,7 +10,7 @@ third_nav_title: Inspiring Individuals
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SKTong1.jpg">
 </div>
-<p><sup>Photo Caption: Siew Keong discovering unusual flotsam, such as shipping ropes, oil drums, and rubber dinghies, at Punggol Point Jetty</sup>
+<p><em><sup>Photo Caption: Siew Keong discovering unusual flotsam, such as shipping ropes, oil drums, and rubber dinghies, at Punggol Point Jetty.</sup></em>
 </p>
 <p>The 56-year-old’s journey as a green advocate began rather spontaneously,
 when he decided to participate in a street clean-up by Green Bird – a non-profit
@@ -39,7 +39,7 @@ place to live, work and play in, for years to come.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SKTong2.jpg">
 </div>
-<p><sup>Photo Caption: Siew Keong oversees and manages team operations at SG Beach Warriors</sup>
+<p><em><sup>Photo Caption: Siew Keong oversees and manages team operations at SG Beach Warriors.</sup></em>
 </p>
 <p>His work doesn’t end here though. Siew Keong also participates in the
 ‘food rescue’ initiative, where he collects food items on the verge of

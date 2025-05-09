@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Inspiring Individuals
 ---
-<h3><strong>Beyond the Classroom:&nbsp; A Teacher's Passion for a Cleaner Singapore</strong></h3>
+<h3><strong>Beyond the classroom:&nbsp; A teacher's passion for a cleaner Singapore</strong></h3>
 <p>Inspired by Singapore's reputation as a clean and green city, 57-year-old
 teacher Mdm Suhani is committed to preserving its pristine image. Her dedication
 extends beyond her HDB flat and classrooms into the heart of her community.</p>

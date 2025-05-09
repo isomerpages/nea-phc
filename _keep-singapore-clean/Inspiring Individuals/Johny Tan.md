@@ -18,7 +18,7 @@ to seniors, to pitch in and help keep the estate clean.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Johny.jpg">
 </div>
-<p><sup>Photo Caption: Johny leading residents on a clean-up in their estate.</sup>
+<p><em><sup>Photo Caption: Johny leading residents on a clean-up in their estate.</sup></em>
 </p>
 <p></p>
 <p>What began as a small initiative has blossomed into a vibrant community
@@ -40,7 +40,7 @@ clean and healthy.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_Group_Pic.jpg">
 </div>
-<p><sup>Photo Caption: Johny Tan (top-right) with the volunteers from Boon Lay Zone D, One Service Kaki and MSO on 22 December 2024. The group managed to pick up over 22kg of litter.</sup>
+<p><em><sup>Photo Caption: Johny Tan (top-right) with the volunteers from Boon Lay Zone D, One Service Kaki and MSO on 22 December 2024. The group managed to pick up over 22kg of litter.</sup></em>
 </p>
 <p></p>
 <p>Inspired by Johny Tan and the vibrant spirit of the Boon Lay community?

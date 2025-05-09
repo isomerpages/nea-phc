@@ -4,9 +4,11 @@ permalink: /beachcleanup/
 variant: tiptap
 description: ""
 ---
-<p>Everyone has a role to play in keeping Singapore clean. Clean-ups are
-a great way for you to take action and make a positive difference.&nbsp;</p>
-<h3>Here's a simple&nbsp;<a href="/files/briefing_for_participants.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a>&nbsp;to get you started on organising your first clean-up!</h3>
+<p>Everyone has a part to play in keeping Singapore clean, and taking action
+through clean-ups is a great way to start make a positive impact to our
+living environment.</p>
+<p>Here's a simple <a href="/files/briefing_for_participants__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a> to
+help you organise your first clean-up!</p>
 <p><strong>We strongly encourage you to get ready these items for a clean-up:</strong>
 </p>
 <ol data-tight="true" class="tight">

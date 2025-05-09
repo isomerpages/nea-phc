@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Inspiring Individuals
 ---
-<h3><strong>Pioneering a Cleaner Singapore</strong></h3>
+<h3><strong>Pioneering a cleaner Singapore</strong></h3>
 <p>“You wouldn’t want your guests to enter your home when it’s messy, so
 why would you not want to leave the same impression for our tourists?”
 This is the philosophy of Ng Hak Hai, a 64-year-old product manager and
@@ -19,7 +19,7 @@ but also creates breeding grounds for pests.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NHH2.jpg">
 </div>
-<p><em><sup>Hak Hai (on the platform) with the volunteers from Nee Soon Clean and Green Community in 2016.</sup></em>
+<p><em><sub>Photo Caption: Hak Hai (on the platform) with the volunteers from Nee Soon Clean and Green Community in 2016.</sub></em>
 </p>
 <p></p>
 <p>Hak Hai takes great pride in his estate, where the community actively
