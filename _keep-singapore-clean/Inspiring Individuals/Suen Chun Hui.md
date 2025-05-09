@@ -9,8 +9,8 @@ third_nav_title: Inspiring Individuals
 <p>Suen Chun Hui, a 47-year-old software developer turned environmental advocate,
 has always been passionate about keeping Singapore clean. Inspired by mentors
 who taught him that even small actions can create big changes, he decided
-to take his commitment one step further. In 2018, he founded Kindred Community
-– a ground-up initiative that empowers people to take ownership of their
+to take his commitment one step further. In 2018, he founded <a href="https://kindred.sg/" rel="noopener nofollow" target="_blank">Kindred Community</a> –
+a ground-up initiative that empowers people to take ownership of their
 surroundings and actively contribute to a cleaner and more sustainable
 Singapore.</p>
 <p></p>

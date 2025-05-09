@@ -8,31 +8,30 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BWTW_2025_eDM.jpg">
 </div>
-<h3>About the Competition</h3>
-<p>Singapore generated 6.86 million tonnes of waste in 2023 respectively.
-This is not sustainable, and it is imperative for each one of us to adopt
-an eco-friendly lifestyle. Our youths are the future custodians of our
-environment; thus, it is important for us to inculcate the civic-mindedness
-and the right values in them.</p>
-<p>In partnership with the Ministry of Education (MOE) – Character &amp;
+<h4><strong>About the Competition</strong></h4>
+<p>Singapore generated 6.86 million tonnes of waste in 2023. This is not
+sustainable, and it is imperative for each one of us to adopt an eco-friendly
+lifestyle. Our youths are the future custodians of our environment; thus,
+it is important for us to inculcate the civic-mindedness and the right
+values in them.</p>
+<p>In partnership with the Ministry of Education (MOE) - Character &amp;
 Citizenship Education Branch and J.O.E (Just One Earth) Eco Alliance, the
 Public Hygiene Council (PHC) is pleased to organise the third run of its
-nation-wide competition: <em>Bulky Waste to Wonder Competition 2025</em>’.
+nationwide competition: <em>Bulky Waste to Wonder Competition 2025</em>’.
 The competition has been designed to provide opportunities for youths to
 rethink the use of bulky waste and showcase their ideas by redesigning
 and/or repurposing used bulky furniture into functional items.</p>
-<p>We hope that through the youths’ creativity and imagination, our youths
-can inspire others to think twice before disposing of their bulky waste
-that may still be useful. This will help us to achieve a more sustainable
-lifestyle, and progress towards maintaining a truly clean and hygienic
-Singapore.</p>
+<p>We hope that through their creativity and imagination, our youths can
+inspire others to think twice before disposing of bulky waste that may
+still be useful. This will help us to achieve a more sustainable lifestyle,
+and progress towards maintaining a truly clean and hygienic Singapore.</p>
 <p>Please submit your entries by <strong>Sunday, 13 July 2025, 2359 hours</strong> 
 <a href="https://form.gov.sg/66349e152dba1edc04df248a" rel="noopener nofollow" target="_blank">here.</a>
 </p>
-<h3>Open to</h3>
+<h4><strong>Open to</strong></h4>
 <p>All secondary school students, option to participate as an individual
 or in group of max 3 pax.</p>
-<h4>Key Dates to Note</h4>
+<h4><strong>Key Dates to Note</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -81,7 +80,7 @@ or in group of max 3 pax.</p>
 </tr>
 </tbody>
 </table>
-<h4>Judging Criteria</h4>
+<h4><strong>Judging Criteria</strong></h4>
 <p>The Evaluation Panel will judge the submissions based on the following
 criteria:</p>
 <table style="minWidth: 50px">
@@ -179,7 +178,7 @@ able to provide a second life and further enhance the final product</p>
 </tr>
 </tbody>
 </table>
-<h3>Prizes</h3>
+<h4><strong>Prizes</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>First Prize: $750 cash</p>
@@ -194,7 +193,7 @@ able to provide a second life and further enhance the final product</p>
 <p>Merit Prize x 2: $100 cash each</p>
 </li>
 </ul>
-<h3>Terms and Conditions</h3>
+<h4><strong>Terms and Conditions</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>The competition is only open to secondary school students studying in
@@ -205,6 +204,16 @@ Singapore.</p>
 from the same school.</p>
 </li>
 <li>
+<p>While the Organiser will provide a limited number of discarded bulky waste
+items, participants are strongly encouraged to source their own bulky furniture
+for repurposing.</p>
+</li>
+<li>
+<p>All furniture pieces created by finalists will be available for donation
+to social service agencies or charitable organisations. The finalists/schools
+shall retain any furniture that is not donated.</p>
+</li>
+<li>
 <p>Each individual or group is allowed to submit only one entry.</p>
 </li>
 <li>
@@ -212,16 +221,16 @@ from the same school.</p>
 </li>
 <li>
 <p>The submitted entry must be original and should not be a winning entry
-in any other competitions. The PHC reserves the right to request for proof(s)
-that an entry is the original property of the participant and submitted
-solely by the participant for this competition.</p>
+in any other competitions. PHC reserves the right to request for proof(s)
+that an entry is the original property of the participant and has been
+submitted by the participant solely for this competition.</p>
 </li>
 <li>
 <p>The entry cannot contain third-party copyright logos or material and must
 not violate the rights of any person or entity, including copyright, privacy,
 or any other intellectual property rights. Upon submitting the artwork
 to this competition, the participant is solely responsible for any infringement
-of copyrighted materials.</p>
+of copyrights.</p>
 </li>
 <li>
 <p>The judges' decision is final, and no queries will be entertained.</p>
@@ -235,7 +244,7 @@ to disqualification.</p>
 adhere to the above rules.</p>
 </li>
 </ol>
-<h3>How to Take Part</h3>
+<h4><strong>How to Take Part</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Step 1: Download the Bulky Waste to Wonder Furniture Redesign / Repurpose
@@ -256,9 +265,10 @@ school information within the <a href="https://form.gov.sg/66349e152dba1edc04df2
 </li>
 </ul>
 <p>All entries must be submitted no later than <u>Sunday, 13 Jul 2025, 2359 hours</u> (Singapore
-Time). Late submissions will not be accepted.</p>
+Time) via the <a href="https://form.gov.sg/66349e152dba1edc04df248a" rel="noopener nofollow" target="_blank">ENTRY FORM</a>.
+Late submissions will not be accepted.</p>
 <p>Entries with incomplete information will be disqualified.</p>
-<h3>Design Workshop (In-Person)</h3>
+<h4><strong>Design Workshop (In-Person)</strong></h4>
 <p>An in-person workshop will be conducted by our furniture designer partners,
 E3 Design, Peace of Art and SCA Design, to equip participants with knowledge,
 techniques, and tips on how to develop a good design. You will get to meet
@@ -266,16 +276,16 @@ industry designers and hear them share about their experiences too. Interested
 participants of the competition are strongly encouraged to attend the workshop.</p>
 <p>Participants of in-person workshop will stand a chance to win limited
 edition giveaways. Light refreshments will also be served.</p>
-<p>Only 80 seats are available, so register&nbsp;<a href="https://form.gov.sg/681b336d08ec7d131392a493" rel="noopener nofollow" target="_blank">here</a><a href="https://form.gov.sg/66349f8a2a773b9445054e29" rel="noopener noreferrer nofollow" target="_blank"> </a>to
+<p>Only 80 seats are available, so <a href="https://form.gov.sg/681b336d08ec7d131392a493" rel="noopener nofollow" target="_blank">sign up</a> early to
 avoid disappointment! Registration for physical session is based on first-come-first-served
-basis and only successful registrations for the physical workshop will
-be informed via email.</p>
-<h3>Details of Workshop</h3>
-<p><strong>Date:</strong> Tuesday, 27 May 2054
+basis, and only successful registrations for the workshop will be informed
+via email.</p>
+<h4><strong>Details of Workshop</strong></h4>
+<p><strong>Date:</strong> Tuesday, 27 May 2025
 <br><strong>Time:</strong> 2:30pm to 4:30pm (Registration begins at 2:00pm)
 <br><strong>Venue:</strong> JOS &amp; Sunon Sustainability Experience Centre
 <br><strong>Address: </strong>18 Robinson Road, #02-03, Singapore 048547</p>
-<h3>Disclaimers</h3>
+<h4><strong>Disclaimers</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>While all possible care will be taken during the verification of the Finalists'
@@ -284,7 +294,7 @@ designs before, during and after verification.</p>
 </li>
 <li>
 <p>Copyright in all works and the ownership of the submitted works remains
-with PHC and approval must be sought from PHC for any use thereafter.</p>
+with PHC, and approval must be sought from PHC for any use thereafter.</p>
 </li>
 <li>
 <p>By submitting an entry to PHC, the Participant agrees to the terms stated
@@ -296,9 +306,8 @@ any future exhibitions, public events related to their artworks and other
 art events.</p>
 </li>
 <li>
-<p>The PHC reserves the right to disqualify entries that do not comply with
-the rules and regulations, and to the works created in the actual event
-including the liberty to handle the works as it deems fit.</p>
+<p>PHC reserves the right to disqualify entries that do not comply with the
+rules and regulations.</p>
 </li>
 </ol>
 <p>For further enquiries, please contact&nbsp;<a href="mailto:ask@publichygienecouncil.sg" rel="noopener noreferrer nofollow" target="_blank">ask@publichygienecouncil.sg</a>.</p>
