@@ -294,7 +294,7 @@ designs before, during and after verification.</p>
 </li>
 <li>
 <p>Copyright in all works and the ownership of the submitted works remains
-with PHC and approval must be sought from PHC for any use thereafter.</p>
+with PHC, and approval must be sought from PHC for any use thereafter.</p>
 </li>
 <li>
 <p>By submitting an entry to PHC, the Participant agrees to the terms stated
