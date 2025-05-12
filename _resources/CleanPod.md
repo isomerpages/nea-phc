@@ -124,8 +124,8 @@ CleanPod available.</p>
 <br>(behind Kuo Chuan Presbyterian Sec Sch)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 6259 4720</p>
-<p>Email: <a href="pa_bishancc@pa.gov.sg" rel="noopener nofollow" target="_blank">pa_bishancc@pa.gov.sg</a>
+<p>Tel: 6259 4720
+<br>Email:&nbsp;<a href="mailto:pa_bishancc@pa.gov.sg" rel="noopener nofollow" target="_blank">pa_bishancc@pa.gov.sg</a>
 </p>
 </td>
 </tr>
