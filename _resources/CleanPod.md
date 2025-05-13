@@ -121,7 +121,8 @@ CleanPod available.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Bishan
-<br>(<a href="https://maps.app.goo.gl/n6HCmmzNgzhB5ofd8" rel="noopener nofollow" target="_blank">ABC Waters @ Kallang River [Bishan Rd-Braddell Rd]</a>)</p>
+<br>(<a href="https://maps.app.goo.gl/n6HCmmzNgzhB5ofd8" rel="noopener nofollow" target="_blank">ABC Waters @ Kallang River [Bishan Rd-Braddell Rd]</a> /
+behind Kuo Chuan Presbyterian Sec Sch)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 6259 4720
