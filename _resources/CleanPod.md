@@ -65,8 +65,7 @@ and sustainable manner.</p>
 <p>East Coast Park - Area C1 (behind Parkland Green)</p>
 </li>
 <li>
-<p>East Coast Park - Area C4 (behind C4 toilet) <strong>[Closed for maintenance. Please use other CleanPods in the vicinity]</strong>
-</p>
+<p>East Coast Park - Area C4 (behind C4 toilet)</p>
 </li>
 <li>
 <p>East Coast Park - Area F2 (beside F2 carpark)</p>
@@ -101,7 +100,7 @@ and sustainable manner.</p>
 <p>Once you have&nbsp;<a href="/beachcleanup/" rel="noopener noreferrer nofollow" target="_blank">registered your clean-up</a>, you may email us at&nbsp;
 <a href="mailto:ask@publichygienecouncil.sg" rel="noopener noreferrer nofollow" target="_blank">ask@publichygienecouncil.sg</a>&nbsp;to request for access to the nearest
 CleanPod available.</p>
-<h2>CleanPods Located in Housing Estates:</h2>
+<h4><strong>CleanPods Located in Housing Estates:</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -116,6 +115,18 @@ CleanPod available.</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 6298 4359
 <br>Email:&nbsp;<a href="mailto:pa_kampongglamcc@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa_kampongglamcc@pa.gov.sg&nbsp;</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bishan
+<br>(<a href="https://maps.app.goo.gl/n6HCmmzNgzhB5ofd8" rel="noopener nofollow" target="_blank">ABC Waters @ Kallang River [Bishan Rd-Braddell Rd]</a> /
+behind Kuo Chuan Presbyterian Sec Sch)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tel: 6259 4720
+<br>Email:&nbsp;<a href="mailto:pa_bishancc@pa.gov.sg" rel="noopener nofollow" target="_blank">pa_bishancc@pa.gov.sg</a>
 </p>
 </td>
 </tr>
