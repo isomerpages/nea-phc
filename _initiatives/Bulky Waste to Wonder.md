@@ -248,12 +248,12 @@ adhere to the above rules.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Step 1: Download the Bulky Waste to Wonder Furniture Redesign / Repurpose
-Template. (<em>only available after the Design Workshop</em>)</p>
+<a href="/files/BWTW2025_Furniture_Template_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Template</a>.</p>
 </li>
 <li>
-<p>Step 2: Design your creation using the template. Please note that your
-design, if chosen, may be subjected to modification to fit the actual furniture
-piece</p>
+<p>Step 2: Design your creation using the <a href="/files/BWTW2025_Furniture_Template_List.pdf" rel="noopener noreferrer nofollow" target="_blank">template</a>. Please
+note that your design, if chosen, may be subjected to modification to fit
+the actual furniture piece</p>
 </li>
 <li>
 <p>Step 3: Take a photograph, scan or export your artwork to jpg / png /
