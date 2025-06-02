@@ -64,7 +64,7 @@ or in group of max 3 pax.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Week of 4 Aug 2025</p>
+<p>&nbsp;Week of 11 Aug 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Presentation pitches by shortlisted participants</p>
