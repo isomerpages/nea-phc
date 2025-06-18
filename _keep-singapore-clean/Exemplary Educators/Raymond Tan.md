@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Exemplary Educators
 ---
-<h3><strong>Passing It On: A Multi-Generational Legacy of Cleanliness</strong></h3>
+<h3><strong>Passing it on: A multi-generational legacy of cleanliness</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RT1.jpg">
