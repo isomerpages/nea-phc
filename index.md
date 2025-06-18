@@ -32,13 +32,13 @@ sections:
       button: Read more
       url: /about/
   - infopic:
-      title: Bulky Waste to Wonder Competition 2024
+      title: Bulky Waste to Wonder Competition 2025
       subtitle: Initiatives & Programmes
       id: infopic
       description: Showcase your ideas by redesigning and/or repurposing used bulky
         furniture into functional items.
       button: Read More
-      image: /images/Initiatives/bwtw_2024_resized.png
+      image: /images/BWTW_2025_eDM.jpg
       alt: Image alt text
       url: /initiatives/bulky-waste-to-wonder/
   - infopic:
