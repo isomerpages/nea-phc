@@ -41,6 +41,6 @@ altering our lifestyles. If everyone comes together with the same commitment,
 we can create a better place for our planet.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/raymond-tan/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Raymond Tan" src="/images/RT.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Raymond Tan, Mentor &amp; Coach, Société Courageuse</div><div class="isomer-card-description">Cleanliness is in my DNA. </div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p></p>
