@@ -12,7 +12,7 @@ the Keep Singapore Clean Movement:&nbsp;</p>
 </p>
 </li>
 <li>
-<p><a href="/initiatives/sustainable-bright-spot" rel="noopener noreferrer nofollow" target="_blank">CleanHood</a>
+<p><a href="/initiatives/cleanhood/" rel="noopener noreferrer nofollow" target="_blank">CleanHood</a>
 </p>
 </li>
 <li>
