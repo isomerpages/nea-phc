@@ -12,6 +12,10 @@ the Keep Singapore Clean Movement:&nbsp;</p>
 </p>
 </li>
 <li>
+<p><a href="/initiatives/cleanhood/" rel="noopener noreferrer nofollow" target="_blank">CleanHood</a>
+</p>
+</li>
+<li>
 <p><a href="/beachcleanup" rel="noopener noreferrer nofollow" target="_blank">Clean-up at Beaches and Parks</a>
 </p>
 </li>
@@ -28,15 +32,12 @@ the Keep Singapore Clean Movement:&nbsp;</p>
 </p>
 </li>
 <li>
-<p><a href="/initiatives/sgcleanday" rel="noopener noreferrer nofollow" target="_blank">Quarterly SG Clean Day</a>
-</p>
-</li>
-<li>
 <p><a href="/initiatives/rise" rel="noopener noreferrer nofollow" target="_blank">R.I.S.E. Champions Network</a>
 </p>
 </li>
 <li>
-<p><a href="/initiatives/sustainable-bright-spot" rel="noopener noreferrer nofollow" target="_blank">Sustainable Bright Spot</a>&nbsp;</p>
+<p><a href="/initiatives/sgcleanday" rel="noopener noreferrer nofollow" target="_blank">SG Clean Day</a>
+</p>
 </li>
 </ul>
 <p></p>
