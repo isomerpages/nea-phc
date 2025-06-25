@@ -18,12 +18,12 @@ description: ""
 </li>
 </ul>
 <h2>PUBLIC HYGIENE COUNCIL</h2>
-<p>The Public Hygiene Council (PHC) was formed in 2011 to promote good hygiene
-practices and to improve personal and public hygiene standards in Singapore.
-The Council, comprising representatives from multiple sectors, works to
-strengthen and coordinate community efforts to improve the cleanliness
-and hygiene standards in Singapore. It will also complement government's
-efforts in maintaining high standards of cleanliness and hygiene.</p>
+<p>The Public Hygiene Council (PHC) was formed in 2011 to raise standards
+of public hygiene and cleanliness in Singapore. The Council, comprising
+representatives from multiple sectors, works to strengthen and coordinate
+community efforts to improve the cleanliness and hygiene standards in Singapore.
+It also complements government's efforts in maintaining high standards
+of cleanliness and hygiene.</p>
 <h2>COUNCIL MEMBERS - 7<sup>TH</sup> TERM</h2>
 <p></p>
 <div class="isomer-image-wrapper">
