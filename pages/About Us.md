@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2>VISION</h2>
-<p>A culture of personal hygiene and social responsibility to keep Singapore
-clean.</p>
+<p>A culture of personal and social responsibility to keep Singapore clean.</p>
 <h2>MISSION</h2>
 <p>To rally sustained collective actions from all stakeholders to:</p>
 <ul data-tight="true" class="tight">
@@ -28,6 +27,6 @@ efforts in maintaining high standards of cleanliness and hygiene.</p>
 <h2>COUNCIL MEMBERS - 7<sup>TH</sup> TERM</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org_Chart_7T.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHC7T.jpg">
 </div>
 <p></p>
