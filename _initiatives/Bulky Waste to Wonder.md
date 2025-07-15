@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h1>Bulky Waste to Wonder Competition 2025</h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BWTW_2025_eDM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BWTW2025_EXT.jpg">
 </div>
 <h4><strong>About the Competition</strong></h4>
 <p>Singapore generated 6.86 million tonnes of waste in 2023. This is not
@@ -25,7 +26,7 @@ and/or repurposing used bulky furniture into functional items.</p>
 inspire others to think twice before disposing of bulky waste that may
 still be useful. This will help us to achieve a more sustainable lifestyle,
 and progress towards maintaining a truly clean and hygienic Singapore.</p>
-<p>Please submit your entries by <strong>Sunday, 13 July 2025, 2359 hours</strong> 
+<p>Please submit your entries by <strong>Sunday, 20 July 2025, 2359 hours</strong> 
 <a href="https://form.gov.sg/66349e152dba1edc04df248a" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <h4><strong>Open to</strong></h4>
@@ -56,7 +57,7 @@ or in group of max 3 pax.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Sun, 13 Jul 2025</p>
+<p>&nbsp;Sun, 20 Jul 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Closing date for submission of entries</p>
