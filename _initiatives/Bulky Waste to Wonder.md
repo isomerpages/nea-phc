@@ -265,7 +265,7 @@ pdf not exceeding 3 MB.</p>
 school information within the <a href="https://form.gov.sg/66349e152dba1edc04df248a" rel="noopener nofollow" target="_blank">ENTRY FORM</a>.</p>
 </li>
 </ul>
-<p>All entries must be submitted no later than <u>Sunday, 13 Jul 2025, 2359 hours</u> (Singapore
+<p>All entries must be submitted no later than <u>Sunday, 20 Jul 2025, 2359 hours</u> (Singapore
 Time) via the <a href="https://form.gov.sg/66349e152dba1edc04df248a" rel="noopener nofollow" target="_blank">ENTRY FORM</a>.
 Late submissions will not be accepted.</p>
 <p>Entries with incomplete information will be disqualified.</p>
