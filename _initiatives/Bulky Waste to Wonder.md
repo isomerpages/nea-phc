@@ -7,7 +7,7 @@ description: ""
 <h1>Bulky Waste to Wonder Competition 2025</h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BWTW2025_EXT.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BWTW_Extended_Submissions_Post.jpg">
 </div>
 <h4><strong>About the Competition</strong></h4>
 <p>Singapore generated 6.86 million tonnes of waste in 2023. This is not
