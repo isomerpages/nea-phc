@@ -25,3 +25,5 @@ in PHC’s ongoing initiatives.</p>
 to amplify the Keep Singapore Clean message to the wider community.</p>
 <p>Interested corporate entities may sign up for C.A.N. at <a href="http://www.go.gov.sg/joincan" rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/joincan</a>.&nbsp;
 &nbsp;&nbsp;</p>
+<p><a href="/files/PHC_Factsheet_CAN_June_2025__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Factsheet</a>
+</p>
