@@ -358,3 +358,5 @@ to enable greater participation and effectiveness.</p>
 </tbody>
 </table>
 <p></p>
+<p><a href="/files/PHC_Factsheet_R_I_S_E_Champions_Network_June_2025__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Factsheet</a>
+</p>
