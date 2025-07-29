@@ -26,7 +26,8 @@ It also complements government's efforts in maintaining high standards
 of cleanliness and hygiene.</p>
 <h2>COUNCIL MEMBERS - 8<sup>TH</sup> TERM</h2>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHC7T.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/PHC8T.jpg">
 </div>
 <p></p>
