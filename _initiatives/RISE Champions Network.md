@@ -603,9 +603,15 @@ to enable greater participation and effectiveness.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Youth Corps Singapore" src="/images/Initiatives/Rise/Youth_Corps.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Zero Waste Singapore" src="/images/Initiatives/Rise/Zero_Waste_SG.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
