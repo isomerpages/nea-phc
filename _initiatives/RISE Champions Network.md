@@ -383,15 +383,27 @@ to enable greater participation and effectiveness.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Restroom Association" src="/images/Initiatives/Rise/Restroom_Association.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="RP Conservation IG" src="/images/Initiatives/Rise/RP_Conservation_IG.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Seastainable  Co" src="/images/Initiatives/Rise/Seastainable.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Secondsguru" src="/images/Initiatives/Rise/Secondsguru.jpg">
+</div>
 </td>
 </tr>
 <tr>
