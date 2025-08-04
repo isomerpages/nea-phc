@@ -483,9 +483,15 @@ to enable greater participation and effectiveness.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Stridy" src="/images/Initiatives/Rise/Stridy.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SUTD Greenprint" src="/images/Initiatives/Rise/SUTD_Greenprint.jpg">
+</div>
 </td>
 </tr>
 <tr>
