@@ -339,15 +339,27 @@ to enable greater participation and effectiveness.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our Singapore Reefs" src="/images/Initiatives/Rise/Our_Singapore_Reefs.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PAssion Wave" src="/images/Initiatives/Rise/PAssion_Wave.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Plastic Lite" src="/images/Initiatives/Rise/Plastic_Lite.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pulau Ubin Cleanup" src="/images/Initiatives/Rise/Pulau_Ubin_Cleanup.jpg">
+</div>
 </td>
 </tr>
 <tr>
