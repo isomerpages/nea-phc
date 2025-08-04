@@ -515,6 +515,9 @@ to enable greater participation and effectiveness.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sailor Sweeps" src="/images/Initiatives/Rise/Sailor_Sweeps.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
