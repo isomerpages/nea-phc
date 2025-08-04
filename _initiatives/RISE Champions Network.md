@@ -67,3 +67,38 @@ to enable greater participation and effectiveness.</p>
 <p></p>
 <p><a href="/files/PHC_Factsheet_R_I_S_E_Champions_Network_June_2025__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Factsheet</a>
 </p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tier1a" src="/images/Initiatives/Rise/Tier1a.png">
+</div>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="https://www.24asia.org/" rel="noopener nofollow" target="_blank">24asia</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="https://asez.org/" rel="noopener nofollow" target="_blank">ASEZ</a>
+</p>
+<hr>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="https://bmr.sg/page/about_us" rel="noopener nofollow" target="_blank">Buddhist Meditation Retreat</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="https://www.blossomworld.sg/" rel="noopener nofollow" target="_blank">Blossom World Society</a>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
