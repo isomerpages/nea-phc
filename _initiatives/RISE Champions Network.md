@@ -64,16 +64,8 @@ to enable greater participation and effectiveness.</p>
 </table>
 <p>For more information, visit <a href="https://rise-network.sg/" rel="noopener noreferrer nofollow" target="_blank">R.I.S.E. website</a>.</p>
 <h3>Members of the R.I.S.E. Champions Network:</h3>
-<p></p>
-<p><a href="/files/PHC_Factsheet_R_I_S_E_Champions_Network_June_2025__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Factsheet</a>
-</p>
-<hr>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tier1a" src="/images/Initiatives/Rise/Tier1a.png">
-</div>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -82,27 +74,445 @@ to enable greater participation and effectiveness.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="https://www.24asia.org/" rel="noopener nofollow" target="_blank">24asia</a>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/24asia.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/ASEZ_SG.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="https://asez.org/" rel="noopener nofollow" target="_blank">      ASEZ</a>
-</p>
-<hr>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/Blossom_World.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="https://bmr.sg/page/about_us" rel="noopener nofollow" target="_blank">Buddhist Meditation Retreat</a>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/Buddhist_Meditation_Retreat.jpg">
+</div>
 </th>
-<th rowspan="1" colspan="1">
-<p><a href="https://www.blossomworld.sg/" rel="noopener nofollow" target="_blank">Blossom World Society</a>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.24asia.org/" rel="noopener noreferrer nofollow" target="_blank">24asia</a>
 </p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://asez.org/" rel="noopener noreferrer nofollow" target="_blank">ASEZ</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.blossomworld.sg/" rel="noopener noreferrer nofollow" target="_blank">Blossom World Society</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://bmr.sg/page/about_us" rel="noopener noreferrer nofollow" target="_blank">Buddhist Meditation Retreat</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/Coastal_Natives.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/Earthlink.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/Eco_SIM.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/FiTree.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.coastalnatives.sg/" rel="noopener noreferrer nofollow" target="_blank">Coastal Natives</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.instagram.com/earthlinkntu" rel="noopener noreferrer nofollow" target="_blank">Earthlink NTU</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/EcoSIMClub" rel="noopener noreferrer nofollow" target="_blank">Eco-SIM</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/greenfitree/" rel="noopener noreferrer nofollow" target="_blank">FiTree</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/greenncleanmm" rel="noopener noreferrer nofollow" target="_blank">Green and Clean Volunteers Group</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.greennudge.sg/" rel="noopener noreferrer nofollow" target="_blank">Green Nudge</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/GuardiansOfMotherEarth.Sg/" rel="noopener noreferrer nofollow" target="_blank">Guardians of Mother Earth</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.habitat.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Habitat for Humanity Singapore</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://coastalcleanup.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">International Coastal Cleanup Singapore</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.joeecoalliance.com/en/" rel="noopener noreferrer nofollow" target="_blank">J.O.E Eco Alliance</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://kindred.sg/" rel="noopener noreferrer nofollow" target="_blank">Kindred Community</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/profile.php?id=61575752011246" rel="noopener noreferrer nofollow" target="_blank">Lions Club of Singapore Mandarin</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/littlegreenmensg" rel="noopener noreferrer nofollow" target="_blank">Little Green Men</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nea.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Environment Agency</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Parks Board</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nss.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Nature Society Singapore</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://nussavewrites.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">NUS SAVE</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/nypgeocouncil" rel="noopener noreferrer nofollow" target="_blank">NYP Geo Council</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.oceanpurposeproject.com/" rel="noopener noreferrer nofollow" target="_blank">Ocean Purpose Project</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/groups/939651983034264/" rel="noopener noreferrer nofollow" target="_blank">One Planet (Singapore)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.instagram.com/oursingaporereefs/" rel="noopener noreferrer nofollow" target="_blank">Our Singapore Reefs</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/pa.passionwave" rel="noopener noreferrer nofollow" target="_blank">PAssion Wave</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/plasticlitesg/" rel="noopener noreferrer nofollow" target="_blank">Plastic-Lite Singapore</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/pulauubincleanup" rel="noopener noreferrer nofollow" target="_blank">Pulau Ubin Cleanup</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.toilet.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Restroom Association (Singapore)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/rp_conservation/" rel="noopener noreferrer nofollow" target="_blank">RP Conservation Interest Group</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seastainable.co/" rel="noopener noreferrer nofollow" target="_blank">Seastainable Co.</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/secondsguru" rel="noopener noreferrer nofollow" target="_blank">Secondsguru</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.facebook.com/sevencleanseas" rel="noopener noreferrer nofollow" target="_blank">Seven Clean Seas</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.shinnyoen.sg/" rel="noopener noreferrer nofollow" target="_blank">Shinnyo-En Singapore</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/groups/sgbeachwarriors/" rel="noopener noreferrer nofollow" target="_blank">SG Beach Warriors</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/groups/yellowgloveproject/" rel="noopener noreferrer nofollow" target="_blank">Singapore Glove Project</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.kindness.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Kindness Movement</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://scout.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Scout Association</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://stridy.com/" rel="noopener noreferrer nofollow" target="_blank">Stridy</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://greenprint.opensutd.org/About_Us.html" rel="noopener noreferrer nofollow" target="_blank">SUTD Greenprint</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.instagram.com/sailorsweeps/" rel="noopener noreferrer nofollow" target="_blank">Sailor Sweeps</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.instagram.com/save__the__wave" rel="noopener noreferrer nofollow" target="_blank">Save the Wave</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.smallchangesg.com/" rel="noopener noreferrer nofollow" target="_blank">Small Change</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/tpsustig/" rel="noopener noreferrer nofollow" target="_blank">TP Sustainability Interest Group</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/TrashHeroSingapore" rel="noopener noreferrer nofollow" target="_blank">Trash Hero Singapore</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.tzuchi.org.sg/en" rel="noopener noreferrer nofollow" target="_blank">Tzu Chi Foundation (Singapore)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.wws.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Waterways Watch Society</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://youngnautilus.com/" rel="noopener noreferrer nofollow" target="_blank">Young Nautilus</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://youthcorps.nyc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Youth Corps Singapore</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.zerowastesg.com/" rel="noopener noreferrer nofollow" target="_blank">Zero Waste Singapore</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
+<p><a href="/files/PHC_Factsheet_R_I_S_E_Champions_Network_June_2025__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Factsheet</a>
+</p>
+<hr>
 <p></p>
