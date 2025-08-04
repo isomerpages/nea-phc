@@ -521,12 +521,21 @@ to enable greater participation and effectiveness.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Save the Wave" src="/images/Initiatives/Rise/Save_the_Wave.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Small Change" src="/images/Initiatives/Rise/Small_Change.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TP Sustainability IG" src="/images/Initiatives/Rise/TP_Sustainability_Interest_Group.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -550,9 +559,15 @@ to enable greater participation and effectiveness.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Trash Hero" src="/images/Initiatives/Rise/Trash_Hero.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tzu Chi Foundation" src="/images/Initiatives/Rise/Tzu_Chi.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
