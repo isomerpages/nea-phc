@@ -439,6 +439,9 @@ to enable greater participation and effectiveness.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SG Beach Warriors" src="/images/Initiatives/Rise/SG_Beach_Warriors.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
