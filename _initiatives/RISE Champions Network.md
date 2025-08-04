@@ -71,8 +71,9 @@ to enable greater participation and effectiveness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tier1a" src="/images/Initiatives/Rise/Tier1a.png">
 </div>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -85,7 +86,10 @@ to enable greater participation and effectiveness.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="https://asez.org/" rel="noopener nofollow" target="_blank">ASEZ</a>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="https://asez.org/" rel="noopener nofollow" target="_blank">      ASEZ</a>
 </p>
 <hr>
 <p></p>
