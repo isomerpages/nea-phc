@@ -427,9 +427,15 @@ to enable greater participation and effectiveness.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Seven Clean Seas" src="/images/Initiatives/Rise/Seven_Clean_Seas.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Shinnyo-En Singapore" src="/images/Initiatives/Rise/Shinnyo_En.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
