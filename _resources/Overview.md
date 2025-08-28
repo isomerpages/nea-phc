@@ -121,7 +121,22 @@ learnt and the areas of improvement.</p>
 <details class="isomer-details">
 <summary>Colouring Material for Children</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>PHC Colouring Material Page 1 to 5 65</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PHC  Colouring Material Page 5" src="/images/Resources/Coloring Material for Children/PHC_Colouring_Page_5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PHC  Colouring Material Page 4" src="/images/Resources/Coloring Material for Children/PHC_Colouring_Page_4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PHC  Colouring Material Page 3" src="/images/Resources/Coloring Material for Children/PHC_Colouring_Page_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PHC  Colouring Material Page 2" src="/images/Resources/Coloring Material for Children/PHC_Colouring_Page_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PHC  Colouring Material Page 1" src="/images/Resources/Coloring Material for Children/PHC_Colouring_Page_1.png">
+</div>
 </div>
 </details>
 </div>
