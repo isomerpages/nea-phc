@@ -142,7 +142,7 @@ behind Kuo Chuan Presbyterian Sec Sch)</p>
 <p>Scan QR Code to check availability</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Boon_Lay.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Boon_Lay_CP.jpg">
 </div>
 </td>
 </tr>
