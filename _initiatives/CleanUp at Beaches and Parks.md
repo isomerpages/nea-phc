@@ -54,6 +54,10 @@ borrow your litter-picking tools.</p>
 </p>
 </li>
 <li>
+<p><a href="/files/Instruction_to_CleanPod_East_Coast_Park_Area_E2_without_Pin_Code.pdf" rel="noopener noreferrer nofollow" target="_blank">East Coast Beach Park (Area E2)</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Instruction_to_CleanPod_ECP_Carpark_F2_no_pin.pdf" rel="noopener nofollow" target="_blank">East Coast Beach Park (Area F2)</a>
 </p>
 </li>

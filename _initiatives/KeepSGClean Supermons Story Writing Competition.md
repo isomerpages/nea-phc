@@ -25,6 +25,81 @@ a truly clean and hygienic Singapore.</p>
 <p><strong>Targeting age group</strong>: Young children from 3 to 6 years
 old</p>
 <p><strong>Language used</strong>: English&nbsp;</p>
+<h4><strong>Winners Announced!</strong></h4>
+<p>Congratulations to the winners of the competition!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lovelle_Lim_First_Prize_Winner.jpg">
+</div>
+<p><sub>First Prize winner, Lim Zi Yun Lovelle receiving her prize from PHC Executive Director, Dr Christina Liew</sub>
+</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First Prize</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Zi Yun Lovelle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ash and the Supermons</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Second Prize</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Shi Huan Faith</p>
+<p>Chang Yue Er Bettina</p>
+<p>Koo Li Ling Delos Santos</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Adventures of the Supermons: Supermons vs Messy Monster</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Third Prize</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Trisha Mia Dharmaraj</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You Will Never Win, Messy Monster!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dina Umairah Bintre Zulkiflee</p>
+<p>Shahnaz Nijamudin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jack and the Hawker Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ashton Ho Jun Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The day they started talking back!</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Terms and Conditions</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
