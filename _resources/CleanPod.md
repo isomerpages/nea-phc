@@ -68,6 +68,9 @@ and sustainable manner.</p>
 <p>East Coast Park - Area C4 (behind C4 toilet)</p>
 </li>
 <li>
+<p>East Coast Park - Area E2</p>
+</li>
+<li>
 <p>East Coast Park - Area F2 (beside F2 carpark)</p>
 </li>
 <li>
@@ -128,6 +131,19 @@ behind Kuo Chuan Presbyterian Sec Sch)</p>
 <p>Tel: 6259 4720
 <br>Email:&nbsp;<a href="mailto:pa_bishancc@pa.gov.sg" rel="noopener nofollow" target="_blank">pa_bishancc@pa.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boon Lay</p>
+<p>(Blk 190 Boon Lay Drive / Near Boon Lay Zone D RN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Scan QR Code to check availability</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Boon_Lay.png">
+</div>
 </td>
 </tr>
 <tr>
