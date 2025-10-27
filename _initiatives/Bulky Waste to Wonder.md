@@ -26,8 +26,7 @@ and/or repurposing used bulky furniture into functional items.</p>
 inspire others to think twice before disposing of bulky waste that may
 still be useful. This will help us to achieve a more sustainable lifestyle,
 and progress towards maintaining a truly clean and hygienic Singapore.</p>
-<p>Winners of Bulky Waste to Wonder Competition 2025 has been announced!
-Details of the winners can be found here.</p>
+<p></p>
 <h4><strong>Open to</strong></h4>
 <p>All secondary school students, option to participate as an individual
 or in group of max 3 pax.</p>
