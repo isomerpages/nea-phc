@@ -26,9 +26,99 @@ and/or repurposing used bulky furniture into functional items.</p>
 inspire others to think twice before disposing of bulky waste that may
 still be useful. This will help us to achieve a more sustainable lifestyle,
 and progress towards maintaining a truly clean and hygienic Singapore.</p>
-<p>Please submit your entries by <strong>Sunday, 20 July 2025, 2359 hours</strong> 
-<a href="https://form.gov.sg/66349e152dba1edc04df248a" rel="noopener nofollow" target="_blank">here.</a>
-</p>
+<p></p>
+<h4><strong>Winners of Bulky Waste to Wonder 2025</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Project</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designers</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>School</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1st Prize</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Community SocialSpace Table</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SocialSpace (Gedeon Koh Jing Yi, Yoshioka Lili, Arnab Ghosh)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School of Science and Technology, Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2nd Prize</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DriftDesk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jazil Zafri Bin Johari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Canberra Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3rd Prize</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>UrbanFit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kyra Seow, Natasha Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raffles Girls' School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tables Turned</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marshall Chen Miaoxin, Kelly Goh Ning Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kranji Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Regalia Nightstand</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Hui Xuan Valencia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bedok Green Secondary School</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Open to</strong></h4>
 <p>All secondary school students, option to participate as an individual
 or in group of max 3 pax.</p>
