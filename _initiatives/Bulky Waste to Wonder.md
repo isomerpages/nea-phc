@@ -26,9 +26,7 @@ and/or repurposing used bulky furniture into functional items.</p>
 inspire others to think twice before disposing of bulky waste that may
 still be useful. This will help us to achieve a more sustainable lifestyle,
 and progress towards maintaining a truly clean and hygienic Singapore.</p>
-<p>Please submit your entries by <strong>Sunday, 20 July 2025, 2359 hours</strong> 
-<a href="https://form.gov.sg/66349e152dba1edc04df248a" rel="noopener nofollow" target="_blank">here.</a>
-</p>
+<p></p>
 <h4><strong>Open to</strong></h4>
 <p>All secondary school students, option to participate as an individual
 or in group of max 3 pax.</p>
