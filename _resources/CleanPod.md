@@ -228,6 +228,17 @@ behind Kuo Chuan Presbyterian Sec Sch)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Tampines Park</p>
+<p>(near Blk 147 Tampines Ave 5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WhatsApp: 8368 7837
+<br>Email: <a href="mailto:tampinesparkrn@gmail.com" rel="noopener noreferrer nofollow" target="_blank">tampinesparkrn@gmail.com</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Yuhua&nbsp;
 <br>(near Yuhua CC Basketball Court)</p>
 </td>
