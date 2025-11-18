@@ -508,7 +508,7 @@ to enable greater participation and effectiveness.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://greenprint.opensutd.org/About_Us.html" rel="noopener noreferrer nofollow" target="_blank">SUTD Greenprint</a>
+<p><a href="https://opensutd.org/greenprint-sub/index_html/" rel="noopener noreferrer nofollow" target="_blank">SUTD Greenprint</a>
 </p>
 </td>
 </tr>
