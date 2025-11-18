@@ -136,7 +136,7 @@ behind Kuo Chuan Presbyterian Sec Sch)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Boon Lay</p>
-<p>(Blk 190 Boon Lay Drive / Near Boon Lay Zone D RN)</p>
+<p>(Blk 190 Boon Lay Dr / Near Boon Lay Zone D RN)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Scan QR Code to check availability</p>
@@ -233,7 +233,7 @@ behind Kuo Chuan Presbyterian Sec Sch)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>WhatsApp: 8368 7837
-<br>Email: <a href="mailto:tampinesparkrn@gmail.com" rel="noopener noreferrer nofollow" target="_blank">tampinesparkrn@gmail.com</a> 
+<br>Email: <a href="mailto:tampinesparkrn@gmail.com" rel="noopener noreferrer nofollow" target="_blank">tampinesparkrn@gmail.com</a>
 </p>
 </td>
 </tr>
