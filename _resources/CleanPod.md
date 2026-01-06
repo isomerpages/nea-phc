@@ -89,6 +89,9 @@ and sustainable manner.</p>
 <p>Pasir Ris Park - Area 4</p>
 </li>
 <li>
+<p>Tiong Bahru Park</p>
+</li>
+<li>
 <p>Ulu Pandan Park Connector (North Bank)</p>
 </li>
 <li>

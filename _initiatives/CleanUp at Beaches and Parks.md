@@ -86,7 +86,7 @@ borrow your litter-picking tools.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Initiatives/Beach cleanup/tiong_bahru_park_map_updated_mar_2024fa76bfcc4f194933870fc00a69ca8e45.pdf" rel="noopener noreferrer nofollow" target="_blank">Tiong Bahru Park</a>
+<p><a href="/files/Instruction_to_CleanPod_Tiong_Bahru_Park_2026.pdf" rel="noopener nofollow" target="_blank">Tiong Bahru Park</a>
 </p>
 </li>
 <li>
