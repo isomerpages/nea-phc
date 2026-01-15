@@ -65,4 +65,16 @@ goes about keeping our neighbourhoods clean.</p>
 a Cleaner Supervisor with Chua Chu Kang Town Council. Let's catch him in
 action to understand what it takes to keep our estates clean.</p>
 <p></p>
+<hr>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8wyHl3NXcpc?si=NUGV2UhkVL_mOwbq"></iframe>
+</div>
+<h3>She overcame her fear of cleaning toilets.</h3>
+<p>How do toilet cleaners withstand filthy environments to keep our toilets
+clean? Hear from Jinhua, a cleaner of 7 years, as she shares candidly about
+her fear of cleaning toilets and how she found strength to persevere amidst
+her fears.</p>
+<p></p>
+<p></p>
 <p></p>
