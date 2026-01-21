@@ -37,12 +37,13 @@ sections:
       title: Bulky Waste to Wonder Competition 2025
       subtitle: Initiatives & Programmes
       id: infopic
-      description: Showcase your ideas by redesigning and/or repurposing used bulky
-        furniture into functional items.
+      description: The CleanHood programme aims to create a strong ecosystem of
+        stakeholders who actively maintain their shared common spaces, through
+        participation in community..
       button: Read More
-      image: /images/BWTW_2025_eDM.jpg
+      image: /images/Cleanhood_logo_RGB.png
       alt: Image alt text
-      url: /initiatives/bulky-waste-to-wonder/
+      url: /initiatives/cleanhood/
   - infopic:
       title: Videos
       id: infopic
