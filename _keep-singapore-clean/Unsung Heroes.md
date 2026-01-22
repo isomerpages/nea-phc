@@ -11,7 +11,7 @@ the scenes to Keep Singapore Clean!</p>
 <hr>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/thYlMr_gaB4?rel=0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/thYlMr_gaB4?rel=0"></iframe>
 </div>
 <h3>A peek into the life of a night cleaner</h3>
 <p>When the revellers go home after a night of partying, our night cleaners
@@ -23,7 +23,7 @@ Clean!</p>
 <hr>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/guXbZF5k7fw?si=CWlvZEQKb3awrwKv"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/guXbZF5k7fw?si=CWlvZEQKb3awrwKv"></iframe>
 </div>
 <h3>Life as a toilet cleaner</h3>
 <p>Meet Auntie Siew Toh, our trusty toilet cleaner! Every day, she works
@@ -35,7 +35,7 @@ she keeps our toilets looking and smelling their best.
 <hr>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5LDccO7uoGs?si=oD5qaayOSKC94nja"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5LDccO7uoGs?si=oD5qaayOSKC94nja"></iframe>
 </div>
 <h3>An estate cleaner's voice</h3>
 <p>Every morning, town council cleaners will diligently spruce up our neighbourhoods
@@ -46,7 +46,7 @@ on his daily routine to keep our estates clean and beautiful!</p>
 <hr>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7oRxrFCtC2E?si=cQcvMWWpIwwT-Mfp"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7oRxrFCtC2E?si=cQcvMWWpIwwT-Mfp"></iframe>
 </div>
 <h3>She said it's hard for Singaporeans not to litter</h3>
 <p>Singapore is renowned for our clean streets. This is largely due to our
@@ -58,7 +58,7 @@ goes about keeping our neighbourhoods clean.</p>
 <hr>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VoPGfQlxclg?si=idoVggAr5lJXCMkw"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VoPGfQlxclg?si=idoVggAr5lJXCMkw"></iframe>
 </div>
 <h3>He took over mantle of keeping Singapore clean from his father.</h3>
 <p>Sweeping void decks and washing the blocks are routine work for Dilbar,
@@ -68,13 +68,22 @@ action to understand what it takes to keep our estates clean.</p>
 <hr>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8wyHl3NXcpc?si=NUGV2UhkVL_mOwbq"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8wyHl3NXcpc?si=NUGV2UhkVL_mOwbq"></iframe>
 </div>
 <h3>She overcame her fear of cleaning toilets.</h3>
 <p>How do toilet cleaners withstand filthy environments to keep our toilets
 clean? Hear from Jinhua, a cleaner of 7 years, as she shares candidly about
 her fear of cleaning toilets and how she found strength to persevere amidst
 her fears.</p>
+<hr>
 <p></p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cIZzQlo_-wc?si=-PHEwIWG8FyXwf60"></iframe>
+</div>
+<h3>Serving with honesty and dignity.</h3>
+<p>Not all heroes wear capes, some push trolleys and handle trash bags before
+sunrise. Spend a moment with Eleas, the man behind the clean corridors
+and tidy estates we often take for granted, to find out what drives him
+to keep our streets clean.</p>
+<p>.</p>
 <p></p>
