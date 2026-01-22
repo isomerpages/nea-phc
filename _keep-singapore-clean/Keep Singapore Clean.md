@@ -31,7 +31,7 @@ updates.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FCjUHZhwRro?si=4ZCBbSiP_PKjZb7N"></iframe>
 </div>
-<h4>Keep Singapore Clean 2025 Launch - Event Highlights </h4>
+<h4>Keep Singapore Clean 2025 Launch - Event Highlights</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/syLGgUNKQE8?si=OH8E3fy1YN8MpARr"></iframe>
 </div>
