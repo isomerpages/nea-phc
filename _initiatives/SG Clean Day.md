@@ -16,10 +16,10 @@ at selected areas of participating housing estates, public parks, attractions,
 reservoirs, shopping malls, transport nodes for a day with the aim of showing
 what the amount of litter there will be when we go without cleaners. This
 also helps us appreciate our cleaners more.</p>
-<p>The upcoming bimonthly SG Clean Day will be held on Sunday, 23 Feb, 13
-Apr, 29 Jun, 31 Aug, 26 Oct and 28 Dec 2025, and new partners will be part
+<p>The upcoming bimonthly SG Clean Day will be held on Sunday, 22 Feb, 19
+Apr, 28 Jun, 30 Aug, 25 Oct and 27 Dec 2026, and new partners will be part
 of this initiative by ceasing cleaning at selected areas of public spaces.
-All 17 town councils, more than 300 public parks and park connectors under
+All 19 town councils, more than 300 public parks and park connectors under
 NParks, Public Utilities Board’s (PUB) Marina Barrage, ABC Water Sites
 and Reservoir Parks, the transport operators, Active SG Sport Centres,
 PA’s Integrated Hubs and community clubs<sup>*</sup>. Selected public spaces

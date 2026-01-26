@@ -27,8 +27,13 @@ on&nbsp;<a href="https://www.tiktok.com/@keepsgclean" rel="noopener noreferrer n
 <a href="http://facebook.com/keepsgclean" rel="noopener noreferrer nofollow" target="_blank">Facebook&nbsp;</a>and&nbsp;<a href="http://instagram.com/keepsgclean" rel="noopener noreferrer nofollow" target="_blank">Instagram&nbsp;</a>for regular
 updates.</p>
 <p></p>
+<h4>Keep Singapore Clean 2025 Campaign Film</h4>
 <div class="iframe-wrapper">
-<iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FCjUHZhwRro?si=4ZCBbSiP_PKjZb7N"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FCjUHZhwRro?si=4ZCBbSiP_PKjZb7N"></iframe>
+</div>
+<h4>Keep Singapore Clean 2025 Launch - Event Highlights</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/syLGgUNKQE8?si=OH8E3fy1YN8MpARr"></iframe>
 </div>
 <h2>Month-Long Community Activation</h2>
 <p><strong>What better way to show support for a clean Singapore than taking action to keep it clean? We encourage&nbsp;residents/public to organise litter-picking activities at your estates, recreational beaches or parks from 13 Apr to 11 May 2025.&nbsp;</strong>

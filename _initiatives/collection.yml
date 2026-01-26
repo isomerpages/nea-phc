@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Initiatives.md
-      - Bulky Waste to Wonder.md
       - CleanHood.md
       - CleanUp at Beaches and Parks.md
       - Corporate Action Network.md
