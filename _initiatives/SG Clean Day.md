@@ -6,7 +6,7 @@ description: ""
 ---
 <h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fb_cover_with_logo_v1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACCSS__SG_Clean_Day_2026_FB_Cover.jpg">
 </div>
 <h3>SG Clean Day</h3>
 <p>The Public Hygiene Council designated 25 April 2021 as the inaugural SG
