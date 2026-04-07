@@ -27,6 +27,6 @@ of cleanliness and hygiene.</p>
 <h2>COUNCIL MEMBERS - 8<sup>TH</sup> TERM</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHC8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8_Org_Chart.jpg">
 </div>
 <p></p>
