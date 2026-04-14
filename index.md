@@ -34,7 +34,7 @@ sections:
       button: Read more
       url: /about/
   - infopic:
-      title: Bulky Waste to Wonder Competition 2025
+      title: CleanHood
       subtitle: Initiatives & Programmes
       id: infopic
       description: The CleanHood programme aims to create a strong ecosystem of
