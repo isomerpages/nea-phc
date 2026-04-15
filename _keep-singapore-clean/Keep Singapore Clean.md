@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHC_Generic_KV_1640x720px.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHC_KV_02_R3.jpg">
 </div>
 <h2>Keep Singapore Clean</h2>
 <p>Every year, the Public Hygiene Council (PHC) holds our flagship initiative,
@@ -36,9 +36,9 @@ updates.</p>
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/syLGgUNKQE8?si=OH8E3fy1YN8MpARr"></iframe>
 </div>
 <h2>Month-Long Community Activation</h2>
-<p><strong>What better way to show support for a clean Singapore than taking action to keep it clean? We encourage&nbsp;residents/public to organise litter-picking activities at your estates, recreational beaches or parks from 13 Apr to 11 May 2025.&nbsp;</strong>
+<p><strong>What better way to show support for a clean Singapore than taking action to keep it clean? We encourage&nbsp;residents/public to organise litter-picking activities at your estates, recreational beaches or parks from 19 Apr to 14 May 2026.&nbsp;</strong>
 </p>
-<p>Click&nbsp;<a href="https://keepsgclean.com/registration_for_clean_ups/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<p>Click&nbsp;<a href="/beachcleanup/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 take action for a clean Singapore!</p>
 <p>Tips for Clean-Ups:</p>
 <ol data-tight="true" class="tight">
@@ -117,7 +117,7 @@ residential estates, schools, parks, hawker centres and etc., to conduct
 the clean-up activities.&nbsp;</p>
 <h4><strong>3. When are the activities held?</strong></h4>
 <p>Organisers are welcomed to conduct their activities on any day between
-13 Apr and 11 May 2025.</p>
+19 Apr and 14 May 2026.</p>
 <h4><strong>4. What if we are unable to commit any day in KCS month?</strong></h4>
 <p>Keeping Singapore Clean is a lifetime commitment and not just a one-day
 effort. We welcome groups and individuals to initiate their own programmes
