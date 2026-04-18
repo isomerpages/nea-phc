@@ -11,7 +11,7 @@ sections:
   - hero:
       title: Hero title
       subtitle: Hero subtitle
-      background: /images/2025_Web_Banner.jpg
+      background: /images/PHC_15_MAIN_HERO_IMAGE_2560PXW_FA_copy.jpg
       key_highlights:
         - title: News
           description: ""
