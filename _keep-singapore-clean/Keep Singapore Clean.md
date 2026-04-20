@@ -67,8 +67,7 @@ the activity.</p>
 <p></p>
 </li>
 </ul>
-<h4><strong>Keep Singapore Clean Launch Event</strong></h4>
-<h4><strong>Guest of Honour Speeches</strong></h4>
+<h4><strong>Keep Singapore Clean Launch Event Guest of Honour Speeches</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.mse.gov.sg/latest-news/launch-of-keep-singapore-clean-2025---ms-grace-fu-apr-2025/" rel="noopener nofollow" target="_blank">KSC 2025 Speech by Ms Grace Fu, Minister of Sustainability and the Environment</a>
