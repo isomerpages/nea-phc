@@ -27,13 +27,9 @@ on&nbsp;<a href="https://www.tiktok.com/@keepsgclean" rel="noopener noreferrer n
 <a href="http://facebook.com/keepsgclean" rel="noopener noreferrer nofollow" target="_blank">Facebook&nbsp;</a>and&nbsp;<a href="http://instagram.com/keepsgclean" rel="noopener noreferrer nofollow" target="_blank">Instagram&nbsp;</a>for regular
 updates.</p>
 <p></p>
-<h4>Keep Singapore Clean 2025 Campaign Film</h4>
+<h4>Keep Singapore Clean 2026 Campaign Film</h4>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FCjUHZhwRro?si=4ZCBbSiP_PKjZb7N"></iframe>
-</div>
-<h4>Keep Singapore Clean 2025 Launch - Event Highlights</h4>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/syLGgUNKQE8?si=OH8E3fy1YN8MpARr"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gVJiHwjYwqA?si=xHm60XAD5ndov9CN"></iframe>
 </div>
 <h2>Month-Long Community Activation</h2>
 <p><strong>What better way to show support for a clean Singapore than taking action to keep it clean? We encourage&nbsp;residents/public to organise litter-picking activities at your estates, recreational beaches or parks from 19 Apr to 14 May 2026.&nbsp;</strong>
@@ -64,14 +60,13 @@ the activity.</p>
 <li>
 <p><a href="https://www.youtube.com/watch?v=ERnvwXADRZY" rel="noopener noreferrer nofollow" target="_blank">Guide to Organise a Clean-Up Activity</a>
 </p>
-<p></p>
 </li>
 <li>
-<p><a href="/files/KSC_2025_Launch_Chairman_Welcome_Speech_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Keep Singapore Clean 2025 - Chairman Welcome Address</a>
+<p><a href="/files/KSC_2026_Welcome_Address__Chairman__Final.pdf" rel="noopener nofollow" target="_blank">Keep Singapore Clean 2026 - Chairman Welcome Address</a>
 </p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <h4><strong>Keep Singapore Clean Launch Event</strong></h4>
 <h4><strong>Guest of Honour Speeches</strong></h4>
 <ul data-tight="true" class="tight">
