@@ -70,7 +70,7 @@ the activity.</p>
 <h4><strong>Keep Singapore Clean Launch Event Guest of Honour Speeches</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="" rel="noopener nofollow" target="_blank">KSC 2026 Speech by Mr Chan Chun Sing, Coordinating Minister for Public Services and Minister for Defence</a>
+<p><a href="https://www.mindef.gov.sg/news-and-events/latest-releases/19apr26-speech/" rel="noopener nofollow" target="_blank">KSC 2026 Speech by Mr Chan Chun Sing, Coordinating Minister for Public Services and Minister for Defence</a>
 </p>
 </li>
 <li>
