@@ -70,7 +70,7 @@ the activity.</p>
 <h4><strong>Keep Singapore Clean Launch Event Guest of Honour Speeches</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.mse.gov.sg/latest-news/launch-of-keep-singapore-clean-2025---ms-grace-fu-apr-2025/" rel="noopener nofollow" target="_blank">KSC 2026 Speech by Mr Chan Chun Sing, Coordinating Minister for Public Services and Minister for Defence</a>
+<p><a href="" rel="noopener nofollow" target="_blank">KSC 2026 Speech by Mr Chan Chun Sing, Coordinating Minister for Public Services and Minister for Defence</a>
 </p>
 </li>
 <li>
