@@ -22,7 +22,7 @@ toilets clean and dry.</p>
 <p>The PHC has engaged agency partners to systematically develop and implement
 strategic communications campaigns on various platforms, including delivering
 public messages through mainstream news media.&nbsp; Please refer to our
-<a href="https://www.youtube.com/publichygienecouncil" rel="noopener noreferrer nofollow" target="_blank">YouTube channel</a>&nbsp;and follow us on Social Media at @KeepSGClean
+<a href="https://www.youtube.com/publichygienecouncil" rel="noopener noreferrer nofollow" target="_blank">YouTube channel</a>&nbsp;and follow us on social media at @KeepSGClean
 on&nbsp;<a href="https://www.tiktok.com/@keepsgclean" rel="noopener noreferrer nofollow" target="_blank">TikTok</a>,&nbsp;
 <a href="http://facebook.com/keepsgclean" rel="noopener noreferrer nofollow" target="_blank">Facebook&nbsp;</a>and&nbsp;<a href="http://instagram.com/keepsgclean" rel="noopener noreferrer nofollow" target="_blank">Instagram&nbsp;</a>for regular
 updates.</p>
