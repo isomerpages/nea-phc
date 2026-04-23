@@ -31,6 +31,9 @@ updates.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gVJiHwjYwqA?si=xHm60XAD5ndov9CN"></iframe>
 </div>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QZaC5PxLweg?si=B-VSf5Srh_kSzK0A"></iframe>
+</div>
 <h2>Month-Long Community Activation</h2>
 <p><strong>What better way to show support for a clean Singapore than taking action to keep it clean? We encourage&nbsp;residents/public to organise litter-picking activities at your estates, recreational beaches or parks from 19 Apr to 14 May 2026.&nbsp;</strong>
 </p>
