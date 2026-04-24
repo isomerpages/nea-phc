@@ -42,7 +42,7 @@ borrow your litter-picking tools.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Coney_Island_Park_Map_New.pdf" rel="noopener nofollow" target="_blank">Coney Island Park</a>
+<p><a href="/files/Coney_Island_Park_Map_New.pdf" rel="noopener nofollow" target="_blank">Coney Island Park </a>
 </p>
 </li>
 <li>
