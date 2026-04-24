@@ -82,7 +82,7 @@ to enable greater participation and effectiveness.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASEZ_WAO_LOGO__2_.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ASEZ_WAO_LOGO__2_.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -126,7 +126,7 @@ to enable greater participation and effectiveness.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSNDP_LOGO.gif">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/DSNDP_LOGO.gif">
 </div>
 </td>
 <td rowspan="1" colspan="1">
