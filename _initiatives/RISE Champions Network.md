@@ -296,6 +296,12 @@ to enable greater participation and effectiveness.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Seafarers_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/NUS_SAVE.jpg">
 </div>
 </td>
@@ -311,14 +317,12 @@ to enable greater participation and effectiveness.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/OPP.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/One_Planet.jpg">
-</div>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://nusseafarers.github.io/" rel="noopener nofollow" target="_blank">NUS Seafarers</a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://nussavewrites.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">NUS SAVE</a>
 </p>
@@ -331,12 +335,14 @@ to enable greater participation and effectiveness.</p>
 <p><a href="http://www.oceanpurposeproject.com/" rel="noopener noreferrer nofollow" target="_blank">Ocean Purpose Project</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/groups/939651983034264/" rel="noopener noreferrer nofollow" target="_blank">One Planet (Singapore)</a>
-</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/One_Planet.jpg">
+</div>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -355,14 +361,12 @@ to enable greater participation and effectiveness.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Plastic Lite" src="/images/Initiatives/Rise/Plastic_Lite.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pulau Ubin Cleanup" src="/images/Initiatives/Rise/Pulau_Ubin_Cleanup.jpg">
-</div>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/groups/939651983034264/" rel="noopener noreferrer nofollow" target="_blank">One Planet (Singapore)</a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="http://www.instagram.com/oursingaporereefs/" rel="noopener noreferrer nofollow" target="_blank">Our Singapore Reefs</a>
 </p>
@@ -375,12 +379,14 @@ to enable greater participation and effectiveness.</p>
 <p><a href="https://www.instagram.com/plasticlitesg/" rel="noopener noreferrer nofollow" target="_blank">Plastic-Lite Singapore</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/pulauubincleanup" rel="noopener noreferrer nofollow" target="_blank">Pulau Ubin Cleanup</a>
-</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pulau Ubin Cleanup" src="/images/Initiatives/Rise/Pulau_Ubin_Cleanup.jpg">
+</div>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -399,14 +405,12 @@ to enable greater participation and effectiveness.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Seastainable  Co" src="/images/Initiatives/Rise/Seastainable.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Secondsguru" src="/images/Initiatives/Rise/Secondsguru.jpg">
-</div>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/pulauubincleanup" rel="noopener noreferrer nofollow" target="_blank">Pulau Ubin Cleanup</a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.toilet.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Restroom Association (Singapore)</a>
 </p>
@@ -419,12 +423,14 @@ to enable greater participation and effectiveness.</p>
 <p><a href="https://www.seastainable.co/" rel="noopener noreferrer nofollow" target="_blank">Seastainable Co.</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.instagram.com/secondsguru" rel="noopener noreferrer nofollow" target="_blank">Secondsguru</a>
-</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Secondsguru" src="/images/Initiatives/Rise/Secondsguru.jpg">
+</div>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -443,14 +449,12 @@ to enable greater participation and effectiveness.</p>
 <img style="width: 100%" height="auto" width="100%" alt="SG Beach Warriors" src="/images/Initiatives/Rise/SG_Beach_Warriors.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SG Glove Project" src="/images/Initiatives/Rise/SG_Glove_Project.jpg">
-</div>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/secondsguru" rel="noopener noreferrer nofollow" target="_blank">Secondsguru</a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="http://www.facebook.com/sevencleanseas" rel="noopener noreferrer nofollow" target="_blank">Seven Clean Seas</a>
 </p>
@@ -463,12 +467,14 @@ to enable greater participation and effectiveness.</p>
 <p><a href="https://www.facebook.com/groups/sgbeachwarriors/" rel="noopener noreferrer nofollow" target="_blank">SG Beach Warriors</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/groups/yellowgloveproject/" rel="noopener noreferrer nofollow" target="_blank">Singapore Glove Project</a>
-</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SG Glove Project" src="/images/Initiatives/Rise/SG_Glove_Project.jpg">
+</div>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -487,14 +493,12 @@ to enable greater participation and effectiveness.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Stridy" src="/images/Initiatives/Rise/Stridy.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SUTD Greenprint" src="/images/Initiatives/Rise/SUTD_Greenprint.jpg">
-</div>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/groups/yellowgloveproject/" rel="noopener noreferrer nofollow" target="_blank">Singapore Glove Project</a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.kindness.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Kindness Movement</a>
 </p>
@@ -507,12 +511,14 @@ to enable greater participation and effectiveness.</p>
 <p><a href="https://stridy.com/" rel="noopener noreferrer nofollow" target="_blank">Stridy</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://opensutd.org/greenprint-sub/index_html/" rel="noopener noreferrer nofollow" target="_blank">SUTD Greenprint</a>
-</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SUTD Greenprint" src="/images/Initiatives/Rise/SUTD_Greenprint.jpg">
+</div>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -531,14 +537,12 @@ to enable greater participation and effectiveness.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Small Change" src="/images/Initiatives/Rise/Small_Change.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TP Sustainability IG" src="/images/Initiatives/Rise/TP_Sustainability_Interest_Group.png">
-</div>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://opensutd.org/greenprint-sub/index_html/" rel="noopener noreferrer nofollow" target="_blank">SUTD Greenprint</a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="http://www.instagram.com/sailorsweeps/" rel="noopener noreferrer nofollow" target="_blank">Sailor Sweeps</a>
 </p>
@@ -551,12 +555,14 @@ to enable greater participation and effectiveness.</p>
 <p><a href="http://www.smallchangesg.com/" rel="noopener noreferrer nofollow" target="_blank">Small Change</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.instagram.com/tpsustig/" rel="noopener noreferrer nofollow" target="_blank">TP Sustainability Interest Group</a>
-</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TP Sustainability IG" src="/images/Initiatives/Rise/TP_Sustainability_Interest_Group.png">
+</div>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -575,14 +581,12 @@ to enable greater participation and effectiveness.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Waterways Watch Society" src="/images/Initiatives/Rise/WWS.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Young Nautilus" src="/images/Initiatives/Rise/Young_Nautilus.jpg">
-</div>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/tpsustig/" rel="noopener noreferrer nofollow" target="_blank">TP Sustainability Interest Group</a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.facebook.com/TrashHeroSingapore" rel="noopener noreferrer nofollow" target="_blank">Trash Hero Singapore</a>
 </p>
@@ -595,12 +599,14 @@ to enable greater participation and effectiveness.</p>
 <p><a href="https://www.wws.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Waterways Watch Society</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://youngnautilus.com/" rel="noopener noreferrer nofollow" target="_blank">Young Nautilus</a>
-</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Young Nautilus" src="/images/Initiatives/Rise/Young_Nautilus.jpg">
+</div>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -616,11 +622,12 @@ to enable greater participation and effectiveness.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://youngnautilus.com/" rel="noopener noreferrer nofollow" target="_blank">Young Nautilus</a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://youthcorps.nyc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Youth Corps Singapore</a>
 </p>
@@ -628,9 +635,6 @@ to enable greater participation and effectiveness.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.zerowastesg.com/" rel="noopener noreferrer nofollow" target="_blank">Zero Waste Singapore</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
