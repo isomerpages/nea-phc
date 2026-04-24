@@ -82,7 +82,7 @@ to enable greater participation and effectiveness.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Initiatives/Rise/ASEZ_SG.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASEZ_WAO_LOGO__2_.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -104,7 +104,7 @@ to enable greater participation and effectiveness.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://asez.org/" rel="noopener noreferrer nofollow" target="_blank">ASEZ</a>
+<p><a href="https://asez.org/" rel="noopener noreferrer nofollow" target="_blank">ASEZWAO</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
