@@ -647,7 +647,7 @@ to enable greater participation and effectiveness.</p>
 </tr>
 </tbody>
 </table>
-<p><a href="/files/PHC_Factsheet_R_I_S_E_Champions_Network_June_2025__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Factsheet</a>
-</p>
-<hr>
 <p></p>
+<hr>
+<p><a href="/files/PHC_Factsheet_R_I_S_E_2026.pdf" rel="noopener nofollow" target="_blank">R.I.S.E Champions Network Factsheet</a>
+</p>
