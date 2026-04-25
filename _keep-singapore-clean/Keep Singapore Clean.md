@@ -22,7 +22,7 @@ toilets clean and dry.</p>
 <p>The PHC has engaged agency partners to systematically develop and implement
 strategic communications campaigns on various platforms, including delivering
 public messages through mainstream news media.&nbsp; Please refer to our
-<a href="https://www.youtube.com/publichygienecouncil" rel="noopener noreferrer nofollow" target="_blank">YouTube channel</a>&nbsp;and follow us on Social Media at @KeepSGClean
+<a href="https://www.youtube.com/publichygienecouncil" rel="noopener noreferrer nofollow" target="_blank">YouTube channel</a>&nbsp;and follow us on social media at @KeepSGClean
 on&nbsp;<a href="https://www.tiktok.com/@keepsgclean" rel="noopener noreferrer nofollow" target="_blank">TikTok</a>,&nbsp;
 <a href="http://facebook.com/keepsgclean" rel="noopener noreferrer nofollow" target="_blank">Facebook&nbsp;</a>and&nbsp;<a href="http://instagram.com/keepsgclean" rel="noopener noreferrer nofollow" target="_blank">Instagram&nbsp;</a>for regular
 updates.</p>
@@ -30,6 +30,9 @@ updates.</p>
 <h4>Keep Singapore Clean 2026 Campaign Film</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gVJiHwjYwqA?si=xHm60XAD5ndov9CN"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QZaC5PxLweg?si=B-VSf5Srh_kSzK0A"></iframe>
 </div>
 <h2>Month-Long Community Activation</h2>
 <p><strong>What better way to show support for a clean Singapore than taking action to keep it clean? We encourage&nbsp;residents/public to organise litter-picking activities at your estates, recreational beaches or parks from 19 Apr to 14 May 2026.&nbsp;</strong>
@@ -67,9 +70,12 @@ the activity.</p>
 <p></p>
 </li>
 </ul>
-<h4><strong>Keep Singapore Clean Launch Event</strong></h4>
-<h4><strong>Guest of Honour Speeches</strong></h4>
+<h4><strong>Keep Singapore Clean Launch Event Guest of Honour Speeches</strong></h4>
 <ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.mindef.gov.sg/news-and-events/latest-releases/19apr26-speech/" rel="noopener nofollow" target="_blank">KSC 2026 Speech by Mr Chan Chun Sing, Coordinating Minister for Public Services and Minister for Defence</a>
+</p>
+</li>
 <li>
 <p><a href="https://www.mse.gov.sg/latest-news/launch-of-keep-singapore-clean-2025---ms-grace-fu-apr-2025/" rel="noopener nofollow" target="_blank">KSC 2025 Speech by Ms Grace Fu, Minister of Sustainability and the Environment</a>
 </p>
