@@ -1,6 +1,5 @@
 ---
-title: Public Hygiene Council (PHC)’s Keep Singapore Clean Campaign scales up
-  following 15 years of impact
+title: PHC’s Keep Singapore Clean Campaign scales up following 15 years of impact
 date: 2026-04-19
 layout: file
 description: ""
