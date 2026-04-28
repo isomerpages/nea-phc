@@ -105,7 +105,7 @@ to enable greater participation and effectiveness.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://asez.org/" rel="noopener noreferrer nofollow" target="_blank">ASEZ WAO</a>
+<p><a href="https://asezwao.org/" rel="noopener noreferrer nofollow" target="_blank">ASEZ WAO</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
