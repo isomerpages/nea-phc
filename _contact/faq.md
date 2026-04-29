@@ -15,7 +15,7 @@ Asked Questions (FAQs) regarding the Public Hygiene Council (PHC).
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Website aims to inspire everyone in Singapore to promote values of picking
 up after ourselves, disposing of waste in bins and leaving our environment
-in a state we can be proud of, via the Keep Singapore Clean Movement.</p>
+in a state we can be proud of, via the Keep Singapore Clean movement.</p>
 </div>
 </details>
 <details class="isomer-details">
