@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Sitemap.md
-      - faq.md
+      - Frequently Asked Questions.md
       - Terms of Use.md
