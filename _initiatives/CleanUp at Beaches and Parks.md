@@ -28,47 +28,8 @@ help you organise your first clean-up!</p>
 <p>Trash bags (reuse grocery bags)</p>
 </li>
 </ol>
-<h3>Self Organised CleanUp</h3>
-<p><strong>Suggested steps for the clean-up activity:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Step 1: </strong>Identify when and where you would like to conduct
-your clean-up activity.</p>
-</li>
-<li>
-<p><strong>Step 2: </strong>Invite your friends and family members to join
-you.</p>
-</li>
-<li>
-<p><strong>Step 3:</strong> Get ready tongs and trash bags. Alternatively,
-you may wish to borrow litter-picking tools from a <a href="https://www.publichygienecouncil.sg/resources/cleanpod/" rel="noopener noreferrer nofollow" target="_blank"><u>CleanPod</u></a> near
-you.</p>
-</li>
-<li>
-<p><strong>Step 4:</strong> Before the clean-up, brief your friends/family/participants
-on the dos and don'ts, and safety guidelines to note for the activity.
-Remind them to stay hydrated.</p>
-</li>
-<li>
-<p><strong>Step 4: </strong>After the clean-up, take a group photo with the
-trash collected. Post the photo on your social media account and hashtag
-#KeepSGClean.</p>
-</li>
-<li>
-<p><strong>Step 5: </strong>Dispose of all trash collected in the available
-bins nearest to you.</p>
-</li>
-</ul>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ERnvwXADRZY?si=E6zA_dmJ9mDPXxeq"></iframe>
-</div>
 <p>Alternatively, you may also make use of our <a href="https://www.publichygienecouncil.sg/resources/cleanpod" rel="noopener noreferrer nofollow" target="_blank">CleanPods</a>&nbsp;to
 borrow your litter-picking tools.</p>
-<p><strong>Remember: Safety First! Watch out for inclement weather or possible dangerous items on the ground like sharp objects. Stop the activity if you are not feeling well.</strong>
-</p>
-<p><strong>Thank you for doing your part and helping to keep Singapore clean!</strong>
-</p>
 <hr>
 <h3>Locations</h3>
 <ul data-tight="true" class="tight">
