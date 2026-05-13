@@ -5,17 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p>Everyone has a part to play in keeping Singapore clean, and taking action
-through clean-ups is a great way to make a positive impact on our living
-environment. Here's a simple guide to help you organise your first clean-up!</p>
+through clean-ups is a great way to start make a positive impact to our
+living environment.</p>
 <p>Here's a simple <a href="/files/briefing_for_participants__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a> to
 help you organise your first clean-up!</p>
-<p><strong>Suggested steps for the self-clean up activity:</strong>
-</p>
-<p>Here's a suggested <a href="/files/self_clean_up_guide.pdf" rel="noopener nofollow" target="_blank">guide</a> for
-self-cleanup groups!</p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ERnvwXADRZY?si=E6zA_dmJ9mDPXxeq"></iframe>
-</div>
 <p><strong>We strongly encourage you to get ready these items for a clean-up:</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -158,5 +151,3 @@ No NEA / PHC personnel will be present to facilitate the clean-up.&nbsp;&nbsp;</
 nearest available <a href="/resources/cleanpod" rel="noopener noreferrer nofollow" target="_blank">CleanPod</a>&nbsp;for loan of clean-up tools!
 To access the CleanPod, email us at&nbsp;<a href="mailto:ask@publichygienecouncil.sg" rel="noopener noreferrer nofollow" target="_blank">ask@publichygienecouncil.sg</a>&nbsp;7
 - 10 days before your clean-up date with your booking reference number.&nbsp;</p>
-<p><strong>Remember: Safety First! Watch out for inclement weather or possible dangerous items on the ground like sharp objects. Stop the activity if you are not feeling well.</strong>
-</p>
