@@ -38,7 +38,7 @@ borrow your litter-picking tools.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Changi_Beach_Park_Area_A.pdf" rel="noopener nofollow" target="_blank">Changi Beach Park </a>
+<p><a href="/files/Changi_Beach_Park_Area_A.pdf" rel="noopener nofollow" target="_blank">Changi Beach Park</a>
 </p>
 </li>
 <li>
@@ -74,7 +74,7 @@ borrow your litter-picking tools.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Instruction_to_CleanPod_Pasir_Ris_Area_1_no_pin.pdf" rel="noopener nofollow" target="_blank">Pasir Ris Beach Park (Area 1)</a>
+<p><a href="/files/Changi_Beach_Park_Area_A.pdf" rel="noopener nofollow" target="_blank">Pasir Ris Beach Park (Area A)</a>
 </p>
 </li>
 <li>
