@@ -38,7 +38,7 @@ borrow your litter-picking tools.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Changi_Beach_Park_Area_A.pdf" rel="noopener nofollow" target="_blank">Changi Beach Park_Area A</a>
+<p><a href="/files/Changi_Beach_Park_Area_A.pdf" rel="noopener nofollow" target="_blank">Changi Beach Park</a>
 </p>
 </li>
 <li>
