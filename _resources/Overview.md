@@ -122,7 +122,7 @@ learnt and the areas of improvement.</p>
 <summary>Colouring Material for Children</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h3>Keep SG Clean Supermons Colouring Materials</h3>
-<p><a href="/files/Resources/KeepSGClean_Supermons_Colouring_Materials.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> these
+<p><a href="/files/PHC_Colouring_Pages.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> these
 colouring materials to reinforce good public hygiene habits while keeping
 children entertained.</p>
 <div class="isomer-image-wrapper">
