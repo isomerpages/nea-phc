@@ -2,6 +2,7 @@ collections:
   initiatives:
     output: true
     order:
+      - "Make The Cut: Keep Singapore Clean Video Production Competition 2026.md"
       - Initiatives.md
       - CleanHood.md
       - CleanUp at Beaches and Parks.md
