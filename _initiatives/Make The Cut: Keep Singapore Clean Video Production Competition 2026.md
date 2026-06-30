@@ -24,7 +24,7 @@ collective responsibility for the communities and spaces we share.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Info_Deck_page_2.png">
 </div>
-<p><strong><em><a href="https://go.gov.sg/mtc-rsvp" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mtc-rsvp </a></em></strong>
+<p><strong><em><a href="https://go.gov.sg/mtc-rsvp" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mtc-rsvp</a></em></strong>
 </p>
 <p><strong><em><a href="https://go.gov.sg/mtckscsub" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mtckscsub</a></em></strong>
 </p>
