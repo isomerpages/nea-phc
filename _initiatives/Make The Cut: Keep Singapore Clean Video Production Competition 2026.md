@@ -28,7 +28,7 @@ collective responsibility for the communities and spaces we share.</p>
 </p>
 <p><strong><em><a href="https://go.gov.sg/mtckscsub" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mtckscsub</a></em></strong>
 </p>
-<p><strong><em>insert the  link after cutting the picture </em></strong>
+<p><strong><em>insert the link after cutting the picture</em></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
