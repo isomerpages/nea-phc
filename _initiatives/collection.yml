@@ -2,11 +2,11 @@ collections:
   initiatives:
     output: true
     order:
-      - "Make The Cut: Keep Singapore Clean Video Production Competition 2026.md"
       - Initiatives.md
       - CleanHood.md
       - CleanUp at Beaches and Parks.md
       - Corporate Action Network.md
+      - "Make The Cut: Keep Singapore Clean Video Production Competition 2026.md"
       - Neighbourhood Toilets Community Group.md
       - RISE Champions Network.md
       - Self Organised CleanUp.md

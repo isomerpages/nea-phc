@@ -24,10 +24,6 @@ the Keep Singapore Clean Movement:&nbsp;</p>
 </p>
 </li>
 <li>
-<p><a href="/initiatives/story-writing-competition" rel="noopener noreferrer nofollow" target="_blank">KeepSGClean Story Writing Competition</a>
-</p>
-</li>
-<li>
 <p><a href="/ntcg/" rel="noopener noreferrer nofollow" target="_blank">Neighbourhood Toilets Community Group</a>
 </p>
 </li>
