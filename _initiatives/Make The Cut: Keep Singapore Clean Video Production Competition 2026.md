@@ -24,14 +24,10 @@ collective responsibility for the communities and spaces we share.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Info_Deck_page_2.png">
 </div>
-<p><strong><em><a href="https://go.gov.sg/mtc-rsvp" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mtc-rsvp</a></em></strong>
-</p>
-<p><strong><em><a href="https://go.gov.sg/mtckscsub" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mtckscsub</a></em></strong>
-</p>
-<p><strong><em>insert the link after cutting the picture</em></strong>
-</p>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/mtc-rsvp"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/image__2_.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/mtckscsub"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/image__3_.png"></a>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eDM_for_email_1.png">
-</div>
-<p>Click here to learn more.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
