@@ -25,9 +25,10 @@ collective responsibility for the communities and spaces we share</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image__2__N.png">
 </div>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/mtc-rsvp"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Video_production_workshop_new.png"></a>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/mtckscsub"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Submission_of_entries_new.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/mtc-rsvp"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHC_vid_pro_1.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/mtckscsub"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHC_vid_pro_2.png"></a>
 <p></p>
-<h4>For more details, please refer to our Information Deck: <a href="/files/Make_the_Cut_Keep_Singapore_Clean_Video_Production_Competition_2026_Info_Deck___Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here!</a></h4>
+<p></p>
+<h4>For more details, please refer to our Information Deck: <a href="/files/Vid_pro_pdf.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here!</a></h4>
 <p></p>
 <p></p>
