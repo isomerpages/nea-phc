@@ -21,6 +21,9 @@ choices made by everyone, not just a few. This spirit echoes the "We First"
 vision — a call for Singaporeans to move beyond self-interest and embrace
 collective responsibility for the communities and spaces we share</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_4121.jpg">
+</div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
