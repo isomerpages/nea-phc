@@ -31,6 +31,6 @@ collective responsibility for the communities and spaces we share</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/vid_pro_21_july.png">
 </div>
 <p></p>
-<h4>For more details, please refer to our Information Deck: <a href="/files/Vid_pro_pdf.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here!</a></h4>
+<h4>For more details, please refer to our Information Deck: <a href="/files/Copy_of_Make_the_Cut_Keep_Singapore_Clean_Video_Production_Competition_2026_Info_Deck.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here!</a></h4>
 <p></p>
 <p></p>
