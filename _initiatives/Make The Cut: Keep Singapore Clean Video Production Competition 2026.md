@@ -8,9 +8,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image__1_.png">
 </div>
-<p>Make the Cut: Keep Singapore Clean Video Production Competition is is
-open to school students in Singapore (aged 13 to 17). Participants may
-join as an individual or as a team of up to 3 members from the same school.
+<p>Make the Cut: Keep Singapore Clean Video Production Competition is open
+to school students in Singapore (aged 13 to 17). Participants may join
+as an individual or as a team of up to 3 members from the same school.
 Think you have what it takes to tell a compelling story through film? This
 is your chance to showcase your creativity and be part of something bigger!</p>
 <p>2026 marks a milestone year — the 15th anniversary of the Public Hygiene
