@@ -25,11 +25,9 @@ community efforts to improve the cleanliness and hygiene standards in Singapore.
 It also complements government's efforts in maintaining high standards
 of cleanliness and hygiene.</p>
 <h2>COUNCIL MEMBERS - 8<sup>TH</sup> TERM</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8_Org_Chart.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1.jpg">
 </div>
-<p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/p8k1pmGYkB4?si=coXS69CcRVdCDCAE"></iframe>
 </div>
